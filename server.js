@@ -16,8 +16,7 @@ app.use(cors()); // Allow requests from other origins (e.g., your frontend)
 
 // PostgreSQL connection pool
 const pool = new Pool({
-  connectionString:
-    'postgres://u1rmuqv2nunvcj:pddd5b9acf991ada9193d7722afc79911559cefaddcf597755fe5670b969c2b59@ec2-108-129-53-29.eu-west-1.compute.amazonaws.com:5432/d63ci43n7mebht', // Add your Heroku DB URI here
+  connectionString: process.env.DATABASE_URL, // Add your Heroku DB URI here
   ssl: {
     rejectUnauthorized: false, // This is required for Heroku's hosted PostgreSQL
   },
