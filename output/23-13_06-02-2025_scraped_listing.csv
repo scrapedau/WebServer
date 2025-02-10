@@ -1,0 +1,16 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+,,$1.25m,"590 Litchfield Park Road,",BATCHELOR,NT,0845,0,0,0,0,,"Picture of 590 Litchfield Park Road, BATCHELOR NT 0845",Rural
+,,"offers over $375,000","499 Cheeney Road,",BATCHELOR,NT,0845,2,1,8,8ha,,"Picture of 499 Cheeney Road, BATCHELOR NT 0845",House
+,,"$155,000","542 & 32 Cheeney - Nolan Road,",BATCHELOR,NT,0845,0,0,0,0,,"Picture of 542 & 32 Cheeney - Nolan Road, BATCHELOR NT 0845",Vacant land
+,,"$280,000","29 Mardango Crescent,",BATCHELOR,NT,0845,5,1,4,"1,810m²",,Piening Property Sales,House
+,,"$495,000 ONO","16 Mardango Street,",BATCHELOR,NT,0845,5,2,4,"1,950m²",,Acacia Realty,House
+,,"$150,000","1432/945 Miles Road,",BATCHELOR,NT,0845,0,0,0,0,,Acacia Realty,Vacant land
+,,"$245,000","26 Kirra Crescent,",BATCHELOR,NT,0845,4,2,2,"1,730m²",,Acacia Realty,House
+,,"$199,000","Lot 12 Hundred of Goyder,",BATCHELOR,NT,0845,0,0,0,0,,@realty,Rural
+,,"$195,000 ONO","1780 Coach Road,",BATCHELOR,NT,0845,0,0,0,0,,Acacia Realty,Vacant land
+,,Open to Offers,"195 Crater Lake Road,",BATCHELOR,NT,0845,0,0,0,0,,Acacia Realty,Rural
+,,POA,"Lot 1268 Coach Road,",BATCHELOR,NT,0845,0,0,0,0,,Acacia Realty,Rural
+,,Offers Wanted,"1680 Coach Road,",BATCHELOR,NT,0845,0,0,0,0,,Acacia Realty,Acreage / Semi-rural
+,,"$130,000","265 Litchfield Park Road,",RUM JUNGLE,NT,0845,0,0,0,0,SOLD,"Picture of 265 Litchfield Park Road, RUM JUNGLE NT 0845",Vacant land
+,,"$285,000","6 Turana Street,",BATCHELOR,NT,0845,3,1,2,"1,110m²",SOLD,"Picture of 6 Turana Street, BATCHELOR NT 0845",House
+,,"$175,000","59 Kirra Crescent,",BATCHELOR,NT,0845,1,1,2,"1,080m²",SOLD,"Picture of 59 Kirra Crescent, BATCHELOR NT 0845",House

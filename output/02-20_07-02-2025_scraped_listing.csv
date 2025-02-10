@@ -1,0 +1,22 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Louise Mitchell,BresicWhitney Inner West,"Guide $1,600,000","8 John Street,",TEMPE,NSW,2044,2,1,0,0,NEW,Louise Mitchell,House
+Adrian Tsavalas,Adrian William Real Estate,"Guide $1,550,000","51 Lackey Street,",ST PETERS,NSW,2044,3,1,1,94m²,NEW,Adrian Tsavalas,House
+Tina O'Connor,Ray White Annandale,Auction | Tina O'Connor,"55 Grove Street,",ST PETERS,NSW,2044,3,3,2,184m²,NEW,Tina O'Connor,House
+George Kambouroglou,Stone Real Estate Rockdale,FOR SALE | GEORGE KAMBOUROGLOU,"45 May Street,",ST PETERS,NSW,2044,3,2,1,159m²,NEW,George Kambouroglou,House
+Adrian Tsavalas,Adrian William Real Estate,"Guide $1,600,000","72B Sutherland Street,",ST PETERS,NSW,2044,3,2,0,125m²,,Adrian Tsavalas,House
+Timothy Gorring,Ray White Erskineville | Alexandria | Glebe | Surry Hills,"Auction | Buyers Guide $1,700,000","11 Sutherland Street,",ST PETERS,NSW,2044,4,2,0,148m²,,Timothy Gorring,House
+Bryan Mahlberg,Highland Inner West,Contact Agent,"2 Yelverton Street,",SYDENHAM,NSW,2044,3,1,1,227m²,UPDATED,Bryan Mahlberg,House
+Aaron Papadimatos,The Agency Inner West – Marrickville/Dulwich Hill,Contact Agent,"23 Way Street,",TEMPE,NSW,2044,3,1,0,0,,Aaron Papadimatos,House
+Adrian Tsavalas,Adrian William Real Estate,"Guide $1,475,000","66 Station Street,",TEMPE,NSW,2044,4,2,0,275m²,,Adrian Tsavalas,House
+Timothy Gorring,Ray White Erskineville | Alexandria | Glebe | Surry Hills,Auction,"63 Park Road,",SYDENHAM,NSW,2044,4,2,4,306m²,,Timothy Gorring,House
+Trent Tarbey,McGrath Sans Souci,Price on request,"27 Hillcrest Street,",TEMPE,NSW,2044,2,1,4,366m²,AUCTION SAT 8 FEB,Trent Tarbey,House
+William Bai,Sydney Realty Group Pty Ltd,good value must see,"10/44-56 May Street,",ST PETERS,NSW,2044,3,3,1,0,,William Bai,Apartment / Unit / Flat
+Louise Mitchell,BresicWhitney Inner West,"Guide $1,400,000","541 Princes Highway,",TEMPE,NSW,2044,3,2,0,208m²,AUCTION WED 12 FEB,Louise Mitchell,House
+,,Enquire Now,"14 Crown Street,",ST PETERS,NSW,2044,3,2,1,0,,Colliers Residential,Terrace
+,,Enquire Now,"21 Barwon Park Road,",ST PETERS,NSW,2044,3,2,2,0,,Colliers Residential,Terrace
+,,"CONTACT AGENT FOR SALE FROM $1,600,000","4-18 Unwins Bridge Road,",ST PETERS,NSW,2044,3,2,2,0,,Firmstone Pappas Properties,Terrace
+,,Guide price $1.55m to $1.65m,"111 Samuel Street,",TEMPE,NSW,2044,2,1,0,304m²,,Minus The Agent,House
+,,Contact Agent,"24A Quarry Street,",TEMPE,NSW,2044,4,3,2,0,,Plus Agency Prestige,House
+,,"$1,365,000","27 Campbell Street,",ST PETERS,NSW,2044,3,2,0,144m²,SOLD,"Picture of 27 Campbell Street, ST PETERS NSW 2044",House
+,,"$950,000","60/80 Princes Highway,",ST PETERS,NSW,2044,2,2,1,0,SOLD,"Picture of 60/80 Princes Highway, ST PETERS NSW 2044",Apartment / Unit / Flat
+,,"$1,865,000","77 Sutherland Street,",ST PETERS,NSW,2044,3,2,2,217m²,SOLD,"Picture of 77 Sutherland Street, ST PETERS NSW 2044",House

@@ -1,0 +1,60 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+John Wills,Wills Property,Contact Agent,"105 Belmont Street,",ALEXANDRIA,NSW,2015,11,5,5,460m²,NEW,John Wills,Block of units
+Hayden Richards,Ray White Touma Taylor,"Buyers Guide - $2,000,000","6/100 Buckland Street,",ALEXANDRIA,NSW,2015,4,2,2,220m²,NEW,Hayden Richards,House
+Brad Gillespie,The Agency,Contact Agent,"23 Beaconsfield Street,",BEACONSFIELD,NSW,2015,4,3,2,178m²,NEW,Brad Gillespie,Terrace
+Jack Wimpey,The Agency,"Auction Guide $1,600,000","BG05/163-173 Mcevoy Street,",ALEXANDRIA,NSW,2015,3,2,1,0,,Jack Wimpey,Apartment / Unit / Flat
+Brad Gillespie,The Agency,"Auction Guide $650,000","G02/63-85 Victoria Street,",BEACONSFIELD,NSW,2015,1,1,0,0,,Brad Gillespie,Apartment / Unit / Flat
+Brad Gillespie,The Agency,"Auction Guide $1,150,000","31/15-17 Fountain Street,",ALEXANDRIA,NSW,2015,2,2,1,0,,Brad Gillespie,Apartment / Unit / Flat
+James Natoli,Ray White Erskineville | Alexandria | Glebe | Surry Hills,"Auction Guide $700,000","G03/123-129 Wyndham Street,",ALEXANDRIA,NSW,2015,1,1,1,0,UPDATED,James Natoli,Apartment / Unit / Flat
+Brad Gillespie,The Agency,"For Sale $2,200,000","304/2 Mitchell Road,",ALEXANDRIA,NSW,2015,3,2,2,0,UPDATED,Brad Gillespie,Apartment / Unit / Flat
+Danil Saveliev,Adrian William Real Estate,"Guide $1,600,000","102A/39 Ralph Street,",ALEXANDRIA,NSW,2015,3,2,2,178m²,,Danil Saveliev,Apartment / Unit / Flat
+Brad Gillespie,The Agency,"Auction Guide $950,000","8/196-202 Wyndham Street,",ALEXANDRIA,NSW,2015,2,2,1,0,,Brad Gillespie,Apartment / Unit / Flat
+Brad Gillespie,The Agency,"For Sale $2,600,000","288 Mitchell Road,",ALEXANDRIA,NSW,2015,4,3,1,148m²,,Brad Gillespie,Terrace
+Matt Marano,Oxford Agency,Auction,"502a/39 Ralph Street,",ALEXANDRIA,NSW,2015,1,1,1,0,,Matt Marano,Apartment / Unit / Flat
+Josh Ellison,Ellison Zulian Property,Auction,"7/15 Birmingham Street,",ALEXANDRIA,NSW,2015,2,1,1,0,,Josh Ellison,Apartment / Unit / Flat
+Max Klimenko,Ray White Touma Taylor,Auction 22nd February,"221A Queen Street,",BEACONSFIELD,NSW,2015,4,3,1,231m²,,Max Klimenko,House
+Jack Wimpey,The Agency,"Auction Guide $1,000,000","205/123-129 Wyndham Street,",ALEXANDRIA,NSW,2015,2,2,1,102m²,,Jack Wimpey,Apartment / Unit / Flat
+Brad Gillespie,The Agency,"Auction Guide $1,750,000","7/2-14 Lawrence Street,",ALEXANDRIA,NSW,2015,3,2,1,0,AUCTION SAT 8 FEB,Brad Gillespie,Apartment / Unit / Flat
+Brad Gillespie,The Agency,"Auction Guide $1,950,000","502/19 Ralph Street,",ALEXANDRIA,NSW,2015,3,2,1,0,AUCTION SAT 8 FEB,Brad Gillespie,Apartment / Unit / Flat
+Hayden Richards,Ray White Touma Taylor,"Guide $765,000","23/27-41 Wyndham Street,",ALEXANDRIA,NSW,2015,1,1,1,0,,Hayden Richards,Apartment / Unit / Flat
+Shaun Stoker,Ray White Erskineville | Alexandria | Glebe | Surry Hills,"Auction | Guide $800,000","9/133-137 Mitchell Road,",ALEXANDRIA,NSW,2015,2,1,0,0,,Shaun Stoker,Apartment / Unit / Flat
+,,"$1,740,000","19/49 Henderson Road,",ALEXANDRIA,NSW,2015,4,2,2,0,SOLD,"Picture of 19/49 Henderson Road, ALEXANDRIA NSW 2015",Townhouse
+,,"$2,730,000","72 Brandling Street,",ALEXANDRIA,NSW,2015,2,1,2,292m²,SOLD,"Picture of 72 Brandling Street, ALEXANDRIA NSW 2015",House
+,,"$1,000,000","30/51 Euston Road,",ALEXANDRIA,NSW,2015,2,2,1,0,SOLD,"Picture of 30/51 Euston Road, ALEXANDRIA NSW 2015",Apartment / Unit / Flat
+Roger Agha,Laing+Simmons The Roger Agha Group,"For Sale $625,000","311E/6 Mandible Street,",ALEXANDRIA,NSW,2015,1,1,0,0,,"Picture of 311E/6 Mandible Street, ALEXANDRIA NSW 2015",Apartment / Unit / Flat
+Mark Dawes,Richardson & Wrench Alexandria | Waterloo,"For Sale $995,000","2/284-286 Lawrence Street,",ALEXANDRIA,NSW,2015,2,2,0,0,,"Picture of 2/284-286 Lawrence Street, ALEXANDRIA NSW 2015",Apartment / Unit / Flat
+Mitchell Farah,First Hand Property - Real Estate Sales & Management,For Sale,"G2/71-91 Euston Road,",ALEXANDRIA,NSW,2015,1,1,1,75m²,,Mitchell Farah,Apartment / Unit / Flat
+Zakir Abdallaoui,Sydney Sotheby's International Realty,Price on request,"306/11-15 Ralph Street,",ALEXANDRIA,NSW,2015,3,2,1,0,,Zakir Abdallaoui,Apartment / Unit / Flat
+Brad Papaellinas,BresicWhitney Inner West,"Guide $1,100,000","24/111-117 McEvoy Street,",ALEXANDRIA,NSW,2015,2,2,1,0,,Brad Papaellinas,Apartment / Unit / Flat
+Moira Verheijen,Ray White Erskineville | Alexandria | Glebe | Surry Hills,Auction,"9/53-55 Ralph Street,",ALEXANDRIA,NSW,2015,2,2,1,0,,Moira Verheijen,Apartment / Unit / Flat
+Brad Gillespie,The Agency,"Auction Guide $700,000","31/240 Lawrence Street,",ALEXANDRIA,NSW,2015,1,1,1,0,AUCTION SAT 8 FEB,Brad Gillespie,Apartment / Unit / Flat
+Brad Gillespie,The Agency,"Auction Guide $2,300,000","57 Gerard Street,",ALEXANDRIA,NSW,2015,3,2,1,228m²,AUCTION SAT 8 FEB,Brad Gillespie,House
+Jack Wimpey,The Agency,"Auction Guide $850,000","M207/68 McEvoy Street,",ALEXANDRIA,NSW,2015,2,2,1,0,,Jack Wimpey,Apartment / Unit / Flat
+Jack Wimpey,The Agency,"For Sale $700,000 - $770,000","307/71-91 Euston Road,",ALEXANDRIA,NSW,2015,1,1,1,0,,Jack Wimpey,Apartment / Unit / Flat
+Louise Morrin,Morrin Property,Expressions of Interest,"6/11-13 William Street,",ALEXANDRIA,NSW,2015,4,3,3,0,,Louise Morrin,Townhouse
+Shu Mukai,Colliers Residential,Contact Agent,"B601/163-173 McEvoy Street,",ALEXANDRIA,NSW,2015,2,2,1,0,,Shu Mukai,Apartment / Unit / Flat
+Theo Felekos,Ray White Kingsford,For Sale I Theo Felekos,"23 Copeland Street,",ALEXANDRIA,NSW,2015,2,1,0,145m²,,Theo Felekos,House
+Tim Wenden,Lateral Residences,DISPLAY SUITE NOW OPEN,"43 Ralph Street,",ALEXANDRIA,NSW,2015,2,2,1,0,NEW HOME,Lateral Residences,New apartments / off the plan
+Brad Gillespie,The Agency,"For Sale $675,000 - $715,000","A26/252 Botany Road,",ALEXANDRIA,NSW,2015,1,1,0,0,,Brad Gillespie,Apartment / Unit / Flat
+Ercan Ersan,Ray White Erskineville | Alexandria | Glebe | Surry Hills,For Sale,"420 Botany Road,",BEACONSFIELD,NSW,2015,3,2,1,132m²,,Ercan Ersan,House
+Zakir Abdallaoui,Sydney Sotheby's International Realty,For sale $750000,"11/15-17 Fountain Street,",ALEXANDRIA,NSW,2015,1,1,0,0,,Zakir Abdallaoui,Apartment / Unit / Flat
+,,Auction - Contact Agent,"28/674 Botany Road,",ALEXANDRIA,NSW,2015,1,1,0,98m²,AUCTION WED 12 FEB,MyPlace Estate Agents,Apartment / Unit / Flat
+,,Contact Agent,"B303/ 163-173 McEvoy street,",ALEXANDRIA,NSW,2015,2,2,1,0,,Colliers Residential,Apartment / Unit / Flat
+,,"Guide $795,000","1/1A Mandible Street,",ALEXANDRIA,NSW,2015,0,0,0,0,NEW,Harris Partners,Studio
+,,"$1,740,000","19/49 Henderson Road,",ALEXANDRIA,NSW,2015,4,2,2,0,SOLD,"Picture of 19/49 Henderson Road, ALEXANDRIA NSW 2015",Townhouse
+,,"$2,730,000","72 Brandling Street,",ALEXANDRIA,NSW,2015,2,1,2,292m²,SOLD,"Picture of 72 Brandling Street, ALEXANDRIA NSW 2015",House
+,,"$1,000,000","30/51 Euston Road,",ALEXANDRIA,NSW,2015,2,2,1,0,SOLD,"Picture of 30/51 Euston Road, ALEXANDRIA NSW 2015",Apartment / Unit / Flat
+,,"$1,100,000 - $1,200,000","301/71 Euston Road,",ALEXANDRIA,NSW,2015,2,2,1,0,,Infinity Property Agents,Apartment / Unit / Flat
+,,Contact Agent,"78 O'Riordan Street,",ALEXANDRIA,NSW,2015,0,0,0,0,,Vision Property Investment Group Pty Ltd,Studio
+,,"FOR SALE $600,000-$650,000","9/125 Euston Road,",ALEXANDRIA,NSW,2015,1,1,0,0,,Aria Realty Co.,Apartment / Unit / Flat
+,,2 Bed And 3 Study Area. Contact Agent,"2 Bed/11 Ralph Street,",ALEXANDRIA,NSW,2015,2,2,1,0,,Leading Capital Group,Apartment / Unit / Flat
+,,"Both Bedrooms Have Study Areas, Contact Agent","Ralph Street,",ALEXANDRIA,NSW,2015,2,2,1,0,,Leading Capital Group,Apartment / Unit / Flat
+,,Enquire Now,"D2.01/163-173 McEvoy Street,",ALEXANDRIA,NSW,2015,3,2,1,0,NEW HOME,Colliers International Sydney,Apartment / Unit / Flat
+,,"$3,900,000","128 Botany Road,",ALEXANDRIA,NSW,2015,5,4,1,248m²,,For Sale By Owner Australia,House
+,,Enquire Now,"A2.02/163-173 McEvoy Street,",ALEXANDRIA,NSW,2015,2,2,1,0,NEW HOME,Colliers International Sydney,New apartments / off the plan
+,,Enquire Now,"A2.07/163 - 173 McEvoy Street,",ALEXANDRIA,NSW,2015,3,2,1,0,NEW HOME,Colliers International Sydney,New apartments / off the plan
+,,"Contact Agent ,Ready To Move In From $1.2m to $1.36m","Ralph St,",ALEXANDRIA,NSW,2015,2,2,1,0,NEW,,Apartment / Unit / Flat
+,,Price Guide $800k,"Ralph St,",ALEXANDRIA,NSW,2015,1,1,0,0,NEW,,Apartment / Unit / Flat
+,,"$1,740,000","19/49 Henderson Road,",ALEXANDRIA,NSW,2015,4,2,2,0,SOLD,"Picture of 19/49 Henderson Road, ALEXANDRIA NSW 2015",Townhouse
+,,"$2,730,000","72 Brandling Street,",ALEXANDRIA,NSW,2015,2,1,2,292m²,SOLD,"Picture of 72 Brandling Street, ALEXANDRIA NSW 2015",House
+,,"$1,000,000","30/51 Euston Road,",ALEXANDRIA,NSW,2015,2,2,1,0,SOLD,"Picture of 30/51 Euston Road, ALEXANDRIA NSW 2015",Apartment / Unit / Flat

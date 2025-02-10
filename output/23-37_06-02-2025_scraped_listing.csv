@@ -1,0 +1,28 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+,,"$1,500,000 All reasonable offers considered","230 Greatorex Road,",ILPARPA,NT,0873,0,0,0,0,UPDATED,"Picture of 230 Greatorex Road, ILPARPA NT 0873",Rural
+,,"$960,000","38 Heffernan Road,",CONNELLAN,NT,0873,0,0,0,0,,"Picture of 38 Heffernan Road, CONNELLAN NT 0873",Acreage / Semi-rural
+,,"$1,100,000","10 Minahan Road,",ROSS,NT,0873,5,3,3,"89,900m²",,"Picture of 10 Minahan Road, ROSS NT 0873",House
+,,"$1,050,000","30 Chateau Road,",CONNELLAN,NT,0873,4,2,11,1.82ha,,For Sale By Owner Australia,House
+,,"$169,000","41 Welton Parade,",KILGARIFF,NT,0873,0,0,0,0,,LJ Hooker Alice Springs,Vacant land
+,,"$695,000","33 Welton Parade,",KILGARIFF,NT,0873,3,2,2,840m²,,LJ Hooker Alice Springs,House
+,,"$1,175,000","27 Crotalaria Road,",CONNELLAN,NT,0873,4,2,14,"22,900m²",,Nutrien Harcourts Alice Springs,House
+,,"$169,950","46/26 Palm Place,",ROSS,NT,0873,1,1,1,51m²,,LJ Hooker Alice Springs,Apartment / Unit / Flat
+,,"$205,000","9 Aherte Crescent,",KILGARIFF,NT,0873,0,0,0,0,,Nutrien Harcourts Alice Springs,Vacant land
+,,"$196,000","21 Aherte Crescent,",KILGARIFF,NT,0873,0,0,0,0,,Sale by Home Owner,Vacant land
+,,"$385,000","27/70 Palm Circuit,",ROSS,NT,0873,2,1,1,95m²,,LJ Hooker Alice Springs,Townhouse
+,,"$370,000","8/70 Palm Circuit,",ROSS,NT,0873,2,1,1,116m²,,LJ Hooker Alice Springs,Apartment / Unit / Flat
+,,"$385,000","18/70 Palm Circuit,",ROSS,NT,0873,2,1,1,108m²,,LJ Hooker Alice Springs,Apartment / Unit / Flat
+,,"$799,000","47 Baldissera Drive,",ROSS,NT,0873,3,2,10,2.06ha,,,House
+,,"$685,000","11 Bonanni Circuit,",ROSS,NT,0873,4,2,4,468m²,,,House
+,,"$820,000","85 Baldissera Drive,",ROSS,NT,0873,2,2,6,2.16ha,,,House
+,,"$4,500,000","19 Cotterill Road,",ROSS,NT,0873,9,5,8,26ha,,,House
+,,"$382,000","5/70 Palm Circuit,",ROSS,NT,0873,2,1,1,0,,,Apartment / Unit / Flat
+,,"OFFERS OVER $599,000!","196 Ross Highway,",ROSS,NT,0873,1,2,6,"10,000m²",,,House
+,,"$995,000","21 Greatorex Road,",ILPARPA,NT,0873,0,0,0,0,,,Acreage / Semi-rural
+,,"$975,000","76 Baldissera Drive,",ROSS,NT,0873,0,0,0,0,SOLD,"Picture of 76 Baldissera Drive, ROSS NT 0873",Acreage / Semi-rural
+,,"$675,000","NTP 4314 Chateau Road,",CONNELLAN,NT,0873,0,0,0,0,SOLD,"Picture of NTP 4314 Chateau Road, CONNELLAN NT 0873",Acreage / Semi-rural
+,,"$900,000","53 Greatorex Road,",ILPARPA,NT,0873,0,0,0,0,SOLD,"Picture of 53 Greatorex Road, ILPARPA NT 0873",Acreage / Semi-rural
+,,"$375,000","13/70 Palm Circuit,",ROSS,NT,0873,2,1,1,106m²,,,Townhouse
+,,"$975,000","76 Baldissera Drive,",ROSS,NT,0873,0,0,0,0,SOLD,"Picture of 76 Baldissera Drive, ROSS NT 0873",Acreage / Semi-rural
+,,"$675,000","NTP 4314 Chateau Road,",CONNELLAN,NT,0873,0,0,0,0,SOLD,"Picture of NTP 4314 Chateau Road, CONNELLAN NT 0873",Acreage / Semi-rural
+,,"$900,000","53 Greatorex Road,",ILPARPA,NT,0873,0,0,0,0,SOLD,"Picture of 53 Greatorex Road, ILPARPA NT 0873",Acreage / Semi-rural

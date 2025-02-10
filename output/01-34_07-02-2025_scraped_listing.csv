@@ -1,0 +1,117 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Paul Langsam,Raine & Horne Double Bay,Auction,"5/41 Francis Street,",BONDI BEACH,NSW,2026,2,2,1,0,,"Picture of 5/41 Francis Street, BONDI BEACH NSW 2026",Apartment / Unit / Flat
+Ric Serrao,Raine & Horne Double Bay,Auction,"3 Oakley Road,",NORTH BONDI,NSW,2026,5,3,3,0,NEW,"Picture of 3 Oakley Road, NORTH BONDI NSW 2026",House
+Edward Brown,Belle Property Bondi Junction,Auction 8th March,"21/61 Curlewis Street,",BONDI BEACH,NSW,2026,1,1,1,0,NEW,Edward Brown,Apartment / Unit / Flat
+Josh McRae,Ray White Double Bay,Auction,"1/11A-17 Wairoa Avenue,",NORTH BONDI,NSW,2026,2,2,2,"2,927m²",NEW,Josh McRae,Apartment / Unit / Flat
+Nic Krasnostein,Ray White Double Bay,Auction,"208/152-162 Campbell Parade,",BONDI BEACH,NSW,2026,1,1,1,0,NEW,Nic Krasnostein,Apartment / Unit / Flat
+Ric Serrao,Raine & Horne Double Bay,Auction,"53 & 55 Knowles Avenue,",NORTH BONDI,NSW,2026,4,2,2,0,NEW,Ric Serrao,House
+CBRE Sales,CBRE Residential Projects,Contact Agent,"135-155 Curlewis Street,",BONDI BEACH,NSW,2026,3,4,2,0,NEW,CBRE Sales,New apartments / off the plan
+MATTHEW ETTIA,TRG,Auction 8th March 2025,"4/8 Wairoa Avenue,",NORTH BONDI,NSW,2026,2,2,2,0,NEW,MATTHEW ETTIA,Apartment / Unit / Flat
+Hannan Bouskila,Raine & Horne Double Bay,Auction,"8/5-7 Rockley Street,",BONDI,NSW,2026,2,1,1,0,NEW,Hannan Bouskila,Apartment / Unit / Flat
+Ron Danieli,Ron Danieli Real Estate,"$659,500","Unit 10/240 Campbell Pde,",BONDI BEACH,NSW,2026,0,1,0,0,NEW,Ron Danieli,Studio
+Conrad Panebianco,PPD Real Estate,Auction,"101 O'Donnell Street,",NORTH BONDI,NSW,2026,2,1,0,215m²,NEW,Conrad Panebianco,House
+Hannan Bouskila,Raine & Horne Double Bay,Auction,"7/6-8 Ocean Street North,",BONDI,NSW,2026,2,1,1,0,NEW,Hannan Bouskila,Apartment / Unit / Flat
+Graham Berman,Ray White Double Bay,Auction,"2/15 Sir Thomas Mitchell Road,",BONDI BEACH,NSW,2026,2,1,0,0,NEW,Graham Berman,Apartment / Unit / Flat
+Ben Fraser,McGrath Double Bay,"Guide $2,750,000","3/151 Blair Street,",NORTH BONDI,NSW,2026,3,2,2,0,NEW,Ben Fraser,Apartment / Unit / Flat
+Nicholas Wise,Sydney Sotheby's International Realty,"Auction Guide $1,000,000","11/38a Flood Street,",BONDI,NSW,2026,2,1,0,0,NEW,Nicholas Wise,Apartment / Unit / Flat
+Alexander Phillips,PPD Real Estate,Auction 8 March,"40 Sir Thomas Mitchell Road,",BONDI BEACH,NSW,2026,5,4,2,0,NEW,Alexander Phillips,House
+Ian Wallace,Richardson & Wrench Bondi Beach,Auction | Ian Wallace 0416 251 073,"3/310 Bondi Road,",BONDI,NSW,2026,4,3,2,0,NEW,Ian Wallace,Apartment / Unit / Flat
+Joshua Allen,JT Allen Real Estate,Auction,"7A Stewart Street,",NORTH BONDI,NSW,2026,4,2,2,0,NEW,Joshua Allen,House
+Simon Exleton,Pillinger,March 1st Auction,"43/20 Illawong Avenue,",TAMARAMA,NSW,2026,1,1,1,0,NEW,Simon Exleton,Apartment / Unit / Flat
+Ric Serrao,Raine & Horne Double Bay,Auction,"1/8 Hastings Parade,",NORTH BONDI,NSW,2026,3,2,1,0,,Ric Serrao,Apartment / Unit / Flat
+Hannan Bouskila,Raine & Horne Double Bay,Auction,"7/9A Bennett Street,",BONDI,NSW,2026,2,1,1,0,,Hannan Bouskila,Apartment / Unit / Flat
+,,"$1,770,000","6/228 Campbell Parade,",BONDI BEACH,NSW,2026,2,1,0,0,SOLD,"Picture of 6/228 Campbell Parade, BONDI BEACH NSW 2026",Apartment / Unit / Flat
+,,"$7,500,000","19 Macleay Street,",NORTH BONDI,NSW,2026,5,4,2,635m²,SOLD,"Picture of 19 Macleay Street, NORTH BONDI NSW 2026",House
+,,"$2,260,000","4/30-34 Penkivil Street,",BONDI,NSW,2026,3,2,1,0,SOLD,"Picture of 4/30-34 Penkivil Street, BONDI NSW 2026",Apartment / Unit / Flat
+Doreen Wilson,PPD Real Estate,Contact Agent,"8 Glasgow Avenue,",BONDI BEACH,NSW,2026,4,3,3,0,,"Picture of 8 Glasgow Avenue, BONDI BEACH NSW 2026",House
+Rod Marr,Mosman First National,Inspect Thurs 5:30pm to 6pm,"2/64-66 Campbell Parade,",BONDI BEACH,NSW,2026,2,1,0,0,UPDATED,"Picture of 2/64-66 Campbell Parade, BONDI BEACH NSW 2026",Apartment / Unit / Flat
+David Malouf,Highland Double Bay,Auction,"1/2 Wallis Parade,",NORTH BONDI,NSW,2026,3,2,2,0,UPDATED,David Malouf,Apartment / Unit / Flat
+Augusto Gerocarni,Ray White Eastern Beaches,"Buyers Guide $5,800,000","7 Park Parade,",BONDI,NSW,2026,10,6,4,507m²,UPDATED,Augusto Gerocarni,House
+Steven Henderson,Raine & Horne Double Bay,"Guide $680,000","16/177-179 Glenayr Avenue,",BONDI BEACH,NSW,2026,1,1,0,0,UPDATED,Steven Henderson,Apartment / Unit / Flat
+Tristan Oddi,PPD Real Estate,"Auction Guide $2,300,000 - $2,500,000","14/65-75 Brighton Boulevard,",BONDI BEACH,NSW,2026,2,1,1,0,UPDATED,Tristan Oddi,Apartment / Unit / Flat
+William Manning,McGrath Double Bay,Forthcoming Auction,"7/70 Campbell Parade,",BONDI BEACH,NSW,2026,2,2,0,0,,William Manning,Apartment / Unit / Flat
+Alexander Phillips,PPD Real Estate,Auction 8 March,"68 Sir Thomas Mitchell Road,",BONDI BEACH,NSW,2026,4,4,2,0,,Alexander Phillips,House
+Christian West,PPD Real Estate,Auction 1 March,"10 Wolaroi Crescent,",TAMARAMA,NSW,2026,3,1,1,0,,Christian West,House
+Ty Demirezen,Ray White Eastern Beaches,Auction 1st March,"4/14 Francis Street,",BONDI BEACH,NSW,2026,2,1,0,0,,Ty Demirezen,Apartment / Unit / Flat
+Di Wilson,Ray White Double Bay,Auction,"4B Owen Street,",NORTH BONDI,NSW,2026,3,2,2,0,,Di Wilson,House
+Alexander Smith,Sydney Sotheby's International Realty,"Buyers guide $1,300,000","10/19 Denham Street,",BONDI,NSW,2026,3,1,0,106m²,,Alexander Smith,Apartment / Unit / Flat
+Dion Markovics,Ray White Double Bay,Auction,"30 Plowman Street,",NORTH BONDI,NSW,2026,5,3,2,383m²,,Dion Markovics,House
+ZAC RABIN,TRG,"Auction Guide | $1,500,000","3/19 Brassie Street,",NORTH BONDI,NSW,2026,2,1,0,0,,ZAC RABIN,Apartment / Unit / Flat
+Ric Serrao,Raine & Horne Double Bay,Auction,"111 Brighton Boulevard,",NORTH BONDI,NSW,2026,4,3,2,0,,Ric Serrao,House
+ZAC RABIN,TRG,"Auction guide | $1,750,000","3/12 Ramsgate Avenue,",BONDI BEACH,NSW,2026,2,1,0,89m²,,ZAC RABIN,Apartment / Unit / Flat
+Hamish McMaster,LJ Hooker Bondi Beach,Auction,"17/64 Sir Thomas Mitchell Road,",BONDI BEACH,NSW,2026,1,1,0,0,,Hamish McMaster,Apartment / Unit / Flat
+Ron Bauer,Ray White Unlimited,Auction Wed 26th February,"7/73-79 Penkivil Street,",BONDI,NSW,2026,3,2,1,0,,Ron Bauer,Apartment / Unit / Flat
+Ron Bauer,Ray White Unlimited,Auction Wed 26th February,"8/53-63 Penkivil Street,",BONDI,NSW,2026,2,1,1,0,,Ron Bauer,Apartment / Unit / Flat
+Ron Bauer,Ray White Unlimited,Auction Wed 26th February,"4/7-13 Denham Street,",BONDI BEACH,NSW,2026,1,1,1,0,,Ron Bauer,Apartment / Unit / Flat
+,,"$1,770,000","6/228 Campbell Parade,",BONDI BEACH,NSW,2026,2,1,0,0,SOLD,"Picture of 6/228 Campbell Parade, BONDI BEACH NSW 2026",Apartment / Unit / Flat
+,,"$7,500,000","19 Macleay Street,",NORTH BONDI,NSW,2026,5,4,2,635m²,SOLD,"Picture of 19 Macleay Street, NORTH BONDI NSW 2026",House
+,,"$2,260,000","4/30-34 Penkivil Street,",BONDI,NSW,2026,3,2,1,0,SOLD,"Picture of 4/30-34 Penkivil Street, BONDI NSW 2026",Apartment / Unit / Flat
+Ric Serrao,Raine & Horne Double Bay,Auction,"166 Hastings Parade,",NORTH BONDI,NSW,2026,2,1,4,0,,Ric Serrao,House
+Jason Taylor,Richardson & Wrench Bondi Beach,Auction | Jason Taylor 0412 757 470,"4/56 Simpson Street,",BONDI BEACH,NSW,2026,2,1,1,0,,Jason Taylor,Apartment / Unit / Flat
+Matt Marano,Oxford Agency,Auction,"3/122 Francis Street,",BONDI BEACH,NSW,2026,2,1,1,0,,Matt Marano,Apartment / Unit / Flat
+Daryl Rosen,Ray White Double Bay,Auction,"5/88 Beach Road,",BONDI BEACH,NSW,2026,3,2,2,0,,Daryl Rosen,Apartment / Unit / Flat
+Danny Taylor,Century 21 Feller & Taylor,AUCTION,"28 Mitchell Street,",NORTH BONDI,NSW,2026,4,2,2,250m²,,Danny Taylor,House
+Dean Power,Raine & Horne Double Bay,Auction,"32/34 Campbell Parade,",BONDI BEACH,NSW,2026,2,2,1,0,,Dean Power,Retirement Living
+Hannan Bouskila,Raine & Horne Double Bay,Auction,"108/79 Gould Street,",BONDI BEACH,NSW,2026,1,1,0,0,,Hannan Bouskila,Apartment / Unit / Flat
+Joshua Allen,JT Allen Real Estate,Auction,"4/28 Warners Avenue,",NORTH BONDI,NSW,2026,2,1,1,0,,Joshua Allen,Apartment / Unit / Flat
+Paul Langsam,Raine & Horne Double Bay,Auction,"5/41 Francis Street,",BONDI BEACH,NSW,2026,2,2,1,0,,Paul Langsam,Apartment / Unit / Flat
+Stella Gankin,LJ Hooker Bondi Junction,Contact Agent,"8/30 Beach Road,",BONDI BEACH,NSW,2026,1,1,1,0,,Stella Gankin,Apartment / Unit / Flat
+Raymond (zhen) Zhao,Hillcrest Real Estate North Shore,"Price Guide: $1,650,000","6608/32 Wellington Street,",BONDI,NSW,2026,2,1,1,0,,Raymond (zhen) Zhao,Apartment / Unit / Flat
+Danny Taylor,Century 21 Feller & Taylor,AUCTION,"9 Murriverie Road,",NORTH BONDI,NSW,2026,3,2,3,495m²,,Danny Taylor,House
+Jason Taylor,Richardson & Wrench Bondi Beach,Jason Taylor 0412 757 470,"5/16 Forest Knoll Avenue,",BONDI BEACH,NSW,2026,2,1,1,0,,Jason Taylor,Apartment / Unit / Flat
+Nicholas Wise,Sydney Sotheby's International Realty,Auction Saturday 22nd February,"5 Moore Street,",BONDI,NSW,2026,8,4,0,0,,Nicholas Wise,Block of units
+Conrad Panebianco,PPD Real Estate,Auction,"11 Imperial Avenue,",BONDI,NSW,2026,3,2,0,222m²,,Conrad Panebianco,House
+Warren Ginsberg,Ray White Double Bay,Auction,"8 O'Brien Street,",BONDI BEACH,NSW,2026,3,1,2,0,,Warren Ginsberg,House
+Hannan Bouskila,Raine & Horne Double Bay,Auction,"47/40-46 Penkivil Street,",BONDI,NSW,2026,3,2,2,0,,Hannan Bouskila,Apartment / Unit / Flat
+Hannan Bouskila,Raine & Horne Double Bay,Auction,"1/48 Beach Road,",BONDI BEACH,NSW,2026,2,1,0,0,,Hannan Bouskila,Apartment / Unit / Flat
+Alexander Phillips,PPD Real Estate,"Buyers Guide $3,650,000","101/20 Hall Street,",BONDI BEACH,NSW,2026,2,2,2,0,AUCTION WED 12 FEB,Alexander Phillips,Apartment / Unit / Flat
+Julian Barta,Bradfield BadgerFox,FOR SALE,"1/24-32 Flood Street,",BONDI,NSW,2026,3,2,1,0,,Julian Barta,Retirement Living
+,,"$1,770,000","6/228 Campbell Parade,",BONDI BEACH,NSW,2026,2,1,0,0,SOLD,"Picture of 6/228 Campbell Parade, BONDI BEACH NSW 2026",Apartment / Unit / Flat
+,,"$7,500,000","19 Macleay Street,",NORTH BONDI,NSW,2026,5,4,2,635m²,SOLD,"Picture of 19 Macleay Street, NORTH BONDI NSW 2026",House
+,,"$2,260,000","4/30-34 Penkivil Street,",BONDI,NSW,2026,3,2,1,0,SOLD,"Picture of 4/30-34 Penkivil Street, BONDI NSW 2026",Apartment / Unit / Flat
+Hamish McMaster,LJ Hooker Bondi Beach,Auction,"7/38-44 O'Brien Street,",BONDI BEACH,NSW,2026,2,1,1,0,AUCTION TUE 11 FEB,"Picture of 7/38-44 O'Brien Street, BONDI BEACH NSW 2026",Apartment / Unit / Flat
+Hamish McMaster,LJ Hooker Bondi Beach,Auction,"7/112-134 Hall Street,",BONDI BEACH,NSW,2026,3,2,1,0,AUCTION TUE 11 FEB,"Picture of 7/112-134 Hall Street, BONDI BEACH NSW 2026",Apartment / Unit / Flat
+Sean Jacobson,1st City Real Estate Group,Contact Agent,"2E/27-31 Ocean Street North,",BONDI,NSW,2026,1,1,1,0,,Sean Jacobson,Apartment / Unit / Flat
+Monica Shor,Raine & Horne Double Bay,Auction,"17/36-38 Penkivil Street,",BONDI,NSW,2026,3,2,1,0,AUCTION TUE 11 FEB,Monica Shor,Apartment / Unit / Flat
+Ric Serrao,Raine & Horne Double Bay,Auction,"94 Blair Street,",NORTH BONDI,NSW,2026,4,3,2,0,,Ric Serrao,House
+James Ledgerwood,McGrath Double Bay,"Guide $3,600,000","21 Ocean Street North,",BONDI,NSW,2026,4,4,0,0,,James Ledgerwood,House
+James Ledgerwood,McGrath Double Bay,"Guide $1,150,000","213/79 Gould Street,",BONDI BEACH,NSW,2026,1,1,1,58m²,AUCTION SAT 8 FEB,James Ledgerwood,Apartment / Unit / Flat
+Hannan Bouskila,Raine & Horne Double Bay,Auction,"10/54-56 Beach Road,",BONDI BEACH,NSW,2026,2,1,0,0,,Hannan Bouskila,Apartment / Unit / Flat
+Mark Blackburn,Express Realty Bondi Beach,For Sale,"14 O'Donnell Street,",NORTH BONDI,NSW,2026,6,2,0,416m²,,Express Realty Bondi Beach,House
+Alex Lyons,Raine & Horne Double Bay,Auction,"2/8-10 Notts Avenue,",BONDI BEACH,NSW,2026,2,2,2,0,,Alex  Lyons,Apartment / Unit / Flat
+Lena Lahood,Ray White Unlimited,"For Sale $900,000","4/67 Curlewis Street,",BONDI BEACH,NSW,2026,1,1,0,0,,Lena Lahood,Apartment / Unit / Flat
+CBRE Sales,CBRE Residential Projects,Enquire to secure private appointment,"301/134-138 Campbell Parade,",BONDI BEACH,NSW,2026,4,4,2,0,NEW HOME,CBRE Sales,New apartments / off the plan
+James Ledgerwood,McGrath Double Bay,Contact Agent,"102/134 Campbell Parade,",BONDI BEACH,NSW,2026,3,3,2,0,,James Ledgerwood,Apartment / Unit / Flat
+Nicholas Breadman,LJ Hooker Bondi Beach,Contact Agent,"12 Sandridge Street,",BONDI,NSW,2026,4,2,0,0,,Nicholas Breadman,House
+Danny Taylor,Century 21 Feller & Taylor,Contact Agent,"1/41 Sir Thomas Mitchell Road,",BONDI BEACH,NSW,2026,2,2,1,0,,Danny Taylor,Apartment / Unit / Flat
+Alexander Phillips,PPD Real Estate,For Sale,"3/28-30 Fletcher Street,",BONDI,NSW,2026,3,2,1,0,,Alexander Phillips,Apartment / Unit / Flat
+Ric Serrao,Raine & Horne Double Bay,Auction,"9 & 10/45 Ramsgate Avenue,",BONDI BEACH,NSW,2026,6,4,4,0,,Ric Serrao,Apartment / Unit / Flat
+Hamish McMaster,LJ Hooker Bondi Beach,For Sale,"5/7 Francis Street,",BONDI BEACH,NSW,2026,1,1,0,0,,Hamish McMaster,Apartment / Unit / Flat
+Kane Dunkley,PPD Real Estate,Contact Agent,"24 Hastings Parade,",NORTH BONDI,NSW,2026,3,1,3,387m²,,Kane Dunkley,House
+Simon Exleton,Pillinger,For Sale - Inspect by appointment,"64/20 Illawong Avenue,",TAMARAMA,NSW,2026,1,1,1,70m²,,Simon Exleton,Apartment / Unit / Flat
+,,"$1,770,000","6/228 Campbell Parade,",BONDI BEACH,NSW,2026,2,1,0,0,SOLD,"Picture of 6/228 Campbell Parade, BONDI BEACH NSW 2026",Apartment / Unit / Flat
+,,"$7,500,000","19 Macleay Street,",NORTH BONDI,NSW,2026,5,4,2,635m²,SOLD,"Picture of 19 Macleay Street, NORTH BONDI NSW 2026",House
+,,"$2,260,000","4/30-34 Penkivil Street,",BONDI,NSW,2026,3,2,1,0,SOLD,"Picture of 4/30-34 Penkivil Street, BONDI NSW 2026",Apartment / Unit / Flat
+Vanessa Bartosik,Wentworth Partners Bondi Beach,"For Sale | $2,100,000","15/8 Jaques Avenue,",BONDI BEACH,NSW,2026,2,2,1,0,,"Picture of 15/8 Jaques Avenue, BONDI BEACH NSW 2026",Apartment / Unit / Flat
+GAVIN RUBINSTEIN,TRG,For Sale,"3/5 Pacific Avenue,",TAMARAMA,NSW,2026,3,3,2,0,,"Picture of 3/5 Pacific Avenue, TAMARAMA NSW 2026",Apartment / Unit / Flat
+Jason Taylor,Richardson & Wrench Bondi Beach,"For Sale $1,250,000","12/7 Francis Street,",BONDI BEACH,NSW,2026,1,1,0,0,,Jason Taylor,Apartment / Unit / Flat
+Ashley Bierman,Ray White Double Bay,Expressions of Interest,"21 Thompson Street,",TAMARAMA,NSW,2026,5,7,3,0,,Ashley Bierman,House
+Chana Levy,Levy Property Group,Contact Agent,"13 Shaw Street,",NORTH BONDI,NSW,2026,4,2,1,240m²,,Chana  Levy,House
+Charlie Beaumont,PPD Real Estate,Auction 15 February,"82 O'Brien Street,",BONDI BEACH,NSW,2026,4,3,1,0,,Charlie Beaumont,House
+Ian Wallace,Richardson & Wrench Bondi Beach,Auction | Ian Wallace 0416 251 073,"9/66 Beach Road,",BONDI BEACH,NSW,2026,1,1,1,0,,Ian Wallace,Apartment / Unit / Flat
+Charlie Beaumont,PPD Real Estate,"Buyers Guide $6,000,000","17a Illawong Avenue,",TAMARAMA,NSW,2026,5,3,3,324m²,,Charlie Beaumont,House
+Aaron Del Monte,L J HOOKER DOUBLE BAY,Auction | Contact Agent,"98 Clyde Street,",NORTH BONDI,NSW,2026,3,2,1,556m²,,Aaron Del Monte,House
+Mark Yeats,Raine & Horne Double Bay,Auction,"5 Midelton Avenue,",NORTH BONDI,NSW,2026,5,3,2,0,,Mark Yeats,House
+Maclay Longhurst,Sydney Sotheby's International Realty,"Buyers guide $5,800,000","109/180-186 Campbell Parade,",BONDI BEACH,NSW,2026,3,2,2,0,AUCTION THU 13 FEB,Maclay Longhurst,Apartment / Unit / Flat
+Alexander Phillips,PPD Real Estate,"Buyers Guide $4,700,000","154 Blair Street,",NORTH BONDI,NSW,2026,4,2,1,0,,Alexander Phillips,House
+GAVIN RUBINSTEIN,TRG,Inspect by Appointment,"701/63 Hall Street,",BONDI BEACH,NSW,2026,3,3,2,0,,GAVIN RUBINSTEIN,Apartment / Unit / Flat
+David Malouf,Highland Double Bay,Expressions of Interest,"56 Campbell Parade,",BONDI BEACH,NSW,2026,10,4,5,0,,David Malouf,Block of units
+Michael Pallier,Sydney Sotheby's International Realty,Auction,"32 Campbell Parade,",BONDI BEACH,NSW,2026,3,3,0,237m²,,Michael Pallier,Block of units
+Mark Yeats,Raine & Horne Double Bay,For Sale,"11A Fletcher Street,",TAMARAMA,NSW,2026,8,6,2,0,,Mark Yeats,Block of units
+Jacqueline Blacket,The Blacket Agency,"FOR SALE $2,175,000","9/9 Edward Street,",BONDI BEACH,NSW,2026,2,1,1,0,,Jacqueline Blacket,Apartment / Unit / Flat
+Simon Exleton,Pillinger,Auction 22nd February,"21 Carlisle Street,",TAMARAMA,NSW,2026,6,4,2,0,,Simon Exleton,House
+Mark Blackburn,Express Realty Bondi Beach,FOR SALE,"8/7 O'Brien Street,",BONDI BEACH,NSW,2026,2,1,0,0,,Express Realty Bondi Beach,Apartment / Unit / Flat
+Simon Exleton,Pillinger,Extraordinary 4 bedroom sub-penthouse,"5 & 6/70 Campbell Parade,",BONDI BEACH,NSW,2026,4,2,1,0,,Simon Exleton,Apartment / Unit / Flat
+,,"$1,770,000","6/228 Campbell Parade,",BONDI BEACH,NSW,2026,2,1,0,0,SOLD,"Picture of 6/228 Campbell Parade, BONDI BEACH NSW 2026",Apartment / Unit / Flat
+,,"$7,500,000","19 Macleay Street,",NORTH BONDI,NSW,2026,5,4,2,635m²,SOLD,"Picture of 19 Macleay Street, NORTH BONDI NSW 2026",House
+,,"$2,260,000","4/30-34 Penkivil Street,",BONDI,NSW,2026,3,2,1,0,SOLD,"Picture of 4/30-34 Penkivil Street, BONDI NSW 2026",Apartment / Unit / Flat

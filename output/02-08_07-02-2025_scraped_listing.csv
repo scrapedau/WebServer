@@ -1,0 +1,30 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Scott Robertson,Balmain Realty,"Buyers Guide $1,450,000","307/6 Yara Avenue,",ROZELLE,NSW,2039,2,2,1,0,NEW,Scott Robertson,Apartment / Unit / Flat
+David Meadowcroft,Ray White Rozelle,"Asking price $750,000","313/9 Warayama Place,",ROZELLE,NSW,2039,0,1,1,0,NEW,David Meadowcroft,Apartment / Unit / Flat
+Ada Mastronardo,CobdenHayson Balmain,Contact Agent,"204/47-51 Lilyfield Road,",ROZELLE,NSW,2039,1,1,1,0,NEW,Ada Mastronardo,Apartment / Unit / Flat
+Cindy Kennedy,McGrath Balmain,Price Guide on Request,"4 Elizabeth Street,",ROZELLE,NSW,2039,2,1,0,259m²,NEW,Cindy Kennedy,House
+Cindy Kennedy,McGrath Balmain,Price Guide on Request,"24 Cambridge Street,",ROZELLE,NSW,2039,4,2,0,259m²,NEW,Cindy Kennedy,House
+Cindy Kennedy,McGrath Balmain,Price Guide on Request,"35 Foucart Street,",ROZELLE,NSW,2039,4,3,1,207m²,NEW,Cindy Kennedy,House
+Matthew Hayson,CobdenHayson Balmain,Buyer's Guide $3m,"25 Red Lion Street,",ROZELLE,NSW,2039,4,2,0,250m²,,Matthew Hayson,House
+Andrew Liddell,BresicWhitney Balmain,"Guide $1,685,000","18 Lilyfield Road,",ROZELLE,NSW,2039,3,2,0,0,UPDATED,Andrew Liddell,House
+Andrew Liddell,BresicWhitney Balmain,"Guide $850,000","504/27 Margaret Street,",ROZELLE,NSW,2039,1,1,1,0,UPDATED,Andrew Liddell,Apartment / Unit / Flat
+Andrew Liddell,BresicWhitney Balmain,"Guide $2,270,000","5 Moore Street,",ROZELLE,NSW,2039,3,1,0,278m²,AUCTION SAT 8 FEB,Andrew Liddell,House
+Adrian Oddi,BresicWhitney Balmain,"Guide $2,650,000","127 Mullens Street,",ROZELLE,NSW,2039,4,4,1,151m²,,Adrian Oddi,House
+Monique Dower,Belle Property Balmain,"Auction Guide $2,200,000","26 Nelson Street,",ROZELLE,NSW,2039,3,2,0,124m²,,Monique Dower,House
+Joseph Fenech,Hudson McHugh,Auction,"3/52 Hornsey Street,",ROZELLE,NSW,2039,2,1,1,0,,Joseph Fenech,Apartment / Unit / Flat
+Andrew Liddell,BresicWhitney Balmain,"Guide $2,000,000","5 Callan Street,",ROZELLE,NSW,2039,3,2,0,229m²,,Andrew Liddell,House
+Matt Cooper,Coopers Agency,Auction Price Guide On Request,"7 Hancock Street,",ROZELLE,NSW,2039,2,1,0,0,,Matt Cooper,House
+Tim Le,Ray White (Hunters Hill),"$2,600,000 - $2,700,000","28A Waterloo Street,",ROZELLE,NSW,2039,3,2,0,0,,Tim Le,House
+Scott Robertson,Balmain Realty,"Buyers Guide $2,800,000","149/5 Wulumay Close,",ROZELLE,NSW,2039,2,2,2,0,,Scott Robertson,Apartment / Unit / Flat
+Nick Van Venrooy,Balmain Realty,"Buyers Guide $1,175,000","228/122 Terry Street,",ROZELLE,NSW,2039,1,1,1,0,,Nick  Van Venrooy,Apartment / Unit / Flat
+Chantal Hooper,Chantal Hooper & Associates,Contact Agent,"23 Rosser Street,",ROZELLE,NSW,2039,3,2,0,182m²,,Chantal Hooper,House
+Rebecca Fearon,Rebecca Fearon Real Estate,"$1,100,000 to $1,150,000","Suite 1/65-69 Nelson Street,",ROZELLE,NSW,2039,2,1,2,152m²,,Rebecca Fearon,Apartment / Unit / Flat
+,,"$2,350,000","29 Parsons Street,",ROZELLE,NSW,2039,3,2,3,200m²,SOLD,"Picture of 29 Parsons Street, ROZELLE NSW 2039",House
+,,"$2,200,000","81A Denison Street,",ROZELLE,NSW,2039,5,2,2,0,SOLD,"Picture of 81A Denison Street, ROZELLE NSW 2039",House
+,,"$1,580,000","8/2-12 Emily Street,",ROZELLE,NSW,2039,2,2,2,0,SOLD,"Picture of 8/2-12 Emily Street, ROZELLE NSW 2039",Apartment / Unit / Flat
+Jhonny Amorim,Century 21 Prestige Properties,Contact Agent,"202/6 Yara Avenue,",ROZELLE,NSW,2039,2,2,1,107m²,,Jhonny Amorim,Apartment / Unit / Flat
+,,Contact Agent,"9 Moore Street,",ROZELLE,NSW,2039,5,2,2,285m²,,Harris Partners,House
+,,Contact Agent,"40 Moodie Street,",ROZELLE,NSW,2039,4,3,2,260m²,,Harris Partners,House
+,,"$2,350,000","29 Parsons Street,",ROZELLE,NSW,2039,3,2,3,200m²,SOLD,"Picture of 29 Parsons Street, ROZELLE NSW 2039",House
+,,"$2,200,000","81A Denison Street,",ROZELLE,NSW,2039,5,2,2,0,SOLD,"Picture of 81A Denison Street, ROZELLE NSW 2039",House
+,,"$1,580,000","8/2-12 Emily Street,",ROZELLE,NSW,2039,2,2,2,0,SOLD,"Picture of 8/2-12 Emily Street, ROZELLE NSW 2039",Apartment / Unit / Flat

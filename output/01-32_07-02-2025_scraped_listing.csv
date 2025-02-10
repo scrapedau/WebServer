@@ -1,0 +1,41 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Alexander Phillips,PPD Real Estate,"Buyers Guide $5,500,000","31 Gipps Street,",BRONTE,NSW,2024,4,2,1,442m²,,"Picture of 31 Gipps Street, BRONTE NSW 2024",House
+Anthony Puntigam,PPD Real Estate,Auction 1 March,"35/107 Macpherson Street,",BRONTE,NSW,2024,2,2,1,0,NEW,Anthony Puntigam,Apartment / Unit / Flat
+Edward Brown,Belle Property Bondi Junction,Auction 8th March,"2/212 Bronte Road,",WAVERLEY,NSW,2024,1,1,1,0,NEW,Edward Brown,Apartment / Unit / Flat
+Augusto Gerocarni,Ray White Eastern Beaches,Auction,"2B Lugar Brae Avenue,",BRONTE,NSW,2024,5,4,2,0,NEW,Augusto Gerocarni,House
+Christian West,PPD Real Estate,For Sale,"406-408 Bronte Road,",BRONTE,NSW,2024,4,2,2,443m²,NEW,Christian West,House
+Chris Volpatti,McGrath Coogee,Auction 1st March,"29/107 Macpherson Street,",BRONTE,NSW,2024,2,2,2,0,NEW,Chris Volpatti,Apartment / Unit / Flat
+Nick Wiggan,Ray White Eastern Beaches,Auction 1st March,"2/2 Seaview Street,",WAVERLEY,NSW,2024,2,1,0,0,NEW,Nick Wiggan,Apartment / Unit / Flat
+Debbie Donnelley,PPD Real Estate,Auction,"16 Albion Street,",WAVERLEY,NSW,2024,2,1,0,145m²,NEW,Debbie Donnelley,House
+Nick Wiggan,Ray White Eastern Beaches,Auction 1st March,"92 Hewlett Street,",BRONTE,NSW,2024,2,1,1,224m²,NEW,Nick Wiggan,House
+David Tyrrell,PPD Real Estate,Auction 8 March,"3/26 Lugar Street,",BRONTE,NSW,2024,2,1,1,0,NEW,David Tyrrell,Apartment / Unit / Flat
+Michael Levy,Ray White Park Coast East,Auction,"5A Arden Street,",BRONTE,NSW,2024,2,1,1,0,,Michael Levy,House
+Angus Gorrie,Ray White Eastern Beaches,"Guide $1,700,000 - Auction 22nd February","8/371 Bronte Road,",BRONTE,NSW,2024,2,1,1,0,UPDATED,Angus Gorrie,Apartment / Unit / Flat
+Alexander Phillips,PPD Real Estate,"Buyers Guide $5,500,000","31 Gipps Street,",BRONTE,NSW,2024,4,2,1,442m²,,Alexander Phillips,House
+Augusto Gerocarni,Ray White Eastern Beaches,Auction,"14 Alfred Street,",BRONTE,NSW,2024,4,3,1,278m²,,Augusto Gerocarni,House
+Ron Bauer,Ray White Unlimited,Auction Wed 26th February,"6/99 Hewlett Street,",BRONTE,NSW,2024,2,1,0,0,,Ron Bauer,Apartment / Unit / Flat
+D'Leanne Lewis,Laing+Simmons Double Bay,Auction,"23 Leichhardt Street,",WAVERLEY,NSW,2024,4,2,2,0,,D'Leanne Lewis,House
+Chris Volpatti,McGrath Coogee,Auction 22nd February,"25 Murray Street,",BRONTE,NSW,2024,3,1,4,851m²,,Chris Volpatti,House
+Alexander Phillips,PPD Real Estate,"Buyers Guide $10,500,000","13A St Thomas Street,",BRONTE,NSW,2024,4,3,2,360m²,,Alexander Phillips,House
+Alexander Phillips,PPD Real Estate,Auction 15 February,"383 Bronte Road,",BRONTE,NSW,2024,4,3,2,0,,Alexander Phillips,House
+Edward Brown,Belle Property Bondi Junction,Auction 15th February,"16/226-232 Bronte Road,",WAVERLEY,NSW,2024,2,2,1,0,,Edward Brown,Apartment / Unit / Flat
+,,"$1,650,000","5/4 Cross Street,",BRONTE,NSW,2024,2,1,0,0,SOLD,"Picture of 5/4 Cross Street, BRONTE NSW 2024",Apartment / Unit / Flat
+,,"$1,560,000","8/1 St Thomas Street,",BRONTE,NSW,2024,2,1,0,0,SOLD,"Picture of 8/1 St Thomas Street, BRONTE NSW 2024",Apartment / Unit / Flat
+,,"$2,600,000","19 Prospect Street,",WAVERLEY,NSW,2024,3,2,0,223m²,SOLD,"Picture of 19 Prospect Street, WAVERLEY NSW 2024",House
+Alexander Phillips,PPD Real Estate,Auction 15 February,"4 Scott Street,",BRONTE,NSW,2024,4,3,0,334m²,,Alexander Phillips,House
+Alexander Phillips,PPD Real Estate,"Buyers Guide $6,475,000","28A Chesterfield Parade,",BRONTE,NSW,2024,5,4,2,411m²,,Alexander Phillips,House
+Vince Licata,PPD Real Estate,For Sale,"20/38-40 Macpherson Street,",BRONTE,NSW,2024,0,1,1,0,,Vince Licata,Apartment / Unit / Flat
+Alexander Phillips,PPD Real Estate,Auction 22 February,"492 Bronte Road,",BRONTE,NSW,2024,4,2,2,0,,Alexander Phillips,House
+Alexander Phillips,PPD Real Estate,For Sale,"1 Baglin Street,",BRONTE,NSW,2024,5,3,3,433m²,,Alexander Phillips,House
+Charlie Beaumont,PPD Real Estate,Auction 15 February,"1/54-56 Hewlett Street,",BRONTE,NSW,2024,2,1,1,0,,Charlie Beaumont,Apartment / Unit / Flat
+Alexander Phillips,PPD Real Estate,"Buyers Guide $4,050,000","243 Birrell Street,",BRONTE,NSW,2024,4,1,4,373m²,,Alexander Phillips,House
+Ric Serrao,Raine & Horne Double Bay,Auction,"43 St Thomas Street,",BRONTE,NSW,2024,6,1,4,512m²,AUCTION TUE 11 FEB,Ric Serrao,House
+Ben Collier,The Agency,Contact Agent,"101 Hewlett Street,",BRONTE,NSW,2024,4,2,2,322m²,,Ben Collier,House
+Nick Chalipilias,Point & Bay Property,"For Sale - Buyers Guide $625,000-$650,000","25/38 MacPherson Street,",BRONTE,NSW,2024,0,1,1,0,,Nick Chalipilias,Studio
+Hannan Bouskila,Raine & Horne Double Bay,"For Sale - $3,665,000","94 Macpherson Street,",BRONTE,NSW,2024,3,2,1,0,,Hannan Bouskila,House
+Pauline Goodyer,Goodyer Real Estate,As advertised or by appointment,"18 Tamarama Marine Drive,",BRONTE,NSW,2024,4,2,2,344m²,,Pauline Goodyer,House
+James Ball,Sydney Sotheby's International Realty,Contact Agent,"75 Gardyne Street,",BRONTE,NSW,2024,5,4,2,498m²,,James Ball,House
+Elliott Placks,Ray White Double Bay,Expressions Of Interest,"16 Tamarama Marine Drive,",BRONTE,NSW,2024,4,5,2,0,,Elliott Placks,House
+,,"$1,650,000","5/4 Cross Street,",BRONTE,NSW,2024,2,1,0,0,SOLD,"Picture of 5/4 Cross Street, BRONTE NSW 2024",Apartment / Unit / Flat
+,,"$1,560,000","8/1 St Thomas Street,",BRONTE,NSW,2024,2,1,0,0,SOLD,"Picture of 8/1 St Thomas Street, BRONTE NSW 2024",Apartment / Unit / Flat
+,,"$2,600,000","19 Prospect Street,",WAVERLEY,NSW,2024,3,2,0,223m²,SOLD,"Picture of 19 Prospect Street, WAVERLEY NSW 2024",House

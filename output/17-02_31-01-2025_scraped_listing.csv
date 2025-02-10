@@ -1,0 +1,20 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Patrick Huynh,LJ Hooker Edensor Park,CONTACT AGENT,"27 Wingadee Street,",COONAMBLE,NSW,2829,3,1,1,797m²,,"Picture of 27 Wingadee Street, COONAMBLE NSW 2829",House
+Patrick Huynh,LJ Hooker Edensor Park,CONTACT AGENT,"47 Dubbo Street,",COONAMBLE,NSW,2829,3,1,1,"1,138m²",,Patrick Huynh,House
+Patrick Huynh,LJ Hooker Edensor Park,EXPRESSIONS OF INTEREST!,"17 Namoi Street,",COONAMBLE,NSW,2829,3,1,0,0,,Patrick Huynh,House
+Fiona Foodey,Halcroft & Bennett,"$365,000","15B Tooloon Street,",COONAMBLE,NSW,2829,3,1,1,"1,408m²",,Fiona Foodey,House
+,,"$240,000","18 Yarran St,",COONAMBLE,NSW,2829,3,1,2,841m²,NEW,Halcroft & Bennett,House
+,,"$330,000","69-71 Namoi Street,",COONAMBLE,NSW,2829,3,1,4,"1,012m²",,Halcroft & Bennett,House
+,,Contact Agent,"3B Nash Street,",COONAMBLE,NSW,2829,3,1,1,506m²,,Halcroft & Bennett,House
+,,"$350,000","57 Castlereagh Street,",COONAMBLE,NSW,2829,3,1,0,651m²,,Beyond Twenty One Real Estate,Apartment / Unit / Flat
+,,"$185,000 to $190,000","2 Coonamble Terrace,",COONAMBLE,NSW,2829,2,1,0,"1,015m²",,Beyond Twenty One Real Estate,House
+,,"$220,000 to $240,000","11 Castlereagh Street,",COONAMBLE,NSW,2829,3,1,0,581m²,,Beyond Twenty One Real Estate,House
+,,"$110,000","18 Tooloon Street,",COONAMBLE,NSW,2829,0,0,0,0,,Halcroft & Bennett,Vacant land
+,,"$260,000 to $280,000","21 Townsend Street,",COONAMBLE,NSW,2829,3,1,2,"1,030m²",,Beyond Twenty One Real Estate,House
+,,"$219,000","49 Dubbo Street,",COONAMBLE,NSW,2829,4,1,1,"1,144m²",,Halcroft & Bennett,House
+,,"$70,000","25 Wilga Street,",COONAMBLE,NSW,2829,0,0,0,0,,Halcroft & Bennett,Vacant land
+,,"$120,000","2 Mundooren Street,",COONAMBLE,NSW,2829,0,0,0,0,,Halcroft & Bennett,Vacant land
+,,"$198,000","134 Aberford Street,",COONAMBLE,NSW,2829,3,1,3,"1,056m²",,Halcroft & Bennett,House
+,,"$185,000 to $190,000","24 Bimble Street,",COONAMBLE,NSW,2829,2,1,2,"1,020m²",,Beyond Twenty One Real Estate,House
+,,"$5,320,000","12040 Pilliga Road,",COONAMBLE,NSW,2829,0,0,0,0,SOLD,"Picture of 12040 Pilliga Road, COONAMBLE NSW 2829",Rural
+,,"$120,000","10 Maule Lane,",COONAMBLE,NSW,2829,2,1,0,0,SOLD,"Picture of 10 Maule Lane, COONAMBLE NSW 2829",House

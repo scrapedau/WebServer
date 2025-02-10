@@ -1,0 +1,59 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Lynsey Kemp,Belle Property Balmain,"Auction Guide $1,300,000","28/85 Palmer Street,",BALMAIN,NSW,2041,2,2,1,0,,"Picture of 28/85 Palmer Street, BALMAIN NSW 2041",Apartment / Unit / Flat
+Cindy Kennedy,McGrath Balmain,Price Guide on Request,"61 Rowntree Street,",BIRCHGROVE,NSW,2041,2,1,0,107m²,NEW,Cindy Kennedy,House
+Megan Smith,Laing+Simmons Balmain,Contact Agent,"36 Roseberry Street,",BALMAIN,NSW,2041,4,2,0,234m²,NEW,Megan Smith,House
+Andrew Liddell,BresicWhitney Balmain,"Guide $3,500,000","95 Mort Street,",BALMAIN,NSW,2041,4,3,0,219m²,NEW,Andrew Liddell,House
+Andrew Liddell,BresicWhitney Balmain,"Guide $2,800,000","13 Ann Street,",BALMAIN,NSW,2041,3,2,0,183m²,NEW,Andrew Liddell,House
+Cindy Kennedy,McGrath Balmain,"Price Guide $1,675,000","10 Carrington Street,",BALMAIN,NSW,2041,2,1,0,92m²,NEW,Cindy Kennedy,House
+Ada Mastronardo,CobdenHayson Balmain,Contact Agent,"80/8 Water Street,",BIRCHGROVE,NSW,2041,1,1,1,0,NEW,Ada Mastronardo,Apartment / Unit / Flat
+Liz Cloran,CobdenHayson Balmain,Buyer's Guide $2.9m,"49 Gipps Street,",BIRCHGROVE,NSW,2041,3,2,0,211m²,NEW,Liz Cloran,House
+Max Tormey,BresicWhitney Balmain,"Guide $1,900,000","4 Jacques Street,",BALMAIN,NSW,2041,2,1,1,177m²,NEW,Max Tormey,House
+Adrian Oddi,BresicWhitney Balmain,"Guide $7,000,000","4 Isabella Street,",BALMAIN,NSW,2041,4,2,2,645m²,NEW,Adrian Oddi,House
+Monique Dower,Belle Property Balmain,"Auction Guide $3,400,000","12A Grafton Street,",BALMAIN,NSW,2041,3,4,1,183m²,NEW,Monique Dower,Terrace
+Matthew Hayson,CobdenHayson Balmain,Buyer's Guide $5m,"14 McKell Street,",BIRCHGROVE,NSW,2041,3,3,2,0,NEW,Matthew Hayson,House
+Monique Dower,Belle Property Balmain,"Auction Guide $2,100,000","19 McKell Street,",BIRCHGROVE,NSW,2041,3,1,2,219m²,,Monique Dower,House
+Benjamin Martin,CobdenHayson Balmain,Buyer's Guide $2.2m,"81 Palmer Street,",BALMAIN,NSW,2041,4,2,2,0,,Benjamin Martin,Townhouse
+Lynsey Kemp,Belle Property Balmain,"Auction Guide $3,300,000","3 Colgate Avenue,",BALMAIN,NSW,2041,4,2,2,215m²,,Lynsey Kemp,House
+Jasmine Anglesey,BresicWhitney Balmain,"Guide $2,075,000","16 Ferdinand Street,",BIRCHGROVE,NSW,2041,3,2,0,108m²,UPDATED,Jasmine Anglesey,House
+Dean Owsnett,Property Place Agency,"$539,000","10/91 Mort Street,",BALMAIN,NSW,2041,1,1,0,0,UPDATED,Dean Owsnett,Apartment / Unit / Flat
+Stacey Leonie,Ray White The Woollahra Group,Auction 1st March,"25 Louisa Road,",BIRCHGROVE,NSW,2041,4,2,1,0,,Stacey Leonie,House
+Jasmine Anglesey,BresicWhitney Balmain,"Guide $1,800,000","60 Church Street,",BIRCHGROVE,NSW,2041,2,1,0,120m²,,Jasmine Anglesey,House
+Andrew Liddell,BresicWhitney Balmain,"Guide $2,800,000","36 Bradford Street,",BALMAIN,NSW,2041,4,2,0,189m²,,Andrew Liddell,House
+Mark Bowis,CobdenHayson Balmain,Contact Agent,"31 The Avenue,",BALMAIN EAST,NSW,2041,4,3,0,0,,Mark Bowis,House
+,,"$1,425,000","106/8 Water Street,",BIRCHGROVE,NSW,2041,2,2,1,0,SOLD,"Picture of 106/8 Water Street, BIRCHGROVE NSW 2041",Apartment / Unit / Flat
+,,"$2,360,000","186 Beattie Street,",BALMAIN,NSW,2041,3,1,0,0,SOLD,"Picture of 186 Beattie Street, BALMAIN NSW 2041",House
+,,"$3,960,000","13 Paul Street,",BALMAIN EAST,NSW,2041,4,2,0,0,SOLD,"Picture of 13 Paul Street, BALMAIN EAST NSW 2041",House
+Adrian Oddi,BresicWhitney Balmain,"Guide $2,700,000","502/23 Colgate Avenue,",BALMAIN,NSW,2041,2,2,1,0,,"Picture of 502/23 Colgate Avenue, BALMAIN NSW 2041",Apartment / Unit / Flat
+Matthew Hayson,CobdenHayson Balmain,Buyer's Guide $4.8m,"5/123a Darling Street,",BALMAIN EAST,NSW,2041,5,3,3,248m²,,"Picture of 5/123a Darling Street, BALMAIN EAST NSW 2041",House
+Matthew Hayson,CobdenHayson Balmain,Buyer's Guide $3.5m,"3 Darvall Street,",BALMAIN,NSW,2041,4,2,0,240m²,,Matthew Hayson,House
+Paul Cooper,Coopers Agency,Auction Price Guide On Request,"120 Beattie Street,",BALMAIN,NSW,2041,4,2,0,333m²,,Paul Cooper,House
+Lynsey Kemp,Belle Property Balmain,"Auction Guide $1,300,000","28/85 Palmer Street,",BALMAIN,NSW,2041,2,2,1,0,,Lynsey Kemp,Apartment / Unit / Flat
+Mark Bowis,CobdenHayson Balmain,Buyer's Guide $5.5m,"50 Llewellyn Street,",BALMAIN,NSW,2041,5,4,3,404m²,,Mark Bowis,House
+Andrew Liddell,BresicWhitney Balmain,"Guide $6,000,000","142A Darling Street,",BALMAIN EAST,NSW,2041,4,4,3,324m²,,Andrew Liddell,House
+Chris Calvert,CobdenHayson Balmain,Contact Agent,"8/75 Glassop Street,",BALMAIN,NSW,2041,2,1,1,0,,Chris Calvert,Apartment / Unit / Flat
+Alex Agoratsios,Exclusive Real Estate,"$960,000-$1,050,000","11/8 Thames Street,",BALMAIN,NSW,2041,2,1,1,67m²,,Alex Agoratsios,Apartment / Unit / Flat
+Samantha Elvy,CobdenHayson Balmain,Buyer's Guide $6.6m,"38 Darling Street,",BALMAIN EAST,NSW,2041,5,3,1,408m²,,Samantha Elvy,House
+Cindy Kennedy,McGrath Balmain,Price Guide on Request,"1-3 Elliott Street,",BALMAIN,NSW,2041,5,3,0,323m²,,Cindy Kennedy,House
+Rebecca Williams,Belle Property Balmain,"For Sale $1,490,000","101/2-18 Buchanan Street,",BALMAIN,NSW,2041,3,2,1,0,,Rebecca Williams,Apartment / Unit / Flat
+Max Tormey,BresicWhitney Balmain,"Guide $1,250,000","9/1 Rosebery Place,",BALMAIN,NSW,2041,2,2,1,0,,Max Tormey,Apartment / Unit / Flat
+Adrian Oddi,BresicWhitney Balmain,"Guide $1,450,000","19/10 Gow Street,",BALMAIN,NSW,2041,2,1,1,0,,Adrian Oddi,Apartment / Unit / Flat
+Andrew Liddell,BresicWhitney Balmain,"Guide $5,000,000","87 Grove Street,",BIRCHGROVE,NSW,2041,3,3,2,247m²,,Andrew Liddell,House
+Adrian Oddi,BresicWhitney Balmain,Contact agent,"1/102 Elliott Street (access via Broderick St),",BALMAIN,NSW,2041,4,3,2,0,,Adrian Oddi,House
+Belinda Cassano,Ray White Rozelle,"Auction Price Guide $3,800,000","91 Elliott Street,",BALMAIN,NSW,2041,4,2,1,207m²,,Belinda Cassano,House
+Belinda Cassano,Ray White Rozelle,Contact agent,"126/5 Hyam Street,",BALMAIN,NSW,2041,2,2,1,0,,Belinda Cassano,Apartment / Unit / Flat
+Monique Dower,Belle Property Balmain,"For Sale $2,380,000","71 Palmer Street,",BALMAIN,NSW,2041,3,2,2,231m²,,Monique Dower,Townhouse
+GAVIN RUBINSTEIN,TRG,For Sale,"238 Darling Street,",BALMAIN,NSW,2041,5,5,5,0,,GAVIN RUBINSTEIN,House
+,,"$1,425,000","106/8 Water Street,",BIRCHGROVE,NSW,2041,2,2,1,0,SOLD,"Picture of 106/8 Water Street, BIRCHGROVE NSW 2041",Apartment / Unit / Flat
+,,"$2,360,000","186 Beattie Street,",BALMAIN,NSW,2041,3,1,0,0,SOLD,"Picture of 186 Beattie Street, BALMAIN NSW 2041",House
+,,"$3,960,000","13 Paul Street,",BALMAIN EAST,NSW,2041,4,2,0,0,SOLD,"Picture of 13 Paul Street, BALMAIN EAST NSW 2041",House
+David Malouf,Highland Double Bay,"Auction - $6,000,000","4 Broderick Street,",BALMAIN,NSW,2041,4,3,2,0,,"Picture of 4 Broderick Street, BALMAIN NSW 2041",House
+Andrew Liddell,BresicWhitney Balmain,"Guide $2,200,000","7 Elliott Street,",BALMAIN,NSW,2041,3,2,0,142m²,,"Picture of 7 Elliott Street, BALMAIN NSW 2041",House
+,,"$2,335,000","12 Gipps Street,",BIRCHGROVE,NSW,2041,3,1,0,0,,For Sale By Owner Australia,House
+,,"Guide $1,675,000","20/10 Gow Street,",BALMAIN,NSW,2041,3,2,1,0,,Harris Partners,Apartment / Unit / Flat
+,,"For Sale $700,000","3/75 Smith Street,",BALMAIN,NSW,2041,1,1,0,0,,Belle Property Balmain,Apartment / Unit / Flat
+,,"$1,760,000","18 Pashley Street,",BALMAIN,NSW,2041,2,1,0,0,,Stone Real Estate Ermington,House
+,,"Price guide : $1,200,000","102/110 Elliott Street,",BALMAIN,NSW,2041,1,1,1,0,,TRIPLE S PROPERTY,Apartment / Unit / Flat
+,,"Guide $1,220,000","204/108 Elliott Street,",BALMAIN,NSW,2041,1,1,1,0,,TRIPLE S PROPERTY,Apartment / Unit / Flat
+,,"$1,425,000","106/8 Water Street,",BIRCHGROVE,NSW,2041,2,2,1,0,SOLD,"Picture of 106/8 Water Street, BIRCHGROVE NSW 2041",Apartment / Unit / Flat
+,,"$2,360,000","186 Beattie Street,",BALMAIN,NSW,2041,3,1,0,0,SOLD,"Picture of 186 Beattie Street, BALMAIN NSW 2041",House
+,,"$3,960,000","13 Paul Street,",BALMAIN EAST,NSW,2041,4,2,0,0,SOLD,"Picture of 13 Paul Street, BALMAIN EAST NSW 2041",House

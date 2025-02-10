@@ -1,0 +1,63 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Emma Symonds,Real Estate Services by Mirvac,"Buyers Guide $2,350,000","110/172 Ross Street,",FOREST LODGE,NSW,2037,3,2,2,136m²,NEW,"Picture of 110/172 Ross Street, FOREST LODGE NSW 2037",Apartment / Unit / Flat
+James Price,Hudson McHugh,Auction,"13 Forest Street,",FOREST LODGE,NSW,2037,4,3,2,232m²,NEW,"Picture of 13 Forest Street, FOREST LODGE NSW 2037",House
+Maria Magrin,Belle Property Pyrmont,Contact Agent,"6 Toxteth Road,",GLEBE,NSW,2037,5,2,0,478m²,NEW,Maria Magrin,House
+Matthew Carvalho,Ray White Erskineville | Alexandria | Glebe | Surry Hills,"Auction Guide $1,050,000","46/213-221 Bridge Road,",GLEBE,NSW,2037,2,1,1,0,NEW,Matthew Carvalho,Apartment / Unit / Flat
+Matthew Carvalho,Ray White Erskineville | Alexandria | Glebe | Surry Hills,"Auction Guide $1,450,000","1/191-195 Bridge Road,",GLEBE,NSW,2037,2,1,1,0,UPDATED,Matthew Carvalho,Apartment / Unit / Flat
+Suet (Anny) Wang,Legend Property Holdings Pty Ltd,Contact Agent,"Level 4, 404/11 Wentworth Street,",GLEBE,NSW,2037,2,2,1,0,UPDATED,Suet (Anny) Wang,Apartment / Unit / Flat
+John Yannakis,BresicWhitney Inner West,Contact agent,"4/1 Charlton Way,",GLEBE,NSW,2037,2,1,1,0,AUCTION SAT 8 FEB,John Yannakis,Apartment / Unit / Flat
+Ian Qiu,Morton Pyrmont,"$740,000 - $780,000","B506/89 Bay Street,",GLEBE,NSW,2037,1,1,0,65m²,UPDATED,Ian Qiu,Apartment / Unit / Flat
+Giorgio Koula,Sydney Sotheby's International Realty,Contact Agent,"132 Mitchell Street,",GLEBE,NSW,2037,3,2,0,110m²,UPDATED,Giorgio Koula,House
+Lena Zheng,PROPERTY JEN & TIM - CHATSWOOD & RHODES,SELLING | MOTOR-BIKE PARKING | HIGH RENTAL,"2F Wentworth Park Road,",GLEBE,NSW,2037,1,1,0,0,,Lena Zheng,Apartment / Unit / Flat
+Chervonne Papworth,Ayre Real Estate,Auction,"211/5 Elger Street,",GLEBE,NSW,2037,2,2,1,0,,Chervonne Papworth,Apartment / Unit / Flat
+Giorgio Koula,Sydney Sotheby's International Realty,Auction,"15 Avon Street,",GLEBE,NSW,2037,2,2,0,0,,Giorgio Koula,House
+Matthew Carvalho,Ray White Erskineville | Alexandria | Glebe | Surry Hills,Auction,"8 Ferry Road,",GLEBE,NSW,2037,2,1,0,100m²,,Matthew Carvalho,House
+Matthew Carvalho,Ray White Erskineville | Alexandria | Glebe | Surry Hills,Auction,"39 Ross Street,",FOREST LODGE,NSW,2037,4,3,1,177m²,,Matthew Carvalho,House
+William Kwok,Midland Realty Group,Auction | Contact Agent,"608/2 Scotsman Street,",FOREST LODGE,NSW,2037,2,2,1,178m²,,William Kwok,Apartment / Unit / Flat
+George Pavlidis,Ray White Erskineville | Alexandria | Glebe | Surry Hills,Auction,"702/119 Ross Street,",FOREST LODGE,NSW,2037,2,2,1,0,,George Pavlidis,Apartment / Unit / Flat
+Emma Symonds,Real Estate Services by Mirvac,"Buyer Guide $790,000","1307/1 Scotsman Street,",FOREST LODGE,NSW,2037,1,1,0,56m²,,Emma Symonds,Apartment / Unit / Flat
+Rebecca Duncan,Belle Property Annandale,Auction Contact Agent,"6 Griffin Place,",GLEBE,NSW,2037,3,2,2,0,,Rebecca Duncan,House
+Ben Southwell,CobdenHayson Annandale,Contact Agent,"4/407-409 Glebe Point Road,",GLEBE,NSW,2037,1,1,0,46m²,AUCTION TUE 11 FEB,Ben Southwell,Apartment / Unit / Flat
+Matthew Carvalho,Ray White Erskineville | Alexandria | Glebe | Surry Hills,Auction,"121 Bridge Road,",GLEBE,NSW,2037,3,2,0,101m²,AUCTION SAT 8 FEB,Matthew Carvalho,House
+,,"$780,000","29/115 Wigram Road,",FOREST LODGE,NSW,2037,1,1,1,0,SOLD,"Picture of 29/115 Wigram Road, FOREST LODGE NSW 2037",Apartment / Unit / Flat
+,,"$1,515,000","17/14 Leichhardt Street,",GLEBE,NSW,2037,2,2,2,0,SOLD,"Picture of 17/14 Leichhardt Street, GLEBE NSW 2037",Apartment / Unit / Flat
+,,"$1,545,000","22/2A Forsyth Street,",GLEBE,NSW,2037,2,1,1,0,SOLD,"Picture of 22/2A Forsyth Street, GLEBE NSW 2037",Apartment / Unit / Flat
+Kim Wen,Auskim Real Estate,Contact Agent,"3308/21 Scotsman St,",FOREST LODGE,NSW,2037,2,2,1,0,,"Picture of 3308/21 Scotsman St, FOREST LODGE NSW 2037",Apartment / Unit / Flat
+Wendy Zhang,JR Landing Green Square,"$1,500,000","321/1A The Crescent,",FOREST LODGE,NSW,2037,2,2,1,0,,"Picture of 321/1A The Crescent, FOREST LODGE NSW 2037",Apartment / Unit / Flat
+Emma Symonds,Real Estate Services by Mirvac,"Buyers Guide $768,000","6805/162 Ross Street,",FOREST LODGE,NSW,2037,1,1,0,0,,Emma Symonds,Apartment / Unit / Flat
+Emma Symonds,Real Estate Services by Mirvac,"Buyers Guide $2,198,000","805/1 Cullen Close,",FOREST LODGE,NSW,2037,3,2,1,114m²,,Emma Symonds,Apartment / Unit / Flat
+Noel Lucas-Martinez,Belle Property Pyrmont,For Sale Contact Agent,"42A Wentworth Park Road,",GLEBE,NSW,2037,4,3,2,0,,Noel Lucas-Martinez,House
+Phillip Yuan Xie,Eighteen Real Estate Rockdale,Contact Agent,"155 Glebe Point Rd,",GLEBE,NSW,2037,4,2,2,147m²,,Phillip Yuan Xie,House
+James Cahill,Belle Property Glebe,Auction | Contact Agents,"6/447 Glebe Point Road,",GLEBE,NSW,2037,3,1,1,0,,James Cahill,Apartment / Unit / Flat
+George Pavlidis,Ray White Erskineville | Alexandria | Glebe | Surry Hills,Auction,"20/48-64 Wentworth Park Road,",GLEBE,NSW,2037,2,1,2,0,,George Pavlidis,Apartment / Unit / Flat
+Matthew Carvalho,Ray White Erskineville | Alexandria | Glebe | Surry Hills,Auction,"37 Wigram Road,",GLEBE,NSW,2037,4,2,1,158m²,AUCTION SAT 8 FEB,Matthew Carvalho,House
+Nicholas Armstrong-Smith,Century 21 Bondi Junction,AUCTION,"93/11 Wigram Lane,",GLEBE,NSW,2037,3,2,2,0,,Nicholas Armstrong-Smith,Townhouse
+George Antoniou,Boutique Residential Pty Ltd,For Sale $770k,"801/5 Grattan Close,",FOREST LODGE,NSW,2037,1,1,0,55m²,,George Antoniou,Apartment / Unit / Flat
+James Burke,Ray White Annandale,"For Sale | $600,000","210/2 Scotsman Street,",FOREST LODGE,NSW,2037,0,1,0,0,,James Burke,Studio
+Danielle Dewhurst,McGrath Leichhardt,"For Sale $1,100,000","805/2 Cowper Street,",GLEBE,NSW,2037,2,1,1,100m²,,Danielle Dewhurst,Apartment / Unit / Flat
+Nick Countouris,Richardson & Wrench Pyrmont Glebe,$1.86m,"34/48 Wentworth Park Road,",GLEBE,NSW,2037,2,2,2,119m²,,Nick Countouris,Apartment / Unit / Flat
+Rebecca Han,Grand Realty,"$630,000","106/34 Wentworth Street,",GLEBE,NSW,2037,2,1,0,0,,Rebecca Han,Apartment / Unit / Flat
+,,Contact Agent,"A233/6 Elger Street,",GLEBE,NSW,2037,1,1,0,0,,Citiwise Property,Apartment / Unit / Flat
+,,Contact Agent,"12A Wentworth Street,",GLEBE,NSW,2037,2,2,1,0,,Central Property Group Australia Pty Ltd,Apartment / Unit / Flat
+,,"$1,195,000","48-64 Wentworth Park Road,",GLEBE,NSW,2037,1,2,1,0,NEW HOME,Laver Residential Projects,New apartments / off the plan
+,,Contact Agent,"225a & 225b Bridge Road,",GLEBE,NSW,2037,6,4,0,0,,Sydney City & Country Realty,House
+,,Contact Agent,"23/23-25 Ross Street,",FOREST LODGE,NSW,2037,3,2,2,0,,Harris Partners,Apartment / Unit / Flat
+,,"$780,000","29/115 Wigram Road,",FOREST LODGE,NSW,2037,1,1,1,0,SOLD,"Picture of 29/115 Wigram Road, FOREST LODGE NSW 2037",Apartment / Unit / Flat
+,,"$1,515,000","17/14 Leichhardt Street,",GLEBE,NSW,2037,2,2,2,0,SOLD,"Picture of 17/14 Leichhardt Street, GLEBE NSW 2037",Apartment / Unit / Flat
+,,"$1,545,000","22/2A Forsyth Street,",GLEBE,NSW,2037,2,1,1,0,SOLD,"Picture of 22/2A Forsyth Street, GLEBE NSW 2037",Apartment / Unit / Flat
+,,Under Contract| More listing wanted,"307/17 Grattan Close,",FOREST LODGE,NSW,2037,2,2,1,0,,"Picture of 307/17 Grattan Close, FOREST LODGE NSW 2037",Apartment / Unit / Flat
+,,$850K To $880K,"1006/2 Cowper Street,",GLEBE,NSW,2037,2,1,0,0,,"Picture of 1006/2 Cowper Street, GLEBE NSW 2037",Apartment / Unit / Flat
+,,Contact Agent,"1-18/3 Cook Street,",GLEBE,NSW,2037,18,18,10,651m²,,"Picture of 1-18/3 Cook Street, GLEBE NSW 2037",Block of units
+,,Contact Agent,"325 Glebe Point Road,",GLEBE,NSW,2037,2,3,3,0,,"Picture of 325 Glebe Point Road, GLEBE NSW 2037",House
+,,Contact Agent,"Level 10/89 Bay Street,",GLEBE,NSW,2037,2,1,1,0,,Dragon Australia Pty Ltd,Apartment / Unit / Flat
+,,Guide $1.28million,"3802/21 Scotsman Street,",FOREST LODGE,NSW,2037,2,2,1,99m²,,Australia City Properties Management,Apartment / Unit / Flat
+,,Contact Agent,"Terrace 6 Wentworth Street,",GLEBE,NSW,2037,2,2,1,0,,Dragon Australia Pty Ltd,Apartment / Unit / Flat
+,,Contact Agent,"Terrace 6 Wentworth Street,",GLEBE,NSW,2037,2,2,1,0,,Dragon Australia Pty Ltd,Terrace
+,,Contact Agent,"611/89 Bay St,",GLEBE,NSW,2037,1,1,0,47m²,,XKL Investment Group,Apartment / Unit / Flat
+,,Expressions of Interest,"1003/2H Wentworth Park Road,",GLEBE,NSW,2037,1,1,0,0,,Savills Residential,Apartment / Unit / Flat
+,,Contact for Price,"403 GLEBE POINT ROAD,",GLEBE,NSW,2037,8,5,1,348m²,,Property Now,Block of units
+,,"$830,000-870,000","502/89 Bay Street,",GLEBE,NSW,2037,2,1,0,66m²,,,Apartment / Unit / Flat
+,,$850K,"705/2H Wentworth Park Road,",GLEBE,NSW,2037,1,1,0,0,,,Apartment / Unit / Flat
+,,"$780,000","29/115 Wigram Road,",FOREST LODGE,NSW,2037,1,1,1,0,SOLD,"Picture of 29/115 Wigram Road, FOREST LODGE NSW 2037",Apartment / Unit / Flat
+,,"$1,515,000","17/14 Leichhardt Street,",GLEBE,NSW,2037,2,2,2,0,SOLD,"Picture of 17/14 Leichhardt Street, GLEBE NSW 2037",Apartment / Unit / Flat
+,,"$1,545,000","22/2A Forsyth Street,",GLEBE,NSW,2037,2,1,1,0,SOLD,"Picture of 22/2A Forsyth Street, GLEBE NSW 2037",Apartment / Unit / Flat

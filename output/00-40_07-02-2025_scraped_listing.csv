@@ -1,0 +1,24 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Max Spartalis,Krulis Residential,"Auction Guide $1,100,000","B610/444 Harris Street,",ULTIMO,NSW,2007,2,2,1,0,NEW,"Picture of B610/444 Harris Street, ULTIMO NSW 2007",Apartment / Unit / Flat
+Ken Xue,Central Sydney Realty,Contact Agent,"60/288 Wattle Street,",ULTIMO,NSW,2007,2,2,1,0,NEW,"Picture of 60/288 Wattle Street, ULTIMO NSW 2007",Apartment / Unit / Flat
+Sami Yildiz,Ray White Pyrmont,"Buyers guide $1,100,000","B812/62 Mountain Street,",ULTIMO,NSW,2007,2,2,1,111m²,NEW,Sami Yildiz,Apartment / Unit / Flat
+Zakir Abdallaoui,Sydney Sotheby's International Realty,"Buyers guide $1,200,000","55 Hackett Street,",ULTIMO,NSW,2007,2,1,0,0,UPDATED,Zakir Abdallaoui,Terrace
+Spencer Sun,Sydney Sotheby's International Realty,For Sale,"702/276 Bulwara Road,",ULTIMO,NSW,2007,3,2,2,0,UPDATED,Spencer Sun,Apartment / Unit / Flat
+John Zheng,LJ Hooker Pyrmont | Ultimo,"$2,292,000","601/280 Bulwara Road,",ULTIMO,NSW,2007,3,2,2,0,UPDATED,John Zheng,Apartment / Unit / Flat
+Patricia Kho,Kho & Lee Property Group,"$679,000","412/16-20 Smail Street,",ULTIMO,NSW,2007,1,1,0,0,,Patricia Kho,Apartment / Unit / Flat
+Andrew Bova,Exclusive Real Estate,Forthcoming Auction,"173/310 Wattle Street,",ULTIMO,NSW,2007,3,2,2,138m²,,Andrew Bova,Apartment / Unit / Flat
+Chris Nunn,BresicWhitney Inner West,"Guide $1,600,000","240 Bulwara Road,",ULTIMO,NSW,2007,3,2,0,102m²,,Chris Nunn,Terrace
+Brad Papaellinas,BresicWhitney Inner West,"Guide $1,800,000","446 Wattle Street,",ULTIMO,NSW,2007,3,2,1,129m²,,Brad Papaellinas,Terrace
+John Vytrhlik,Century 21 City Quarter,Auction | Contact Agent,"1203/58 Mountain Street,",ULTIMO,NSW,2007,2,2,1,123m²,,John Vytrhlik,Apartment / Unit / Flat
+Sami Yildiz,Ray White Pyrmont,"Buyers guide $1,090,000 - $1,160,000","113/2-12 Smail Street,",ULTIMO,NSW,2007,2,2,1,0,,Sami Yildiz,Apartment / Unit / Flat
+Norman Tran,Adrian William Real Estate,Auction,"202/349-357 Bulwara Road,",ULTIMO,NSW,2007,1,1,0,60m²,AUCTION SAT 8 FEB,Norman Tran,Apartment / Unit / Flat
+Giorgio Repice,Noble Management Group,"Price Guide $200,000 to $220,000","2118/185-211 Broadway,",ULTIMO,NSW,2007,0,1,0,0,,Giorgio Repice,Apartment / Unit / Flat
+Sami Yildiz,Ray White Pyrmont,"Buyers guide $690,000 - $750,000","540/99 Jones Street,",ULTIMO,NSW,2007,1,1,1,0,,Sami Yildiz,Apartment / Unit / Flat
+Ken Xue,Central Sydney Realty,Contact Agent,"42/288 Wattle Street,",ULTIMO,NSW,2007,1,1,1,0,,Central Sydney Realty,Apartment / Unit / Flat
+Giorgio Repice,Noble Management Group,"$165,000","2105/185-211 Broadway,",ULTIMO,NSW,2007,0,1,0,0,,Giorgio Repice,Apartment / Unit / Flat
+Caroline Szeto,Dalgety Square Property Services,Contact Agent,"503/99 Jones Street,",ULTIMO,NSW,2007,2,2,1,0,,Caroline Szeto,Apartment / Unit / Flat
+Susan Suliman,Noble Management Group,"$150,000","3105/185-211 Broadway,",ULTIMO,NSW,2007,0,1,0,0,,Noble Management Group,Apartment / Unit / Flat
+John Zheng,,"$135,000 to $145,000","2022/185 Broadway,",ULTIMO,NSW,2007,1,1,0,0,,John Zheng,Apartment / Unit / Flat
+,,"$1,720,000","23 West End Lane,",ULTIMO,NSW,2007,3,2,1,135m²,SOLD,"Picture of 23 West End Lane, ULTIMO NSW 2007",Townhouse
+,,"$723,000","Q502/111 Quarry Street,",ULTIMO,NSW,2007,1,1,1,60m²,SOLD,"Picture of Q502/111 Quarry Street, ULTIMO NSW 2007",Apartment / Unit / Flat
+,,"$1,192,000","903/646 Harris Street,",ULTIMO,NSW,2007,3,3,1,0,SOLD,"Picture of 903/646 Harris Street, ULTIMO NSW 2007",Apartment / Unit / Flat

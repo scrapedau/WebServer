@@ -1,0 +1,29 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Andrew Harding,Ray White Darwin,AUCTION On-Site,"5 Fern Court,",LEANYER,NT,0812,4,2,2,0,NEW,Andrew Harding,House
+Julie Neal,Colliers International Darwin,"Offers over $300,000","14/9 Gleneagles Crescent,",MARRARA,NT,0812,1,1,1,166m²,,Julie Neal,Apartment / Unit / Flat
+Matt Englund,,"$295,000","1/9 Donaldson Court,",KARAMA,NT,0812,2,1,1,0,NEW,Matt Englund,Apartment / Unit / Flat
+Michael Van De Graaf,,Offers over $600k,"54 Dorrigo Crescent,",KARAMA,NT,0812,4,2,4,800m²,NEW,Michael Van De Graaf,House
+Braden Menzies,,"$420,000","2/27 Wulagi Crescent,",WULAGI,NT,0812,2,1,1,0,,Braden Menzies,Apartment / Unit / Flat
+Paige Crow,,"Offers Over $640,000","14 Mueller Road,",KARAMA,NT,0812,5,2,4,802m²,,Paige Crow,House
+,,"$725,000.00","35 Howley Cres,",ANULA,NT,0812,6,3,4,"1,291m²",,Sam Wilks Real Estate,House
+,,Offers over $570000 will be considered,"27 Curlew Circuit,",WULAGI,NT,0812,3,1,4,791m²,,All About Real Estate NT Pty Ltd,House
+,,"Offers over $550,000","10 Koolama Court,",KARAMA,NT,0812,4,2,2,0,,Real Estate Central NT,House
+,,"O/O $300,000","7/13 Magdelene Court,",MALAK,NT,0812,2,1,2,0,,Real Estate Central NT,Apartment / Unit / Flat
+,,"$339,888","6/2 Hauser Court,",MARRARA,NT,0812,2,1,1,0,,@realty,Block of units
+,,"$260,000","28 Mistletoe Circuit,",KARAMA,NT,0812,0,0,0,0,,No Agent Property,Vacant land
+,,FASTRAK,"4 Bramble Court,",LEANYER,NT,0812,4,3,2,808m²,,Elders Top End Group,House
+,,"Offers above $795,000","3 Burgan Court,",ANULA,NT,0812,3,2,2,838m²,,Sale by Home Owner,House
+,,"$515,000","35 Applegum Dr,",KARAMA,NT,0812,3,1,4,769m²,,Sam Wilks Real Estate,House
+,,"$360,000 Negotiable","9/12 Grassland Crescent,",LEANYER,NT,0812,2,1,2,0,,No Agent Property,Apartment / Unit / Flat
+,,"$565,000","30 McPherson Street,",KARAMA,NT,0812,4,1,6,800m²,,No Agent Property,House
+,,"Land Starting from $260,000","440-460 McMillans Road,",MARRARA,NT,0812,0,0,0,0,,Ellis Parker Real Estate,Vacant land
+,,"$745,000","19 Longwood Avenue,",LEANYER,NT,0812,5,2,2,0,,Real Estate Central NT,House
+,,"$507,500","34 Rosewood Crescent,",LEANYER,NT,0812,3,2,2,820m²,SOLD,"Picture of 34 Rosewood Crescent, LEANYER NT 0812",House
+,,"$525,000","18 Marshall Court,",MALAK,NT,0812,3,1,2,804m²,SOLD,"Picture of 18 Marshall Court, MALAK NT 0812",House
+,,"$340,000","4/22 Grasslands Crescent,",LEANYER,NT,0812,2,1,1,0,SOLD,"Picture of 4/22 Grasslands Crescent, LEANYER NT 0812",Apartment / Unit / Flat
+,,"$850,000","18 Parkside Crescent,",LEANYER,NT,0812,4,2,4,800m²,,Agents'Agency Network Partners,House
+,,"$555,000","29 Milkwood Circuit,",KARAMA,NT,0812,3,1,4,870m²,,Sam Wilks Real Estate,House
+,,"$725,000","1 Ridgehaven Circuit,",LEANYER,NT,0812,3,1,2,805m²,,,House
+,,"$507,500","34 Rosewood Crescent,",LEANYER,NT,0812,3,2,2,820m²,SOLD,"Picture of 34 Rosewood Crescent, LEANYER NT 0812",House
+,,"$525,000","18 Marshall Court,",MALAK,NT,0812,3,1,2,804m²,SOLD,"Picture of 18 Marshall Court, MALAK NT 0812",House
+,,"$340,000","4/22 Grasslands Crescent,",LEANYER,NT,0812,2,1,1,0,SOLD,"Picture of 4/22 Grasslands Crescent, LEANYER NT 0812",Apartment / Unit / Flat

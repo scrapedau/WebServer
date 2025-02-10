@@ -1,0 +1,35 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Daryl Katz,Shead Property,"$950,000 - $980,000","5/2 McMillan Road,",ARTARMON,NSW,2064,2,1,1,0,,"Picture of 5/2 McMillan Road, ARTARMON NSW 2064",Apartment / Unit / Flat
+Konstantin Melnikov,Morton Crows Nest,Contact Agent,"18/1 Jersey Road,",ARTARMON,NSW,2064,2,2,1,0,NEW,Konstantin Melnikov,Apartment / Unit / Flat
+Jeremy Ong,Laing+Simmons Artarmon,Auction | Contact Agent,"4/8 Jersey Road,",ARTARMON,NSW,2064,2,1,2,0,NEW,Jeremy Ong,Townhouse
+Andy Yeung,Ray White AY Realty Chatswood,Auction - Contact Agent,"67 Broughton Road,",ARTARMON,NSW,2064,1,1,2,626m²,NEW,Andy Yeung,House
+John McManus,Ray White Lower North Shore Group,Auction,"17 Cameron Avenue,",ARTARMON,NSW,2064,5,3,4,607m²,NEW,John McManus,House
+Nick Separovich,Raine & Horne Lower North Shore,Auction - Contact Agent,"73 Broughton Road,",ARTARMON,NSW,2064,5,3,2,696m²,NEW,Nick Separovich,House
+John McManus,Ray White Lower North Shore Group,Auction,"22 Robert Street,",ARTARMON,NSW,2064,2,2,2,322m²,,John McManus,House
+Daryl Katz,Shead Property,Contact Agent,"14/3 McMillan Road,",ARTARMON,NSW,2064,2,1,1,0,,Daryl Katz,Apartment / Unit / Flat
+John McManus,Ray White Lower North Shore Group,Auction,"22 Weedon Road,",ARTARMON,NSW,2064,3,1,1,864m²,,John McManus,House
+James Bennett,Belle Property Willoughby,"AUCTION, Contact Agent","2E/1 Francis Road,",ARTARMON,NSW,2064,2,2,1,0,,James  Bennett,Apartment / Unit / Flat
+Anna Chow,Asset Realty,Auction (Unless Sold Prior),"28/19-21 Milner Road,",ARTARMON,NSW,2064,3,2,1,184m²,,Anna Chow,Townhouse
+Zack (Hengke) Liu,Raine & Horne Carlingford,Auction,"5/24-28 Cleland Road,",ARTARMON,NSW,2064,3,2,1,0,,Zack (Hengke) Liu,Townhouse
+John McManus,Ray White Lower North Shore Group,Contact Agent,"268 Mowbray Road,",ARTARMON,NSW,2064,4,2,3,961m²,,John McManus,House
+Daniel Cakmak,Raine & Horne Lower North Shore,Contact Agent,"2210/9 Eric Road,",ARTARMON,NSW,2064,2,2,1,0,,Daniel Cakmak,Apartment / Unit / Flat
+Daniel Cakmak,Raine & Horne Lower North Shore,Auction - Contact Agent,"6/421-473 Pacific Highway,",ARTARMON,NSW,2064,2,2,1,0,,Daniel Cakmak,Apartment / Unit / Flat
+Daryl Katz,Shead Property,"$950,000 - $980,000","5/2 McMillan Road,",ARTARMON,NSW,2064,2,1,1,0,,Daryl Katz,Apartment / Unit / Flat
+Andy Yeung,Ray White AY Realty Chatswood,"For Sale $1,400,000 - $1,540,000","14/7 Jersey Road,",ARTARMON,NSW,2064,3,2,1,0,,Andy Yeung,Apartment / Unit / Flat
+Jeremy Ong,Laing+Simmons Artarmon,"Auction Guide $900,000","28/2 Francis Road,",ARTARMON,NSW,2064,2,1,1,0,AUCTION SAT 8 FEB,Jeremy Ong,Apartment / Unit / Flat
+Andy Yeung,Ray White AY Realty Chatswood,Auction - Contact Agent,"12B Milner Road,",ARTARMON,NSW,2064,2,1,1,0,,Andy Yeung,Townhouse
+Andy Yeung,Ray White AY Realty Chatswood,"Auction Guide $870,000","22/11 Hampden Road,",ARTARMON,NSW,2064,2,1,1,0,AUCTION SAT 8 FEB,Andy Yeung,Apartment / Unit / Flat
+Hamish Gibbs,McGrath Crows Nest,Price on request,"7/1 Parkes Road,",ARTARMON,NSW,2064,4,3,2,261m²,,Hamish Gibbs,Townhouse
+,,"$1,380,000","79/421-473 Pacific Highway,",ARTARMON,NSW,2064,3,2,2,0,SOLD,"Picture of 79/421-473 Pacific Highway, ARTARMON NSW 2064",Apartment / Unit / Flat
+,,"$1,275,000","12/2 Francis Road,",ARTARMON,NSW,2064,2,1,1,0,SOLD,"Picture of 12/2 Francis Road, ARTARMON NSW 2064",Apartment / Unit / Flat
+,,"$3,410,000","19 Smith Road,",ARTARMON,NSW,2064,2,1,2,695m²,SOLD,"Picture of 19 Smith Road, ARTARMON NSW 2064",House
+Andy Yeung,Ray White AY Realty Chatswood,"For Sale $690,000 - $720,000","2/26 Eric Road,",ARTARMON,NSW,2064,1,1,1,0,,Andy Yeung,Apartment / Unit / Flat
+,,Auction - Contact Agent,"15/142 Hampden Road,",ARTARMON,NSW,2064,2,1,1,0,,Stone Real Estate Roseville Willoughby,Apartment / Unit / Flat
+,,For Sale - Contact Agent,"1,2,3 & 4/19 Elizabeth Street,",ARTARMON,NSW,2064,8,4,1,334m²,,DiJones - Willoughby,Apartment / Unit / Flat
+,,Just Listed For Sale,"11/35-39 Parkes Rd,",ARTARMON,NSW,2064,2,2,1,0,,Talent Realty,Apartment / Unit / Flat
+,,Contact seller,"4/25A Hampden Road,",ARTARMON,NSW,2064,2,1,1,0,,buymyplace,Apartment / Unit / Flat
+,,Price guide 2.60-2.70mil,"5/1-3 Parkes Road,",ARTARMON,NSW,2064,4,3,2,0,,Compass Realty,Townhouse
+,,"$900,000 to $920,000","7/421-473 Pacific Highway,",ARTARMON,NSW,2064,2,2,1,123m²,,100% Sold Realty,Apartment / Unit / Flat
+,,"$1,380,000","79/421-473 Pacific Highway,",ARTARMON,NSW,2064,3,2,2,0,SOLD,"Picture of 79/421-473 Pacific Highway, ARTARMON NSW 2064",Apartment / Unit / Flat
+,,"$1,275,000","12/2 Francis Road,",ARTARMON,NSW,2064,2,1,1,0,SOLD,"Picture of 12/2 Francis Road, ARTARMON NSW 2064",Apartment / Unit / Flat
+,,"$3,410,000","19 Smith Road,",ARTARMON,NSW,2064,2,1,2,695m²,SOLD,"Picture of 19 Smith Road, ARTARMON NSW 2064",House

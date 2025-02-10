@@ -1,0 +1,39 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Brody O'Brien,Ayre Real Estate,"Auction Guide $750,000","2/3 Fozzard Lane,",PETERSHAM,NSW,2049,1,1,1,95m²,NEW,Brody O'Brien,Apartment / Unit / Flat
+Adrian Vassallo,Stone Real Estate Newtown,Auction,"18 St John Street,",LEWISHAM,NSW,2049,2,1,1,146m²,NEW,Adrian Vassallo,House
+Nick Arena,CobdenHayson Petersham,Contact Agent,"2/28 Gould Avenue,",LEWISHAM,NSW,2049,2,1,1,0,NEW,Nick Arena,Apartment / Unit / Flat
+Shad Hassen,The Agency,Contact Agent,"35 Palace Street,",PETERSHAM,NSW,2049,3,2,2,327m²,AUCTION SAT 8 FEB,Shad Hassen,House
+Lars Foged,Hudson McHugh,"For sale - $470,000","313/1 Phillip Street,",PETERSHAM,NSW,2049,1,1,1,0,UPDATED,Lars Foged,Apartment / Unit / Flat
+Darren Pearce,BresicWhitney Inner East,"Guide $1,950,000","33 Maria Street,",PETERSHAM,NSW,2049,3,2,3,289m²,,Darren Pearce,House
+Luke Northcott,CobdenHayson Petersham,Contact Agent,"11 Fred Street,",LEWISHAM,NSW,2049,3,1,0,0,,Luke Northcott,House
+Nick Arena,CobdenHayson Petersham,Contact Agent,"86 Denison Road,",LEWISHAM,NSW,2049,5,2,0,242m²,,Nick Arena,House
+Frederico Fraga-Matos,BresicWhitney Inner West,"Guide $1,700,000","4 McRae Street,",PETERSHAM,NSW,2049,3,2,0,0,,Frederico Fraga-Matos,House
+Joseph Fenech,Hudson McHugh,For sale - Contact agent,"7/504 Parramatta Road,",PETERSHAM,NSW,2049,2,2,1,0,,Joseph Fenech,Apartment / Unit / Flat
+Eric Wong,Royale Stone Realty,"$600,000-$630,000","207/14 McGill Street,",LEWISHAM,NSW,2049,1,1,0,0,,Royale Stone Realty,Apartment / Unit / Flat
+Jay King,Harris Tripp,For Sale,"33 The Boulevarde,",LEWISHAM,NSW,2049,7,6,0,284m²,,Jay King,Block of units
+Yianni Karakikes,LJ Hooker Dulwich Hill,Auction | Contact Agent,"25/31-33 Livingstone Road,",PETERSHAM,NSW,2049,2,1,1,90m²,,Yianni Karakikes,Apartment / Unit / Flat
+Lars Foged,Hudson McHugh,Auction,"22 Maria Street,",PETERSHAM,NSW,2049,4,1,2,302m²,,Lars Foged,House
+Jordan Dias,Harris Tripp,"Guide $850,000","107/118 Old Canterbury Road,",LEWISHAM,NSW,2049,3,2,0,0,,Jordan Dias,Apartment / Unit / Flat
+Frederico Fraga-Matos,BresicWhitney Inner West,"Guide $1,400,000","38 Andreas Street,",PETERSHAM,NSW,2049,2,1,0,0,AUCTION SAT 8 FEB,Frederico Fraga-Matos,House
+George Boghos,"Ray White Kingsgrove, Bexley North & Beverly Hills",For Sale | Contact George Boghos,"204/118 Old Canterbury Road,",LEWISHAM,NSW,2049,2,2,1,0,,George Boghos,Apartment / Unit / Flat
+Anson Kolb,,"FOR SALE $690,000","14/7-15 McGill Street,",LEWISHAM,NSW,2049,1,1,1,0,NEW,Anson Kolb,Apartment / Unit / Flat
+Michael Catalano,,EOI,"48 Fort Street,",PETERSHAM,NSW,2049,15,3,4,660m²,,Michael Catalano,Block of units
+,,NOW SELLING | Inspect Display Suite By Appointment,"1-27/446 Parramatta Road,",PETERSHAM,NSW,2049,2,1,1,0,,Ray White Eastern Beaches,Apartment / Unit / Flat
+,,"$940,000","74A Crystal Street,",PETERSHAM,NSW,2049,1,1,1,226m²,SOLD,"Picture of 74A Crystal Street, PETERSHAM NSW 2049",House
+,,"$1,505,000","294 New Canterbury Road,",LEWISHAM,NSW,2049,3,1,2,329m²,SOLD,"Picture of 294 New Canterbury Road, LEWISHAM NSW 2049",House
+,,"$915,000","11/27 Gordon Street,",PETERSHAM,NSW,2049,2,2,1,0,SOLD,"Picture of 11/27 Gordon Street, PETERSHAM NSW 2049",Apartment / Unit / Flat
+,,NOW SELLING | Inspect Display Suite By Appointment,"1-27/446-448 Parramatta Road,",PETERSHAM,NSW,2049,1,1,1,0,,"Picture of 1-27/446-448 Parramatta Road, PETERSHAM NSW 2049",Apartment / Unit / Flat
+,,"For sale $539,000","415/1 Phillip Street,",PETERSHAM,NSW,2049,1,1,1,72m²,,"Picture of 415/1 Phillip Street, PETERSHAM NSW 2049",Apartment / Unit / Flat
+,,"$430,000.00 - $449,000.00","111/1 Phillip Street,",PETERSHAM,NSW,2049,1,1,0,0,,"Picture of 111/1 Phillip Street, PETERSHAM NSW 2049",Apartment / Unit / Flat
+,,Contact Agent,"Level 4/1 William Street,",LEWISHAM,NSW,2049,1,1,1,0,,"Picture of Level 4/1 William Street, LEWISHAM NSW 2049",Apartment / Unit / Flat
+,,Auction,"23 Brighton St,",PETERSHAM,NSW,2049,16,5,0,0,,"Picture of 23 Brighton St, PETERSHAM NSW 2049",House
+,,Auction,"328A & 328B New Canterbury Road,",LEWISHAM,NSW,2049,4,2,2,0,NEW,"Picture of 328A & 328B New Canterbury Road, LEWISHAM NSW 2049",House
+,,Contact Agent,"207 New Canterbury Road,",LEWISHAM,NSW,2049,3,1,2,297m²,,Harris Partners,House
+,,"$2,900,000 - $3,100,000","17 Hunter Street,",LEWISHAM,NSW,2049,4,3,2,372m²,,Property Now,House
+,,"Guide $1,699,000","21/5 Croydon Street,",PETERSHAM,NSW,2049,4,4,2,0,,Harris Partners,Apartment / Unit / Flat
+,,"$540,000 - $560,000","212/1 Phillip Street,",PETERSHAM,NSW,2049,1,1,1,63m²,,True Property,Apartment / Unit / Flat
+,,MUST BE SOLD,"426/12 HUDSON ST,",LEWISHAM,NSW,2049,2,2,1,0,,,Apartment / Unit / Flat
+,,"$999,000","A12/12 MCGILL Street,",LEWISHAM,NSW,2049,2,2,1,0,,,Apartment / Unit / Flat
+,,"$940,000","74A Crystal Street,",PETERSHAM,NSW,2049,1,1,1,226m²,SOLD,"Picture of 74A Crystal Street, PETERSHAM NSW 2049",House
+,,"$1,505,000","294 New Canterbury Road,",LEWISHAM,NSW,2049,3,1,2,329m²,SOLD,,House
+,,"$915,000","11/27 Gordon Street,",PETERSHAM,NSW,2049,2,2,1,0,SOLD,"Picture of 11/27 Gordon Street, PETERSHAM NSW 2049",Apartment / Unit / Flat

@@ -1,0 +1,36 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Tina O'Connor,Ray White Annandale,Auction | Tina O'Connor,"20/34 Johnston Street,",ANNANDALE,NSW,2038,2,1,1,0,UPDATED,"Picture of 20/34 Johnston Street, ANNANDALE NSW 2038",Apartment / Unit / Flat
+Tina O'Connor,Ray White Annandale,"For Sale | $2,650,000","117 Johnston Street,",ANNANDALE,NSW,2038,1,1,0,189m²,,"Picture of 117 Johnston Street, ANNANDALE NSW 2038",House
+Tina O'Connor,Ray White Annandale,Auction | Tina O'Connor,"1/170 Nelson Street,",ANNANDALE,NSW,2038,2,1,1,0,UPDATED,"Picture of 1/170 Nelson Street, ANNANDALE NSW 2038",Apartment / Unit / Flat
+Tina O'Connor,Ray White Annandale,Auction | Tina O'Connor,"20/34 Johnston Street,",ANNANDALE,NSW,2038,2,1,1,0,UPDATED,"Picture of 20/34 Johnston Street, ANNANDALE NSW 2038",Apartment / Unit / Flat
+Tina O'Connor,Ray White Annandale,"For Sale | $2,650,000","117 Johnston Street,",ANNANDALE,NSW,2038,1,1,0,189m²,,"Picture of 117 Johnston Street, ANNANDALE NSW 2038",House
+Tina O'Connor,Ray White Annandale,Auction | Tina O'Connor,"1/170 Nelson Street,",ANNANDALE,NSW,2038,2,1,1,0,UPDATED,"Picture of 1/170 Nelson Street, ANNANDALE NSW 2038",Apartment / Unit / Flat
+Tina O'Connor,Ray White Annandale,Auction | Tina O'Connor,"20/34 Johnston Street,",ANNANDALE,NSW,2038,2,1,1,0,UPDATED,"Picture of 20/34 Johnston Street, ANNANDALE NSW 2038",Apartment / Unit / Flat
+Ben Southwell,CobdenHayson Annandale,Contact Agent,"24 Annandale Street,",ANNANDALE,NSW,2038,5,3,2,293m²,NEW,"Picture of 24 Annandale Street, ANNANDALE NSW 2038",House
+Julie Hatch,CobdenHayson Annandale,Contact Agent,"84 Nelson Street,",ANNANDALE,NSW,2038,2,1,0,126m²,NEW,Julie Hatch,House
+Stephanie Zerial,CobdenHayson Annandale,Contact Agent,"22/268 Johnston Street,",ANNANDALE,NSW,2038,1,1,1,0,NEW,Stephanie Zerial,Apartment / Unit / Flat
+Michael Hallit,Belle Property Annandale,Auction,"46 Wells Street,",ANNANDALE,NSW,2038,3,1,0,0,NEW,Michael Hallit,House
+Matthew Hayson,CobdenHayson Balmain,Contact Agent,"137 Annandale Street,",ANNANDALE,NSW,2038,5,3,4,666m²,,Matthew Hayson,House
+James Burke,Ray White Annandale,Auction | James Burke & Diana Vescio,"16/233A Johnston Street,",ANNANDALE,NSW,2038,2,2,2,0,AUCTION THU 13 FEB,James Burke,Apartment / Unit / Flat
+Tina O'Connor,Ray White Annandale,Auction | Tina O'Connor,"72/268 Johnston Street,",ANNANDALE,NSW,2038,2,1,1,0,AUCTION THU 13 FEB,Tina O'Connor,Apartment / Unit / Flat
+Tina O'Connor,Ray White Annandale,Auction | Tina O'Connor,"1/170 Nelson Street,",ANNANDALE,NSW,2038,2,1,1,0,UPDATED,Tina O'Connor,Apartment / Unit / Flat
+Tina O'Connor,Ray White Annandale,Auction | Tina O'Connor,"20/34 Johnston Street,",ANNANDALE,NSW,2038,2,1,1,0,UPDATED,Tina O'Connor,Apartment / Unit / Flat
+Simon Pilcher,Pilcher Residential,Auction Guide $6.5m,"150 Johnston Street,",ANNANDALE,NSW,2038,5,3,3,727m²,,Simon Pilcher,House
+Simon Pilcher,Pilcher Residential,Auction Guide $1.8m,"145 Nelson Street,",ANNANDALE,NSW,2038,2,1,0,82m²,,Simon Pilcher,House
+Simon Pilcher,Pilcher Residential,For Sale $1.775m,"201 Young Street,",ANNANDALE,NSW,2038,2,2,1,133m²,,Simon Pilcher,House
+Simon Pilcher,Pilcher Residential,Auction Guide $3.2m,"46 Alfred Street,",ANNANDALE,NSW,2038,4,2,1,190m²,,Simon Pilcher,House
+Simon Pilcher,Pilcher Residential,Auction Guide $2.3m,"184 Young Street,",ANNANDALE,NSW,2038,3,2,0,209m²,,Simon Pilcher,House
+Michael Hallit,Belle Property Annandale,Auction This Saturday,"30 Nelson Street,",ANNANDALE,NSW,2038,3,1,1,288m²,AUCTION SAT 8 FEB,Michael Hallit,House
+Danielle Dewhurst,McGrath Leichhardt,"Guide $1,650,000 - $1,750,000","10/74 Johnston Street,",ANNANDALE,NSW,2038,2,1,2,187m²,,Danielle Dewhurst,Townhouse
+Tina O'Connor,Ray White Annandale,For Sale | Contact Agent,"303 Nelson Street,",ANNANDALE,NSW,2038,3,2,1,208m²,,Tina O'Connor,House
+MARK BENCE,Bence Property Group,2 separate residences on one title AUCTION,"38 Albion Street,",ANNANDALE,NSW,2038,6,3,0,0,,MARK BENCE,House
+Tina O'Connor,Ray White Annandale,"For Sale | $2,650,000","117 Johnston Street,",ANNANDALE,NSW,2038,1,1,0,189m²,,Tina O'Connor,House
+,,"Guide $3,500,000","203 Nelson Street,",ANNANDALE,NSW,2038,3,2,1,0,,BresicWhitney Inner West,House
+,,"$430,000","24/268 Johnston Street,",ANNANDALE,NSW,2038,0,1,1,41m²,SOLD,"Picture of 24/268 Johnston Street, ANNANDALE NSW 2038",Studio
+,,"$2,000,000","218 Annandale Street,",ANNANDALE,NSW,2038,2,1,0,0,SOLD,,House
+,,"$2,175,000","145 Young Street,",ANNANDALE,NSW,2038,3,2,0,139m²,SOLD,"Picture of 145 Young Street, ANNANDALE NSW 2038",House
+,,Auction | James Burke & Diana Vescio,"20 Susan Street,",ANNANDALE,NSW,2038,3,2,2,0,,"Picture of 20 Susan Street, ANNANDALE NSW 2038",Townhouse
+,,Contact Agent,"21 Piper Street,",ANNANDALE,NSW,2038,3,1,2,193m²,,Harris Partners,House
+,,"$430,000","24/268 Johnston Street,",ANNANDALE,NSW,2038,0,1,1,41m²,SOLD,"Picture of 24/268 Johnston Street, ANNANDALE NSW 2038",Studio
+,,"$2,000,000","218 Annandale Street,",ANNANDALE,NSW,2038,2,1,0,0,SOLD,"Picture of 218 Annandale Street, ANNANDALE NSW 2038",House
+,,"$2,175,000","145 Young Street,",ANNANDALE,NSW,2038,3,2,0,139m²,SOLD,"Picture of 145 Young Street, ANNANDALE NSW 2038",House

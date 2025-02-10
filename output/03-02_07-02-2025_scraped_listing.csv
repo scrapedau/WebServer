@@ -1,0 +1,28 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+John McManus,Ray White Lower North Shore Group,Auction,"75/2 Artarmon Road,",WILLOUGHBY,NSW,2068,2,1,1,110m²,,"Picture of 75/2 Artarmon Road, WILLOUGHBY NSW 2068",Apartment / Unit / Flat
+John McManus,Ray White Lower North Shore Group,Auction,"55 Fourth Avenue,",WILLOUGHBY,NSW,2068,4,4,2,562m²,,"Picture of 55 Fourth Avenue, WILLOUGHBY NSW 2068",House
+John McManus,Ray White Lower North Shore Group,Auction,"1B Remuera Street,",WILLOUGHBY,NSW,2068,5,2,2,557m²,,"Picture of 1B Remuera Street, WILLOUGHBY NSW 2068",House
+John McManus,Ray White Lower North Shore Group,Auction,"75/2 Artarmon Road,",WILLOUGHBY,NSW,2068,2,1,1,110m²,,"Picture of 75/2 Artarmon Road, WILLOUGHBY NSW 2068",Apartment / Unit / Flat
+John McManus,Ray White Lower North Shore Group,Auction,"55 Fourth Avenue,",WILLOUGHBY,NSW,2068,4,4,2,562m²,,"Picture of 55 Fourth Avenue, WILLOUGHBY NSW 2068",House
+John McManus,Ray White Lower North Shore Group,Auction,"1B Remuera Street,",WILLOUGHBY,NSW,2068,5,2,2,557m²,,"Picture of 1B Remuera Street, WILLOUGHBY NSW 2068",House
+John McManus,Ray White Lower North Shore Group,Auction,"75/2 Artarmon Road,",WILLOUGHBY,NSW,2068,2,1,1,110m²,,"Picture of 75/2 Artarmon Road, WILLOUGHBY NSW 2068",Apartment / Unit / Flat
+Michael Coombs,Atlas | Lower North Shore,Contact Agent,"304 Edinburgh Road,",CASTLECRAG,NSW,2068,5,7,2,0,NEW,"Picture of 304 Edinburgh Road, CASTLECRAG NSW 2068",House
+David Forrester,Belle Property Northbridge,Contact Agent,"98 The Bulwark,",CASTLECRAG,NSW,2068,5,5,2,749m²,NEW,David Forrester,House
+Rawa Norman,DiJones - Willoughby,Auction - Contact Agent,"131 Sydney Street,",WILLOUGHBY,NSW,2068,4,3,2,0,NEW,Rawa Norman,House
+Michael Bao,De Brennan Property,Contact Agent,"58 Linden Way,",CASTLECRAG,NSW,2068,5,3,5,"1,201m²",NEW,Michael Bao,House
+Stewart Gordon,Ray White Lower North Shore Group,Auction - Contact Agent,"13 The Citadel,",CASTLECRAG,NSW,2068,3,2,2,750m²,NEW,Stewart Gordon,House
+Stewart Gordon,Ray White Lower North Shore Group,Auction - Contact Agent,"111 Eastern Valley Way,",CASTLECRAG,NSW,2068,5,4,2,0,NEW,Stewart Gordon,House
+Tony Bellia,Forsyth Real Estate,Brand New Home - Auction,"34 Glover Street,",WILLOUGHBY,NSW,2068,5,5,4,0,NEW,Tony Bellia,House
+Rawa Norman,DiJones - Willoughby,Auction - Contact Agent,"7 Stan Street,",WILLOUGHBY,NSW,2068,4,2,2,0,NEW,Rawa Norman,House
+Jason Conroy,DiJones - Willoughby,Auction - Contact Agent,"4 Gorman Street,",WILLOUGHBY,NSW,2068,5,3,2,0,NEW,Jason Conroy,House
+David Howe,Raine & Horne Lower North Shore,Auction - Contact Agent,"68 Robert Street,",WILLOUGHBY,NSW,2068,3,2,2,0,,David Howe,House
+Rick Woodward,The Agency North,Contact Agent,"290 Edinburgh Road,",CASTLECRAG,NSW,2068,5,5,2,739m²,,Rick Woodward,House
+Rawa Norman,DiJones - Willoughby,Auction - Contact Agent,"11 The Lee,",MIDDLE COVE,NSW,2068,3,1,2,809m²,UPDATED,Rawa Norman,House
+Nicholas Dunn,McGrath Willoughby,Auction | Price on Request,"51 Chiltern Road,",WILLOUGHBY,NSW,2068,4,2,1,398m²,UPDATED,Nicholas Dunn,House
+James Marshman,Forsyth Real Estate,Contact Agent,"144 Sydney Street,",WILLOUGHBY,NSW,2068,4,2,2,0,,James Marshman,House
+Rob Woodley,Belle Property Willoughby,"FOR SALE, Contact Agent","1/597 Willoughby Road,",WILLOUGHBY,NSW,2068,1,1,0,0,,Rob Woodley,Apartment / Unit / Flat
+John McManus,Ray White Lower North Shore Group,Auction,"1B Remuera Street,",WILLOUGHBY,NSW,2068,5,2,2,557m²,,John McManus,House
+Bo Zhang,Atlas | Lower North Shore,Contact Agent,"10 Kingsmeadow Close,",WILLOUGHBY,NSW,2068,4,2,2,269m²,,Bo Zhang,House
+,,"$4,450,000","102 Laurel Street,",WILLOUGHBY,NSW,2068,4,1,2,607m²,SOLD,"Picture of 102 Laurel Street, WILLOUGHBY NSW 2068",House
+,,"$3,420,000","26 Chaleyer Street,",WILLOUGHBY,NSW,2068,2,1,4,515m²,SOLD,"Picture of 26 Chaleyer Street, WILLOUGHBY NSW 2068",House
+,,"$3,775,000","23 The Rampart,",CASTLECRAG,NSW,2068,4,3,3,853m²,SOLD,"Picture of 23 The Rampart, CASTLECRAG NSW 2068",House

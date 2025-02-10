@@ -1,0 +1,117 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Bec Wescombe,Ray White Darwin,"$360,000","5003/4 Kurringal Court,",FANNIE BAY,NT,0820,1,1,1,0,NEW,"Picture of 5003/4 Kurringal Court, FANNIE BAY NT 0820",Apartment / Unit / Flat
+Andrew Harding,Ray White Darwin,"$1,200,000","11 Laidlaw Court,",BAYVIEW,NT,0820,4,3,2,0,NEW,"Picture of 11 Laidlaw Court, BAYVIEW NT 0820",House
+Andrew Harding,Ray White Darwin,"Price Guide $760,000","24 Ah Mat Street,",WOOLNER,NT,0820,4,2,2,0,,Andrew Harding,House
+Andrew Harding,Ray White Darwin,"Price Guide $1,730,000","11 Little Street,",FANNIE BAY,NT,0820,5,4,4,"1,160m²",,Andrew Harding,House
+Andrew Harding,Ray White Darwin,"$685,000","5/81 Cullen Bay Crescent,",CULLEN BAY,NT,0820,3,2,2,0,,Andrew Harding,Townhouse
+Andrew Harding,Ray White Darwin,"AUCTION On-Site: Bidding from $1,000,000","13 Drysdale Street,",PARAP,NT,0820,4,3,2,0,AUCTION SAT 8 FEB,Andrew Harding,House
+Andrew Harding,Ray White Darwin,"AUCTION On-Site: Bidding from $980,000","19 Weddell Street,",PARAP,NT,0820,4,2,2,0,AUCTION SAT 8 FEB,Andrew Harding,House
+Andrew Harding,Ray White Darwin,"Offers Over $885,000","28 Graham Street,",STUART PARK,NT,0820,4,2,2,0,,Andrew Harding,House
+Sanjukta Ghosh,Ray White Darwin,"$425,000","5/15 Somerville Gardens,",PARAP,NT,0820,2,2,2,136m²,,Sanjukta  Ghosh,Apartment / Unit / Flat
+Sanjukta Ghosh,Ray White Darwin,"$699,000 Negotiable","3 Narrows Road,",THE NARROWS,NT,0820,4,2,4,"1,910m²",,Sanjukta  Ghosh,House
+Tim Chant,Mack Hall Real Estate in association with Knight Frank,Expression of Interest,"1-12/6 Queen Street,",STUART PARK,NT,0820,2,1,2,0,NEW HOME,Tim Chant,New apartments / off the plan
+Shyam Thapa,Wealthmax Real Estate,"Offers Over $275,000","80/16 Hudson Avenue,",PARAP,NT,0820,2,1,1,0,,Shyam Thapa,Apartment / Unit / Flat
+,,"$665,000","34/1 Daly Street,",LARRAKEYAH,NT,0820,2,2,2,0,,,Apartment / Unit / Flat
+Braden Menzies,,"$725,000","15/3 Warrego Court,",LARRAKEYAH,NT,0820,3,2,2,204m²,NEW,Braden Menzies,Apartment / Unit / Flat
+Darren Hunt,,"Price Guide $525,000","32/58 Bayview Boulevard,",BAYVIEW,NT,0820,3,2,2,0,UPDATED,Darren Hunt,Apartment / Unit / Flat
+Daniel Harris,,"Price Guide $440,000","6/5 Coronation Drive,",STUART PARK,NT,0820,3,2,2,158m²,,Daniel Harris,Apartment / Unit / Flat
+Daniel Harris,,"Offers over $540,000","5207/4 Kurringal Court,",FANNIE BAY,NT,0820,3,2,2,0,,Daniel Harris,Apartment / Unit / Flat
+Derek Hart,,FASTRAK,"9 Gregory Street,",FANNIE BAY,NT,0820,4,1,2,"1,170m²",,Derek Hart,House
+Shun Hatton,,"Offers Over $419,000","15/26 Marina Boulevard,",CULLEN BAY,NT,0820,2,2,1,98m²,,Shun Hatton,Apartment / Unit / Flat
+,,"$1,099,000","74 Ruddick Circuit,",STUART PARK,NT,0820,4,3,2,451m²,,LJ Hooker Darwin,House
+,,"$305,000","9/41 Duke Street,",STUART PARK,NT,0820,2,1,2,0,SOLD,"Picture of 9/41 Duke Street, STUART PARK NT 0820",Apartment / Unit / Flat
+,,"$295,000","27/23 Hudson Fysh Avenue,",PARAP,NT,0820,2,1,1,0,SOLD,"Picture of 27/23 Hudson Fysh Avenue, PARAP NT 0820",Apartment / Unit / Flat
+,,"$700,000","32 Drysdale Street,",PARAP,NT,0820,4,2,2,"1,160m²",SOLD,"Picture of 32 Drysdale Street, PARAP NT 0820",House
+,,"$520,000","6/3 Brewery Place,",WOOLNER,NT,0820,3,2,2,0,,Sam Wilks Real Estate,Apartment / Unit / Flat
+,,"$680,000","24/16 Marina Boulevard,",LARRAKEYAH,NT,0820,3,2,2,0,,All About Real Estate NT Pty Ltd,Apartment / Unit / Flat
+,,"Offers over $419,000 considered","11/7 Manila Place,",WOOLNER,NT,0820,2,2,2,0,,Home Zone NT,Apartment / Unit / Flat
+,,"Offers over $765,000 will be considered","7/40 Gardens Hill Crescent,",THE GARDENS,NT,0820,3,2,2,0,,All About Real Estate NT Pty Ltd,Townhouse
+,,"Offers Over $1,290,000","99 Ross Smith Avenue,",FANNIE BAY,NT,0820,4,2,2,0,,Ray White Darwin,House
+,,"$420,000","7/7 Brewery Place,",WOOLNER,NT,0820,3,2,2,0,,Colliers International Darwin,Apartment / Unit / Flat
+,,"$450,000","6/22 Coronation Drive,",STUART PARK,NT,0820,2,2,2,0,,Home Zone NT,Apartment / Unit / Flat
+,,Expressions of Interest,"1 Gribble Court,",CULLEN BAY,NT,0820,5,4,4,"1,000m²",,Ray White Darwin,House
+,,"$850,000","20 Drysdale Street,",PARAP,NT,0820,3,2,2,771m²,,Colliers International Darwin,House
+,,"$580,000","30 Gunbar Street,",BAYVIEW,NT,0820,0,0,0,0,,@realty,Vacant land
+,,"Offers over $419,000 will be considered","11/8 Duke Street,",STUART PARK,NT,0820,3,2,1,0,,All About Real Estate NT Pty Ltd,Apartment / Unit / Flat
+,,Contact Agent,"4/30C Duke Street,",STUART PARK,NT,0820,2,2,2,0,,Real Estate Central NT,Apartment / Unit / Flat
+,,"From $540,000","4 Kurringal Court,",FANNIE BAY,NT,0820,0,0,0,0,,O'Donoghues First National,Apartment / Unit / Flat
+,,"OVER $600,000","12 Cardo Court,",LUDMILLA,NT,0820,3,2,2,884m²,NEW,@realty,House
+,,"Offers over $680,000","4/188 Smith Street,",LARRAKEYAH,NT,0820,3,2,2,0,,buymyplace,Apartment / Unit / Flat
+,,"$530,000 - Negotiable","9 Wilmot St,",THE NARROWS,NT,0820,3,1,2,889m²,,For Sale By Owner Australia,House
+,,"Offers over $450,000","86B Ross Smith Avenue,",FANNIE BAY,NT,0820,0,0,0,0,,Real Estate NT by George Pikos,Vacant land
+,,"$429,000","59 Flinders Drive,",STUART PARK,NT,0820,0,0,0,0,,For Sale By Owner Australia,Vacant land
+,,"$440,000","27/26 Marina Boulevard,",LARRAKEYAH,NT,0820,2,2,1,98m²,,LJ Hooker Darwin,Apartment / Unit / Flat
+,,"$435,000","10/16 Mackillop Street,",PARAP,NT,0820,2,2,2,121m²,,Real Estate Central NT,Apartment / Unit / Flat
+,,"$305,000","9/41 Duke Street,",STUART PARK,NT,0820,2,1,2,0,SOLD,"Picture of 9/41 Duke Street, STUART PARK NT 0820",Apartment / Unit / Flat
+,,"$295,000","27/23 Hudson Fysh Avenue,",PARAP,NT,0820,2,1,1,0,SOLD,"Picture of 27/23 Hudson Fysh Avenue, PARAP NT 0820",Apartment / Unit / Flat
+,,"$700,000","32 Drysdale Street,",PARAP,NT,0820,4,2,2,"1,160m²",SOLD,"Picture of 32 Drysdale Street, PARAP NT 0820",House
+,,"$535,000","3/15 Queen Street,",STUART PARK,NT,0820,3,2,2,262m²,,Real Estate Central NT,Townhouse
+,,"$450,000","52 Ruddick Circuit,",STUART PARK,NT,0820,0,0,0,0,,Knight Frank Northern Territory,Vacant land
+,,Contact Agent,"5 King Street,",STUART PARK,NT,0820,0,0,0,0,,LJ Hooker Darwin,Vacant land
+,,Offers Over $790k,"5 Goldsmith Street,",FANNIE BAY,NT,0820,0,0,0,0,,Real Estate Central NT,Vacant land
+,,"$699,000","8 Guy Court,",STUART PARK,NT,0820,3,1,1,0,,Real Estate Central NT,House
+,,Offers Over $710k,"13/1 Daly Street,",LARRAKEYAH,NT,0820,3,2,2,0,,Real Estate Central NT,Apartment / Unit / Flat
+,,"Offers over $399,000","3/26 Marina Boulevard,",LARRAKEYAH,NT,0820,2,2,1,0,,Knight Frank Northern Territory,Apartment / Unit / Flat
+,,Contact Agent,"2/18 O'Ferrals Road,",BAYVIEW,NT,0820,4,3,3,"1,254m²",,@realty,Townhouse
+,,"PRICE GUIDE $750,000","39 Bayview Boulevard,",BAYVIEW,NT,0820,0,0,0,0,,Elders Top End Group,Vacant land
+,,For Sale,"48 Cullen Bay Crescent,",CULLEN BAY,NT,0820,0,0,0,0,,Smart Real Estate,Vacant land
+,,"$1,100,000","11292 (No. 12) Conigrave Street,",FANNIE BAY,NT,0820,0,0,0,0,,Property Shop Darwin,Vacant land
+,,"$460,000","4/20 Somerville Gardens,",PARAP,NT,0820,2,1,2,0,,For Sale By Owner Australia,Apartment / Unit / Flat
+,,Reasonable Offers Considered,"30/32 Marina Boulevard,",LARRAKEYAH,NT,0820,1,1,3,97m²,,O'Donoghues First National,Apartment / Unit / Flat
+,,"Price Guide $650,000","4/40 Marina Boulevard,",CULLEN BAY,NT,0820,3,2,2,270m²,,Real Estate Central NT,Apartment / Unit / Flat
+,,"$599,000","2/18 Philip Street,",FANNIE BAY,NT,0820,3,2,2,275m²,,Real Estate Central NT,Townhouse
+,,"Price Guide $3,900,000","6 Bradhurst Court,",BAYVIEW,NT,0820,4,3,3,"1,190m²",,Real Estate Central Projects Pty Ltd,House
+,,Offers Over $399k,"14/7 Manila Place,",WOOLNER,NT,0820,2,2,1,131m²,,Real Estate Central NT,Apartment / Unit / Flat
+,,"$447,500","15/9 Dinah Court,",STUART PARK,NT,0820,3,2,2,183m²,,Real Estate Central NT,Apartment / Unit / Flat
+,,"$305,000","9/41 Duke Street,",STUART PARK,NT,0820,2,1,2,0,SOLD,"Picture of 9/41 Duke Street, STUART PARK NT 0820",Apartment / Unit / Flat
+,,"$295,000","27/23 Hudson Fysh Avenue,",PARAP,NT,0820,2,1,1,0,SOLD,"Picture of 27/23 Hudson Fysh Avenue, PARAP NT 0820",Apartment / Unit / Flat
+,,"$700,000","32 Drysdale Street,",PARAP,NT,0820,4,2,2,"1,160m²",SOLD,"Picture of 32 Drysdale Street, PARAP NT 0820",House
+,,"$1,150,000+","53 Flinders Drive,",STUART PARK,NT,0820,4,3,5,"1,350m²",,Absolute Real Estate NT,House
+,,"Offers over $520,000","21/3 Brewery Place,",WOOLNER,NT,0820,3,2,2,150m²,,Ellis Parker Real Estate,Apartment / Unit / Flat
+,,"$565,000","602A/2 Mauna Loa Street,",LARRAKEYAH,NT,0820,2,2,2,0,,Ray White City NT,Apartment / Unit / Flat
+,,"Price Guide $1,050,000","17 Temira Crescent,",LARRAKEYAH,NT,0820,0,0,0,0,,Real Estate Central Projects Pty Ltd,Vacant land
+,,$680 000,"37/17 Dinah Court,",STUART PARK,NT,0820,3,3,2,0,,Property Shop Darwin,Apartment / Unit / Flat
+,,Expression of Interest,"16 Muzzell Street,",BAYVIEW,NT,0820,0,0,0,0,,For Sale By Owner Australia,Vacant land
+,,Expressions of Interest,"4 Emery Court,",CULLEN BAY,NT,0820,4,4,2,0,,O'Donoghues First National,House
+,,"$800,000","8 Coronation Drive,",STUART PARK,NT,0820,0,0,0,0,,Ray White City NT,Vacant land
+,,"Offers Over $550,000","11/12 Brewery Place,",WOOLNER,NT,0820,3,2,2,208m²,,Raine & Horne Darwin,Apartment / Unit / Flat
+,,Offers over $650k,"14/18 Seale Street,",FANNIE BAY,NT,0820,4,2,2,0,,Real Estate Central NT,Townhouse
+,,"$360,000","8/13 Coronation Drive,",STUART PARK,NT,0820,3,1,1,0,,For Sale By Owner Australia,Apartment / Unit / Flat
+,,"$255,000","2/60 East Point Road,",FANNIE BAY,NT,0820,1,1,2,79m²,,Ray White City NT,Apartment / Unit / Flat
+,,"$525,000","448/12 Salonika Street (The Avenue),",PARAP,NT,0820,2,2,1,0,,Knight Frank Northern Territory,Apartment / Unit / Flat
+,,"$1,550,000","10 Stuart Highway,",STUART PARK,NT,0820,5,2,0,"1,400m²",,For Sale By Owner Australia,House
+,,"New Price $950,000","7 Voyager Street,",STUART PARK,NT,0820,3,1,0,"1,300m²",,For Sale By Owner Australia,House
+,,"$329,000 Negotiable","9/38 George Crescent,",FANNIE BAY,NT,0820,2,1,1,104m²,,O'Donoghues First National,Apartment / Unit / Flat
+,,Contact agent,"357/12 Salonika Street,",PARAP,NT,0820,2,2,1,141m²,,Raine & Horne Darwin,Apartment / Unit / Flat
+,,"Offers over $800,000","46 May Street,",PARAP,NT,0820,4,2,3,536m²,,Raine & Horne Darwin,House
+,,"$305,000","9/41 Duke Street,",STUART PARK,NT,0820,2,1,2,0,SOLD,"Picture of 9/41 Duke Street, STUART PARK NT 0820",Apartment / Unit / Flat
+,,"$295,000","27/23 Hudson Fysh Avenue,",PARAP,NT,0820,2,1,1,0,SOLD,"Picture of 27/23 Hudson Fysh Avenue, PARAP NT 0820",Apartment / Unit / Flat
+,,"$700,000","32 Drysdale Street,",PARAP,NT,0820,4,2,2,"1,160m²",SOLD,"Picture of 32 Drysdale Street, PARAP NT 0820",House
+,,"OFFERS OVER $50,000","7008 Berth 62 Bayview Marina,",BAYVIEW,NT,0820,0,0,0,0,,Elders Top End Group,Vacant land
+,,"Offers Over $320,000","319/12 Salonika Street,",PARAP,NT,0820,1,1,1,0,,Raine & Horne Darwin,Apartment / Unit / Flat
+,,FASTRAK,"Lot 7008/Berth 62 Bayview Marina,",BAYVIEW,NT,0820,0,0,0,0,,Elders Top End Group,Vacant land
+,,Expressions of Interest,"2 Marsina Court,",LARRAKEYAH,NT,0820,2,2,0,927m²,,Property Now,House
+,,$580 000,"1/1 McColl St,",FANNIE BAY,NT,0820,3,1,3,211m²,,Property Shop Darwin,Apartment / Unit / Flat
+,,Expressions of Interest,"28 Gunbar Street,",BAYVIEW,NT,0820,0,0,0,0,,HERON PROPERTY,Vacant land
+,,"410,000","70/32 Marina Boulevard,",LARRAKEYAH,NT,0820,2,2,1,0,,Minus The Agent,Apartment / Unit / Flat
+,,$2.2 million,"22 Packard Street,",LARRAKEYAH,NT,0820,5,2,3,"1,080m²",,Knight Frank Northern Territory,House
+,,"$798,000","3/3A Gardens Hill Crescent,",THE GARDENS,NT,0820,3,2,2,0,,buymyplace,Townhouse
+,,"$700,000","25/12 Paspaley Place,",CULLEN BAY,NT,0820,3,2,2,0,,Knight Frank Northern Territory,Apartment / Unit / Flat
+,,"$565,000","7/11 Duke Street,",STUART PARK,NT,0820,2,2,2,0,,,Apartment / Unit / Flat
+,,"$300,000","7/3 Banyan Street,",FANNIE BAY,NT,0820,2,1,1,0,,,Apartment / Unit / Flat
+,,PRICE DROP $539k,"21 Stoddart Drive,",BAYVIEW,NT,0820,0,0,0,0,,,Vacant land
+,,Contact Agent,"30/16 Marina Boulevard,",LARRAKEYAH,NT,0820,3,2,2,0,,,Apartment / Unit / Flat
+,,Expressions of Interest,"31 Stoddart Drive,",BAYVIEW,NT,0820,5,3,3,863m²,,,House
+,,"$ 780,000","2/1 Voyager Street,",STUART PARK,NT,0820,3,2,2,377m²,,,Townhouse
+,,"$625,000","2 Trochus Crescent,",WOOLNER,NT,0820,3,2,2,0,,,House
+,,"$1,070,000","80 Ruddick Circuit,",STUART PARK,NT,0820,4,3,4,523m²,,,House
+,,"$1,550,000","3 Quarry Cr,",STUART PARK,NT,0820,8,4,6,"1,050m²",,,Block of units
+,,"OFFERS OVER $499,000","1/31 Margaret Street,",STUART PARK,NT,0820,2,2,2,0,,,Apartment / Unit / Flat
+,,"$305,000","9/41 Duke Street,",STUART PARK,NT,0820,2,1,2,0,SOLD,"Picture of 9/41 Duke Street, STUART PARK NT 0820",Apartment / Unit / Flat
+,,"$295,000","27/23 Hudson Fysh Avenue,",PARAP,NT,0820,2,1,1,0,SOLD,"Picture of 27/23 Hudson Fysh Avenue, PARAP NT 0820",Apartment / Unit / Flat
+,,"$700,000","32 Drysdale Street,",PARAP,NT,0820,4,2,2,"1,160m²",SOLD,"Picture of 32 Drysdale Street, PARAP NT 0820",House
+,,"$389,000","386/12 Salonika Street,",PARAP,NT,0820,1,1,1,79m²,,,Apartment / Unit / Flat
+,,"$120,000 PLUS","52 Gregory Street,",PARAP,NT,0820,1,1,1,0,,,Apartment / Unit / Flat
+,,"$305,000","9/41 Duke Street,",STUART PARK,NT,0820,2,1,2,0,SOLD,"Picture of 9/41 Duke Street, STUART PARK NT 0820",Apartment / Unit / Flat
+,,"$295,000","27/23 Hudson Fysh Avenue,",PARAP,NT,0820,2,1,1,0,SOLD,"Picture of 27/23 Hudson Fysh Avenue, PARAP NT 0820",Apartment / Unit / Flat
+,,"$700,000","32 Drysdale Street,",PARAP,NT,0820,4,2,2,"1,160m²",SOLD,"Picture of 32 Drysdale Street, PARAP NT 0820",House

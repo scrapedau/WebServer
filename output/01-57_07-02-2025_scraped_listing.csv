@@ -1,0 +1,120 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Martin Farah,NGFarah Pty Limited,"Buyers Guide $2,800,000","47A Maroubra Road,",MAROUBRA,NSW,2035,4,3,2,0,,"Picture of 47A Maroubra Road, MAROUBRA NSW 2035",Semi-detached
+Stephanie Farah,NGFarah Pty Limited,Auction,"7/19-21 Duncan Street,",MAROUBRA,NSW,2035,2,1,1,0,,"Picture of 7/19-21 Duncan Street, MAROUBRA NSW 2035",Apartment / Unit / Flat
+Cameron Airlie,NGFarah Pty Limited,"Buyer's Guide $4,350,000","7-9 Cantrill Avenue,",MAROUBRA,NSW,2035,5,4,4,496m²,,"Picture of 7-9 Cantrill Avenue, MAROUBRA NSW 2035",House
+Martin Farah,NGFarah Pty Limited,"Buyers Guide $2,800,000","47A Maroubra Road,",MAROUBRA,NSW,2035,4,3,2,0,,"Picture of 47A Maroubra Road, MAROUBRA NSW 2035",Semi-detached
+Stephanie Farah,NGFarah Pty Limited,Auction,"7/19-21 Duncan Street,",MAROUBRA,NSW,2035,2,1,1,0,,"Picture of 7/19-21 Duncan Street, MAROUBRA NSW 2035",Apartment / Unit / Flat
+Cameron Airlie,NGFarah Pty Limited,"Buyer's Guide $4,350,000","7-9 Cantrill Avenue,",MAROUBRA,NSW,2035,5,4,4,496m²,,"Picture of 7-9 Cantrill Avenue, MAROUBRA NSW 2035",House
+Martin Farah,NGFarah Pty Limited,"Buyers Guide $2,800,000","47A Maroubra Road,",MAROUBRA,NSW,2035,4,3,2,0,,"Picture of 47A Maroubra Road, MAROUBRA NSW 2035",Semi-detached
+Corrinne Olsen,Olsen Romano Estate Agents,Auction - Price on Application,"384 Beauchamp Road,",MAROUBRA,NSW,2035,4,2,1,316m²,NEW,Corrinne Olsen,House
+Theo Karangis,NGFarah Pty Limited,Auction,"59 Hannan Street,",MAROUBRA,NSW,2035,4,3,2,0,NEW,Theo Karangis,House
+Andrew Anastassiou,Home Estate Agents,AUCTION,"603/89-91 Boyce Road,",MAROUBRA,NSW,2035,2,1,1,0,NEW,Andrew Anastassiou,Apartment / Unit / Flat
+Nader Hotait,Ray White Eastern Beaches,Auction,"29 Liguria Street,",MAROUBRA,NSW,2035,4,3,2,0,NEW,Nader Hotait,House
+Nader Hotait,Ray White Eastern Beaches,Auction,"126 Fitzgerald Avenue,",MAROUBRA,NSW,2035,4,3,2,0,NEW,Nader Hotait,House
+Clay Chigwidden,Agents and Co Property Group,Auction 1st March,"7A/16-20 Hereward Street,",MAROUBRA,NSW,2035,1,1,1,0,NEW,Clay Chigwidden,Apartment / Unit / Flat
+Jason Pantzer,PPD Real Estate,Contact Agent,"7/15 Bona Vista Avenue,",MAROUBRA,NSW,2035,2,1,2,0,NEW,Jason Pantzer,Apartment / Unit / Flat
+Peter Shaw,Harcourts Byrnes Marsh Shaw,Auction,"221/116-132 Maroubra Road,",MAROUBRA,NSW,2035,2,2,1,0,NEW,Peter Shaw,Apartment / Unit / Flat
+Peter Shaw,Harcourts Byrnes Marsh Shaw,Auction,"209/104-112 Maroubra Road,",MAROUBRA,NSW,2035,2,2,1,0,NEW,Peter Shaw,Apartment / Unit / Flat
+Richard Movsessian,Coastline Agency,For Sale by Richy Movsessian 0419 696 555,"617/42 Page Street,",PAGEWOOD,NSW,2035,1,1,1,0,NEW,Richard Movsessian,Apartment / Unit / Flat
+Veronica Perez,PRD Perez Real Estate,Auction Saturday 8th March at 11am On-Site,"3/803 Anzac Parade,",MAROUBRA,NSW,2035,3,2,1,0,NEW,Veronica Perez,Apartment / Unit / Flat
+Josh Ellison,Ellison Zulian Property,Auction March 1st,"3/159 Fitzgerald Avenue,",MAROUBRA,NSW,2035,3,2,2,169m²,NEW,Josh Ellison,Townhouse
+Robert McElhone,The McElhones,"Price guide of $975,000","2/13 Little Street,",MAROUBRA,NSW,2035,2,1,1,0,NEW,Robert McElhone,Apartment / Unit / Flat
+Shane Vincent,Belle Property Randwick,Auction | 1st March,"1/5 Wride Street,",MAROUBRA,NSW,2035,3,2,2,0,NEW,Shane Vincent,Townhouse
+John Castrisos,Home Estate Agents,Contact Agent,"204B Banksia Street,",PAGEWOOD,NSW,2035,5,3,2,0,NEW,John Castrisos,House
+Corrinne Olsen,Olsen Romano Estate Agents,Auction - Price on Application,"1/232 Maroubra Road,",MAROUBRA,NSW,2035,2,1,0,0,NEW,Corrinne Olsen,Apartment / Unit / Flat
+Shane Vincent,Belle Property Randwick,"Auction | Buyer's Guide $3,150,000","7 Glenugie Street,",MAROUBRA,NSW,2035,4,3,1,0,NEW,Shane Vincent,Semi-detached
+Ryan Neil,PPD Real Estate,"Buyers Guide $1,700,000","2/311-313 Malabar Road,",MAROUBRA,NSW,2035,2,2,1,0,,Ryan Neil,Apartment / Unit / Flat
+Cameron Airlie,NGFarah Pty Limited,Auction,"15 Johnston Parade,",MAROUBRA,NSW,2035,4,3,2,498m²,,Cameron Airlie,House
+,,"$3,950,000","69 Mons Avenue,",MAROUBRA,NSW,2035,4,2,2,0,SOLD,"Picture of 69 Mons Avenue, MAROUBRA NSW 2035",House
+,,"$4,460,000","26 Bell Street,",MAROUBRA,NSW,2035,3,2,0,0,SOLD,"Picture of 26 Bell Street, MAROUBRA NSW 2035",House
+,,"$1,850,000","251 Bay Street,",PAGEWOOD,NSW,2035,3,1,1,0,SOLD,"Picture of 251 Bay Street, PAGEWOOD NSW 2035",House
+Melissa McCormack,McGrath Maroubra,Price on Request,"28 Royal Street,",MAROUBRA,NSW,2035,3,2,2,920m²,,"Picture of 28 Royal Street, MAROUBRA NSW 2035",House
+Melissa McCormack,McGrath Maroubra,Price on Request,"32/1-5 McKeon Street,",MAROUBRA,NSW,2035,2,1,0,0,,"Picture of 32/1-5 McKeon Street, MAROUBRA NSW 2035",Apartment / Unit / Flat
+Christian West,PPD Real Estate,"Buyers Guide $3,400,000","27 Camira Street,",MAROUBRA,NSW,2035,4,1,2,550m²,,Christian West,House
+Christian West,PPD Real Estate,"Buyers guide $4,500,000","8 Tyrwhitt Street,",MAROUBRA,NSW,2035,5,4,2,575m²,,Christian West,House
+Christian West,PPD Real Estate,"Buyers Guide $2,200,000","734A Anzac Parade,",MAROUBRA,NSW,2035,3,2,1,0,,Christian West,House
+Richardson & Wrench Maroubra,,Contact Agent,"5/156 Maroubra Road,",MAROUBRA,NSW,2035,1,1,2,0,UPDATED,Richardson & Wrench Maroubra,Apartment / Unit / Flat
+Alexander Phillips,PPD Real Estate,"Buyers Guide $6,000,000","229 Boyce Road,",MAROUBRA,NSW,2035,3,1,1,"1,132m²",UPDATED,Alexander Phillips,House
+Conor Howard,NGFarah Pty Limited,"Buyer's Guide - $3,700,000","1 Scott Street,",MAROUBRA,NSW,2035,3,1,3,634m²,UPDATED,Conor Howard,House
+Marnie Seinor,McGrath Coogee,Contact Agent,"27 Holmes Street,",MAROUBRA,NSW,2035,5,2,2,315m²,,Marnie Seinor,House
+Doreen Wilson,PPD Real Estate,Contact Agent,"1/70 Yorktown Parade,",MAROUBRA,NSW,2035,3,2,1,0,,Doreen Wilson,House
+Nader Hotait,Ray White Eastern Beaches,Auction,"33 Mermaid Avenue,",MAROUBRA,NSW,2035,4,4,3,0,,Nader Hotait,House
+Nader Hotait,Ray White Eastern Beaches,Auction,"14 Cantrill Avenue,",MAROUBRA,NSW,2035,5,3,3,0,,Nader Hotait,House
+Nader Hotait,Ray White Eastern Beaches,Auction,"45 Fowler Crescent,",MAROUBRA,NSW,2035,6,6,4,540m²,,Nader Hotait,House
+Nader Hotait,Ray White Eastern Beaches,Auction,"8A French Street,",MAROUBRA,NSW,2035,4,3,4,0,,Nader Hotait,House
+Nader Hotait,Ray White Eastern Beaches,Auction,"902/98-102 Maroubra Road,",MAROUBRA,NSW,2035,3,2,2,0,,Nader Hotait,Apartment / Unit / Flat
+Nader Hotait,Ray White Eastern Beaches,Auction,"150 Gale Road,",MAROUBRA,NSW,2035,4,3,2,0,,Nader Hotait,House
+Maddison Christie,Agents and Co Property Group,Auction 22nd February,"320/97 Boyce Road,",MAROUBRA,NSW,2035,2,2,1,0,,Maddison Christie,Apartment / Unit / Flat
+Nicholas Wise,Sydney Sotheby's International Realty,For Sale,"2A Beaumond Avenue,",MAROUBRA,NSW,2035,3,2,2,0,,Nicholas Wise,House
+Maddison Christie,Agents and Co Property Group,Auction 22nd February,"23/108 Boyce Road,",MAROUBRA,NSW,2035,2,2,2,0,,Maddison Christie,Apartment / Unit / Flat
+Alexander Phillips,PPD Real Estate,Auction 1 March,"17 Vanny Place,",MAROUBRA,NSW,2035,5,5,5,732m²,,Alexander Phillips,House
+,,"$3,950,000","69 Mons Avenue,",MAROUBRA,NSW,2035,4,2,2,0,SOLD,"Picture of 69 Mons Avenue, MAROUBRA NSW 2035",House
+,,"$4,460,000","26 Bell Street,",MAROUBRA,NSW,2035,3,2,0,0,SOLD,"Picture of 26 Bell Street, MAROUBRA NSW 2035",House
+,,"$1,850,000","251 Bay Street,",PAGEWOOD,NSW,2035,3,1,1,0,SOLD,"Picture of 251 Bay Street, PAGEWOOD NSW 2035",House
+Sandra Marano,Raine & Horne Bardwell Park / Kingsgrove / Earlwood,"FOR AUCTION - $3,600,000","57 Robey Street,",MAROUBRA,NSW,2035,5,2,6,670m²,,"Picture of 57 Robey Street, MAROUBRA NSW 2035",House
+Cameron Airlie,NGFarah Pty Limited,Auction,"965 Anzac Parade,",MAROUBRA,NSW,2035,5,4,3,423m²,,"Picture of 965 Anzac Parade, MAROUBRA NSW 2035",House
+Jason Pantzer,PPD Real Estate,Contact Agent,"22 Chichester Street,",MAROUBRA,NSW,2035,4,2,2,272m²,,Jason Pantzer,House
+Paul Langsam,Raine & Horne Double Bay,Auction,"156 Boyce Road,",MAROUBRA,NSW,2035,2,1,1,265m²,,Paul Langsam,House
+Steven Henderson,Raine & Horne Double Bay,Auction,"16/912 Anzac Parade,",MAROUBRA,NSW,2035,2,1,1,0,,Steven Henderson,Apartment / Unit / Flat
+Martin Farah,NGFarah Pty Limited,"Buyers Guide $2,800,000","47A Maroubra Road,",MAROUBRA,NSW,2035,4,3,2,0,,Martin Farah,Semi-detached
+Randall Kemp,Ray White The Woollahra Group,Auction 22 February,"32 Duncan Street,",MAROUBRA,NSW,2035,4,2,1,324m²,,Randall Kemp,House
+Veronica Perez,PRD Perez Real Estate,Auction Saturday 22nd February at 1:00pm On-Site,"322 Maroubra Road,",MAROUBRA,NSW,2035,3,1,0,322m²,,Veronica Perez,House
+Christian West,PPD Real Estate,"Buyers Guide $2,150,000","8 Peters Place,",MAROUBRA,NSW,2035,3,2,1,0,,Christian West,House
+Veronica Perez,PRD Perez Real Estate,Auction 22nd February 2:00pm On-Site,"18/818 Anzac Parade,",MAROUBRA,NSW,2035,2,2,1,0,,Veronica Perez,Apartment / Unit / Flat
+Christian West,PPD Real Estate,Auction 19th February,"7 Ryan Avenue,",MAROUBRA,NSW,2035,4,3,4,634m²,,Christian West,House
+Christian West,PPD Real Estate,"Buyers Guide $3,000,000","175 Fitzgerald Avenue,",MAROUBRA,NSW,2035,5,3,6,424m²,,Christian West,House
+Christian West,PPD Real Estate,"Buyers Guide $2,250,000","1 Kitchener Street,",MAROUBRA,NSW,2035,4,2,1,0,,Christian West,House
+Nader Hotait,Ray White Eastern Beaches,Auction,"91 Johnston Parade,",MAROUBRA,NSW,2035,5,3,3,0,,Nader Hotait,House
+Nader Hotait,Ray White Eastern Beaches,"Auction - Buyers Guide $2,375,000","58A Ocean Street,",PAGEWOOD,NSW,2035,4,4,2,0,,Nader Hotait,House
+Nader Hotait,Ray White Eastern Beaches,"Auction - Buyers Guide $3,500,000","222A Fitzgerald Avenue,",MAROUBRA,NSW,2035,4,4,4,0,,Nader Hotait,House
+Nader Hotait,Ray White Eastern Beaches,Auction,"50 Mons Avenue,",MAROUBRA,NSW,2035,4,3,2,449m²,,Nader Hotait,House
+Nader Hotait,Ray White Eastern Beaches,"Auction - Buyers Guide $3,750,000","37 Chelmsford Avenue,",MAROUBRA,NSW,2035,5,3,3,560m²,,Nader Hotait,House
+Roger Wardy,Ray White Touma Taylor,Contact Agent,"39 Wild Street,",MAROUBRA,NSW,2035,3,2,1,250m²,,Roger Wardy,House
+Cameron Airlie,NGFarah Pty Limited,"Buyer's Guide $4,350,000","7-9 Cantrill Avenue,",MAROUBRA,NSW,2035,5,4,4,496m²,,Cameron Airlie,House
+,,"$3,950,000","69 Mons Avenue,",MAROUBRA,NSW,2035,4,2,2,0,SOLD,"Picture of 69 Mons Avenue, MAROUBRA NSW 2035",House
+,,"$4,460,000","26 Bell Street,",MAROUBRA,NSW,2035,3,2,0,0,SOLD,"Picture of 26 Bell Street, MAROUBRA NSW 2035",House
+,,"$1,850,000","251 Bay Street,",PAGEWOOD,NSW,2035,3,1,1,0,SOLD,"Picture of 251 Bay Street, PAGEWOOD NSW 2035",House
+Christian West,PPD Real Estate,"Buyers Guide: $2,050,000","64 Hinkler Street,",MAROUBRA,NSW,2035,2,2,2,0,,"Picture of 64 Hinkler Street, MAROUBRA NSW 2035",House
+Justin Bell,Ray White Park Coast East,Auction,"4B Yorktown Parade,",MAROUBRA,NSW,2035,4,4,2,0,,"Picture of 4B Yorktown Parade, MAROUBRA NSW 2035",House
+Nicholas Wise,Sydney Sotheby's International Realty,Auction Saturday 15th February,"585 Malabar Road,",MAROUBRA,NSW,2035,3,2,1,0,,Nicholas Wise,House
+Megan Widjaja,Richardson & Wrench Maroubra,Sold prior to Auction,"27 Monash Gardens,",PAGEWOOD,NSW,2035,2,1,3,386m²,AUCTION SAT 8 FEB,Megan Widjaja,House
+Thomas Heath,PPD Real Estate,"Buyers Guide $1,975,000","11&14/71 Broome Street,",MAROUBRA,NSW,2035,4,2,2,218m²,,Thomas Heath,Apartment / Unit / Flat
+Zach Carter,PPD Real Estate,Contact Agent,"31 Moverly Road,",MAROUBRA,NSW,2035,5,3,1,345m²,,Zach Carter,House
+Nick Papas,Agents and Co Property Group,Auction 12th February,"99 Robey Street,",MAROUBRA,NSW,2035,5,3,2,0,AUCTION WED 12 FEB,Nick Papas,House
+Andrew Pillari,Century 21 Classic Real Estate,Auction |,"44/1 Wride Street,",MAROUBRA,NSW,2035,3,2,2,0,,Andrew Pillari,Apartment / Unit / Flat
+Josh Ellison,Ellison Zulian Property,Forthcoming Auction,"395a Bunnerong Road,",MAROUBRA,NSW,2035,5,3,2,325m²,,Josh Ellison,Semi-detached
+Nicholas Wise,Sydney Sotheby's International Realty,"Auction Guide $3,600,000","34 Kyogle Street,",MAROUBRA,NSW,2035,4,4,2,0,,Nicholas Wise,House
+Veronica Perez,PRD Perez Real Estate,Auction 8th Feb 12pm,"83 Garden Street,",MAROUBRA,NSW,2035,6,4,2,363m²,AUCTION SAT 8 FEB,Veronica Perez,House
+Josh Ellison,Ellison Zulian Property,"For Sale $3,800,000 - $4,000,000","159 Boyce Road,",MAROUBRA,NSW,2035,3,1,2,674m²,,Josh Ellison,House
+Justin Bell,Ray White Park Coast East,Auction,"3 Chester Avenue,",MAROUBRA,NSW,2035,5,3,2,0,,Justin Bell,House
+Veronica Perez,PRD Perez Real Estate,Forthcoming Auction,"807/747 Anzac Parade,",MAROUBRA,NSW,2035,2,2,1,0,,Veronica Perez,Apartment / Unit / Flat
+Sam Towndrow,Sydney Sotheby's International Realty,Price on request,"44a Mons Avenue,",MAROUBRA,NSW,2035,5,5,2,384m²,,Sam Towndrow,House
+Bethwyn Richards,The Agency,For Sale,"2/38 Bond Street,",MAROUBRA,NSW,2035,3,2,3,0,,Bethwyn Richards,Apartment / Unit / Flat
+Clay Chigwidden,Agents and Co Property Group,Auction 15th February,"15/1 Wride Street,",MAROUBRA,NSW,2035,3,2,2,206m²,,Clay Chigwidden,Apartment / Unit / Flat
+James Ball,Sydney Sotheby's International Realty,Auction Saturday 22nd February,"158 Gale Road,",MAROUBRA,NSW,2035,5,3,2,0,,James Ball,House
+Jason Black,Black Lifestyle Property,Auction | Contact Agent,"98 Robey Street,",MAROUBRA,NSW,2035,2,1,1,265m²,,Jason Black,Semi-detached
+Marnie Seinor,McGrath Coogee,Contact Agent,"2/492-494 Malabar Road,",MAROUBRA,NSW,2035,1,1,1,0,AUCTION SAT 8 FEB,Marnie Seinor,Apartment / Unit / Flat
+,,"$3,950,000","69 Mons Avenue,",MAROUBRA,NSW,2035,4,2,2,0,SOLD,"Picture of 69 Mons Avenue, MAROUBRA NSW 2035",House
+,,"$4,460,000","26 Bell Street,",MAROUBRA,NSW,2035,3,2,0,0,SOLD,"Picture of 26 Bell Street, MAROUBRA NSW 2035",House
+,,"$1,850,000","251 Bay Street,",PAGEWOOD,NSW,2035,3,1,1,0,SOLD,"Picture of 251 Bay Street, PAGEWOOD NSW 2035",House
+Stephanie Farah,NGFarah Pty Limited,Auction,"7/19-21 Duncan Street,",MAROUBRA,NSW,2035,2,1,1,0,,"Picture of 7/19-21 Duncan Street, MAROUBRA NSW 2035",Apartment / Unit / Flat
+Veronica Perez,PRD Perez Real Estate,Auction 15th February - 10am - On site,"13 Maxwell Road,",PAGEWOOD,NSW,2035,3,1,3,487m²,,"Picture of 13 Maxwell Road, PAGEWOOD NSW 2035",House
+Veronica Perez,PRD Perez Real Estate,Selling,"2/270 Maroubra Road,",MAROUBRA,NSW,2035,3,2,3,0,,Veronica Perez,Apartment / Unit / Flat
+Megan Widjaja,Richardson & Wrench Maroubra,Contact Agent,"301/717 Anzac Parade,",MAROUBRA,NSW,2035,1,1,1,0,,Megan Widjaja,Apartment / Unit / Flat
+Stephanie Farah,NGFarah Pty Limited,For Sale - Contact Agent,"1/98-100 Garden Street,",MAROUBRA,NSW,2035,3,2,1,245m²,,Stephanie Farah,Townhouse
+Christian West,PPD Real Estate,Contact Agent,"63 Gale Road,",MAROUBRA,NSW,2035,5,3,4,419m²,,Christian West,House
+Cameron Airlie,NGFarah Pty Limited,"For Sale $920,000 - $950,000","1/102-106 Boyce Road,",MAROUBRA,NSW,2035,2,2,1,0,,Cameron Airlie,Apartment / Unit / Flat
+Amanda Rekes,NGFarah Pty Limited,Contact Agent,"1A Keysor Road,",PAGEWOOD,NSW,2035,4,4,2,420m²,,Amanda Rekes,House
+Cameron Airlie,,Auction 22nd Feb – Buyers Guide $1m -$1.1m,"11/10-12 Green Street,",MAROUBRA,NSW,2035,3,2,2,164m²,,Cameron Airlie,Apartment / Unit / Flat
+,,"Price Guide: $888,000","503/128 Banks Avenue,",PAGEWOOD,NSW,2035,2,2,2,0,,The Property Group by AKU,Apartment / Unit / Flat
+,,Expressions of Interest,"10 Torrington Road,",MAROUBRA,NSW,2035,6,4,4,910m²,,Ray White Eastern Beaches,House
+,,Contact Agent,"1 Bed/1-3 Robey Street,",MAROUBRA,NSW,2035,0,1,0,0,,Domain Direct Real Estate,Apartment / Unit / Flat
+,,Contact Us,"147 Boyce Road,",MAROUBRA,NSW,2035,2,1,3,303m²,NEW,For Sale By Owner Australia,House
+,,Immediate viewing,"G1/128 Banks Avenue,",PAGEWOOD,NSW,2035,2,3,1,0,,,Apartment / Unit / Flat
+,,Contact Agent,"256A Malabar Road,",MAROUBRA,NSW,2035,4,3,2,233m²,,Plus Agency Prestige,House
+,,Contact Agent,"256 Malabar Road,",MAROUBRA,NSW,2035,4,3,2,253m²,,Plus Agency Prestige,House
+,,"$8,400,000","3 Beaumond Avenue,",MAROUBRA,NSW,2035,8,4,3,612m²,,No Agent Property,Block of units
+,,Price on Application,"14 Wise Street,",MAROUBRA,NSW,2035,5,3,6,320m²,,buymyplace,House
+,,"$3,950,000","69 Mons Avenue,",MAROUBRA,NSW,2035,4,2,2,0,SOLD,"Picture of 69 Mons Avenue, MAROUBRA NSW 2035",House
+,,"$4,460,000","26 Bell Street,",MAROUBRA,NSW,2035,3,2,0,0,SOLD,"Picture of 26 Bell Street, MAROUBRA NSW 2035",House
+,,"$1,850,000","251 Bay Street,",PAGEWOOD,NSW,2035,3,1,1,0,SOLD,"Picture of 251 Bay Street, PAGEWOOD NSW 2035",House

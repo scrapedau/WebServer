@@ -1,0 +1,66 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Jack Parry,BresicWhitney Balmain,"Guide $3,500,000","4 Point Street,",LILYFIELD,NSW,2040,5,3,0,279m²,AUCTION SAT 8 FEB,"Picture of 4 Point Street, LILYFIELD NSW 2040",House
+Yianni Sclavos,Highland Inner West,Auction,"18 Marlborough Street,",LEICHHARDT,NSW,2040,4,3,3,560m²,NEW,Yianni Sclavos,House
+Jack Parry,BresicWhitney Balmain,"Guide $3,300,000","22 White Street,",LILYFIELD,NSW,2040,4,2,0,310m²,NEW,Jack Parry,House
+David Eastway,Hudson McHugh,Auction,"58b Flood Street,",LEICHHARDT,NSW,2040,3,2,1,267m²,NEW,David Eastway,House
+David Eastway,Hudson McHugh,Auction,"3/83 Foster Street,",LEICHHARDT,NSW,2040,3,2,1,0,NEW,David Eastway,Apartment / Unit / Flat
+James Price,Hudson McHugh,Auction,"120 Allen Street,",LEICHHARDT,NSW,2040,3,2,2,302m²,NEW,James Price,House
+James Montano,Montano Group,"Auction Guide $1,250,000","37/30-40 George Street,",LEICHHARDT,NSW,2040,3,2,1,0,NEW,James Montano,Townhouse
+David Eastway,Hudson McHugh,Auction,"56a Annesley Street,",LEICHHARDT,NSW,2040,3,2,0,208m²,NEW,David Eastway,House
+William Pereira,Adrian William Real Estate,Auction,"46 Allen Street,",LEICHHARDT,NSW,2040,3,2,0,259m²,NEW,William Pereira,House
+Rebecca Duncan,Belle Property Annandale,Auction Contact Agent,"81B Hubert Street,",LILYFIELD,NSW,2040,3,2,0,0,NEW,Rebecca Duncan,Semi-detached
+James Price,Hudson McHugh,Auction,"5A Bungay Street,",LEICHHARDT,NSW,2040,2,2,0,162m²,,James Price,House
+Norman Tran,Adrian William Real Estate,Auction,"120 Catherine Street,",LEICHHARDT,NSW,2040,3,2,0,222m²,,Norman Tran,House
+Norman Tran,Adrian William Real Estate,"Guide $525,000","7/48-50 Edith Street,",LEICHHARDT,NSW,2040,1,1,1,54m²,,Norman Tran,Apartment / Unit / Flat
+Simon Pilcher,Pilcher Residential,Auction Guide $2.8m,"101 Cecily Street,",LILYFIELD,NSW,2040,4,3,1,179m²,UPDATED,Simon Pilcher,House
+Joseph Lombardo,Adrian William Real Estate,"Guide $1,650,000","32 Elswick Street,",LEICHHARDT,NSW,2040,2,1,0,245m²,UPDATED,Joseph Lombardo,House
+Gerard Inangeri,Gerard Partners,Auction,"11 Perry Street,",LILYFIELD,NSW,2040,3,2,2,214m²,UPDATED,Gerard Inangeri,House
+Alister Barrett,The Agency,"$,1,800,000","157 Marion Street,",LEICHHARDT,NSW,2040,4,1,2,0,UPDATED,Alister Barrett,House
+Ben Southwell,CobdenHayson Annandale,Contact Agent,"15 Annesley Street,",LEICHHARDT,NSW,2040,4,3,3,278m²,,Ben Southwell,House
+Rebecca Williams,Belle Property Balmain,"Auction Guide $1,600,000","9/9 Bayside Street,",LILYFIELD,NSW,2040,3,2,2,219m²,,Rebecca Williams,Townhouse
+Ben Southwell,CobdenHayson Annandale,Contact Agent,"353 Balmain Road,",LILYFIELD,NSW,2040,3,3,1,163m²,,Ben Southwell,House
+,,"$840,000","116/23 Norton Street,",LEICHHARDT,NSW,2040,2,2,1,0,SOLD,"Picture of 116/23 Norton Street, LEICHHARDT NSW 2040",Apartment / Unit / Flat
+,,"$1,640,000","9A Annesley Street,",LEICHHARDT,NSW,2040,3,2,2,197m²,SOLD,"Picture of 9A Annesley Street, LEICHHARDT NSW 2040",House
+,,"$2,500,000","33 Cary Street,",LEICHHARDT,NSW,2040,3,2,0,280m²,SOLD,"Picture of 33 Cary Street, LEICHHARDT NSW 2040",House
+Luke Grosvenor,BresicWhitney Inner West,"Guide $1,350,000","65 Edith Street,",LEICHHARDT,NSW,2040,2,1,2,335m²,,"Picture of 65 Edith Street, LEICHHARDT NSW 2040",House
+Santos Sulfaro,CobdenHayson Annandale,Contact agent,"1/245 Balmain Road,",LILYFIELD,NSW,2040,2,1,1,0,,"Picture of 1/245 Balmain Road, LILYFIELD NSW 2040",House
+James Montano,Montano Group,Auction,"4 Kegworth Street,",LEICHHARDT,NSW,2040,4,2,0,348m²,,James Montano,House
+Scott Bunnell,McGrath Balmain,"Price Guide - $1,750,000","47 Cecily Street,",LILYFIELD,NSW,2040,2,1,1,147m²,,Scott Bunnell,House
+Rebecca Duncan,Belle Property Annandale,Auction Contact Agent,"70 Lamb Street,",LILYFIELD,NSW,2040,3,1,1,0,,Rebecca Duncan,House
+Simone Azzi,Belle Property Annandale,Auction Contact Agent,"74a Allen Street,",LEICHHARDT,NSW,2040,3,3,0,156m²,,Simone Azzi,Semi-detached
+Melissa Strazzeri,Belle Property Drummoyne,Auction - Contact Agent,"3/43-45 Church Street,",LILYFIELD,NSW,2040,2,2,1,0,,Melissa Strazzeri,Townhouse
+Frederico Fraga-Matos,BresicWhitney Inner West,"Guide $2,100,000","129 James Street,",LILYFIELD,NSW,2040,3,2,2,307m²,,Frederico Fraga-Matos,House
+David Eastway,Hudson McHugh,Auction,"25 Thornley Street,",LEICHHARDT,NSW,2040,2,1,0,165m²,AUCTION WED 12 FEB,David Eastway,House
+Jonathan Hammond,CobdenHayson Annandale,Contact Agent,"8/76A Balmain Road,",LEICHHARDT,NSW,2040,2,2,2,0,,Jonathan Hammond,Townhouse
+Jonathan Hammond,CobdenHayson Annandale,Contact Agent,"29 Frazer Street,",LILYFIELD,NSW,2040,2,1,1,178m²,,Jonathan Hammond,House
+David Eastway,Hudson McHugh,Auction,"39 Day Street,",LEICHHARDT,NSW,2040,4,2,2,281m²,AUCTION WED 12 FEB,David Eastway,House
+Jack Parry,BresicWhitney Balmain,"Guide $3,500,000","4 Point Street,",LILYFIELD,NSW,2040,5,3,0,279m²,AUCTION SAT 8 FEB,Jack Parry,House
+David Carrozza,CobdenHayson Annandale,Contact Agent,"2 John Street,",LEICHHARDT,NSW,2040,3,2,1,0,,David Carrozza,House
+Michael Hallit,Belle Property Annandale,Auction This Saturday,"21 Macquarie Street,",LEICHHARDT,NSW,2040,3,1,1,224m²,AUCTION SAT 8 FEB,Michael Hallit,House
+David Carrozza,CobdenHayson Annandale,Contact Agent,"40 Carrington Street,",LILYFIELD,NSW,2040,3,3,2,203m²,,David Carrozza,House
+Joseph Fenech,Hudson McHugh,"For sale - $600,000 - $650,000","8/6 Norton Street,",LEICHHARDT,NSW,2040,1,1,0,0,,Joseph Fenech,Apartment / Unit / Flat
+Matthew Carvalho,Ray White Erskineville | Alexandria | Glebe | Surry Hills,"Auction | Buyer's Guide $3,500,000","95 Francis Street,",LEICHHARDT,NSW,2040,4,3,2,261m²,,Matthew Carvalho,House
+Christian Leung,Ray White Concord | Five Dock,For Sale,"90/30-40 George Street,",LEICHHARDT,NSW,2040,2,2,1,97m²,,Christian Leung,Apartment / Unit / Flat
+Will Steinhauer,Belle Property Annandale,"For Sale $365,000 - $375,000","14/3 Rayner Street,",LILYFIELD,NSW,2040,0,1,0,0,,Will Steinhauer,Apartment / Unit / Flat
+,,"$840,000","116/23 Norton Street,",LEICHHARDT,NSW,2040,2,2,1,0,SOLD,"Picture of 116/23 Norton Street, LEICHHARDT NSW 2040",Apartment / Unit / Flat
+,,"$1,640,000","9A Annesley Street,",LEICHHARDT,NSW,2040,3,2,2,197m²,SOLD,"Picture of 9A Annesley Street, LEICHHARDT NSW 2040",House
+,,"$2,500,000","33 Cary Street,",LEICHHARDT,NSW,2040,3,2,0,280m²,SOLD,"Picture of 33 Cary Street, LEICHHARDT NSW 2040",House
+Paul Dahdal,Richard Matthews Real Estate,For Sale Contact Agent,"101/118 Marion Street,",LEICHHARDT,NSW,2040,1,1,0,0,,"Picture of 101/118 Marion Street, LEICHHARDT NSW 2040",Apartment / Unit / Flat
+Ben Southwell,CobdenHayson Annandale,Contact Agent,"59 Burfitt Street,",LEICHHARDT,NSW,2040,4,4,2,348m²,,"Picture of 59 Burfitt Street, LEICHHARDT NSW 2040",House
+James Montano,Montano Group,Auction,"100 Allen Street,",LEICHHARDT,NSW,2040,4,2,2,356m²,,James Montano,House
+Nicole Gerber,Gerber Properties,AUCTION,"1/47 Burfitt Street,",LEICHHARDT,NSW,2040,2,1,1,60m²,,Nicole Gerber,Apartment / Unit / Flat
+Ben Southwell,CobdenHayson Annandale,Contact Agent,"22 Commercial Road,",LILYFIELD,NSW,2040,4,3,2,304m²,,Ben Southwell,House
+Joseph Fenech,Hudson McHugh,For sale - Contact agent,"8/30-40 George Street,",LEICHHARDT,NSW,2040,2,2,1,0,,Joseph Fenech,Apartment / Unit / Flat
+Rebecca Duncan,Belle Property Annandale,"Auction $1,200,000","71/23 Norton Street,",LEICHHARDT,NSW,2040,3,2,2,147m²,,Rebecca Duncan,Apartment / Unit / Flat
+Laura Raneri,Aria Realty Co.,FOR SALE,"38/23 Norton Street,",LEICHHARDT,NSW,2040,0,1,2,0,,Laura Raneri,Apartment / Unit / Flat
+Regina Hong,,"Auction Guide | $1,500,000","73 Balmain Road,",LEICHHARDT,NSW,2040,2,1,0,215m²,UPDATED,Regina Hong,House
+,,"For Sale Now or Auction | Guide: $3,050,000","24A Henry Street,",LEICHHARDT,NSW,2040,4,3,2,287m²,,Callagher Estate Agents,House
+,,Just listed | Contact agent,"103/35A Upward Street,",LEICHHARDT,NSW,2040,2,2,1,0,NEW,TRIPLE S PROPERTY,Apartment / Unit / Flat
+,,"Guide $1,550,000","5/183 Balmain (enter via Hill St) Road,",LEICHHARDT,NSW,2040,3,2,1,0,,Harris Partners,House
+,,"Auction | Guide $1,790,000","23 Loftus Street,",LEICHHARDT,NSW,2040,3,2,1,0,,Richardson & Wrench Hurlstone Park,House
+,,Just listed | Contact agent,"G02/35B Upward Street,",LEICHHARDT,NSW,2040,1,1,1,0,,TRIPLE S PROPERTY,Apartment / Unit / Flat
+,,Contact agent,"501/35A Upward Street,",LEICHHARDT,NSW,2040,3,2,1,0,,Xing Wang Property Real Estate,Apartment / Unit / Flat
+,,"$3,250,000 For Sale","16 Leichhardt St,",LEICHHARDT,NSW,2040,5,3,3,594m²,,Greencliff Agency Central Park,House
+,,"$840,000","116/23 Norton Street,",LEICHHARDT,NSW,2040,2,2,1,0,SOLD,"Picture of 116/23 Norton Street, LEICHHARDT NSW 2040",Apartment / Unit / Flat
+,,"$1,640,000","9A Annesley Street,",LEICHHARDT,NSW,2040,3,2,2,197m²,SOLD,"Picture of 9A Annesley Street, LEICHHARDT NSW 2040",House
+,,"$2,500,000","33 Cary Street,",LEICHHARDT,NSW,2040,3,2,0,280m²,SOLD,"Picture of 33 Cary Street, LEICHHARDT NSW 2040",House

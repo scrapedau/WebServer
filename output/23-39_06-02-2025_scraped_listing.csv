@@ -1,0 +1,11 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+,,"$210,000","174/6 Stephens Road,",MOUNT JOHNS,NT,0874,1,1,1,51m²,,"Picture of 174/6 Stephens Road, MOUNT JOHNS NT 0874",Apartment / Unit / Flat
+,,"$517,500","2/54 Irrampenye Street,",MOUNT JOHNS,NT,0874,3,2,2,304m²,,"Picture of 2/54 Irrampenye Street, MOUNT JOHNS NT 0874",Apartment / Unit / Flat
+,,"$210,000","44/6 Stephens Road,",MOUNT JOHNS,NT,0874,0,1,1,51m²,,"Picture of 44/6 Stephens Road, MOUNT JOHNS NT 0874",Apartment / Unit / Flat
+,,"$565,000","3/1 Maconochie Road,",MOUNT JOHNS,NT,0874,3,2,2,286m²,,"Picture of 3/1 Maconochie Road, MOUNT JOHNS NT 0874",House
+,,"Offers Over $886,000","4 MacDonnell Court,",MOUNT JOHNS,NT,0874,6,4,4,800m²,,"Picture of 4 MacDonnell Court, MOUNT JOHNS NT 0874",House
+,,"$689,000","1 Heavitree Court,",MOUNT JOHNS,NT,0874,4,2,2,601m²,,LJ Hooker Alice Springs,House
+,,"$795,000","11 Shanahan Close,",MOUNT JOHNS,NT,0874,4,2,3,600m²,,Nutrien Harcourts Alice Springs,House
+,,"$640,000","20 MacDonnell Court,",MOUNT JOHNS,NT,0874,3,2,2,0,SOLD,"Picture of 20 MacDonnell Court, MOUNT JOHNS NT 0874",House
+,,"$675,000","11 Clough Place,",MOUNT JOHNS,NT,0874,4,2,2,0,SOLD,"Picture of 11 Clough Place, MOUNT JOHNS NT 0874",House
+,,"$200,000","17/6 Stephens Road,",MOUNT JOHNS,NT,0874,1,1,1,0,SOLD,"Picture of 17/6 Stephens Road, MOUNT JOHNS NT 0874",Apartment / Unit / Flat

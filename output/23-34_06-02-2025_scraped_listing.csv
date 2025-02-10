@@ -1,0 +1,24 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+,,"$635,000","2 Battarbee Street,",ARALUEN,NT,0870,5,2,3,"1,010m²",NEW,LJ Hooker Alice Springs,House
+,,"$279,000","36/50 South Terrace,",THE GAP,NT,0870,2,1,1,158m²,NEW,LJ Hooker Alice Springs,House
+,,"$385,000","1/3 Partridge Court,",SADADEEN,NT,0870,2,1,2,0,,LJ Hooker Alice Springs,Apartment / Unit / Flat
+,,"$310,000","10/3 Tilmouth Court,",GILLEN,NT,0870,2,1,1,193m²,,LJ Hooker Alice Springs,Apartment / Unit / Flat
+,,"$439,000","6 Cheong Street,",BRAITLING,NT,0870,3,1,2,825m²,,LJ Hooker Alice Springs,House
+,,"$269,000","1/4 Cycad Place,",SADADEEN,NT,0870,2,1,1,176m²,,LJ Hooker Alice Springs,Apartment / Unit / Flat
+,,"$255,000","2/16 Bradshaw Drive,",GILLEN,NT,0870,2,1,1,86m²,,LJ Hooker Alice Springs,Apartment / Unit / Flat
+,,"Offers Over $389,000","29 Mallam Crescent,",SADADEEN,NT,0870,3,1,2,800m²,,LJ Hooker Alice Springs,House
+,,"$669,000","9 Ciccone Court,",ARALUEN,NT,0870,3,2,2,812m²,,LJ Hooker Alice Springs,House
+,,"$365,000","2/20 Clara Court,",THE GAP,NT,0870,2,2,2,250m²,,LJ Hooker Alice Springs,Apartment / Unit / Flat
+,,"Offers Over $499,000","36 Poeppel Gardens,",GILLEN,NT,0870,5,2,2,726m²,,LJ Hooker Alice Springs,House
+,,"$279,000","32/3 Gap Road,",THE GAP,NT,0870,2,2,1,198m²,,LJ Hooker Alice Springs,House
+,,"$469,000","9 Partridge Court,",SADADEEN,NT,0870,3,2,1,800m²,,LJ Hooker Alice Springs,House
+,,"Offers Over $499,000","8 Gosse Street,",EAST SIDE,NT,0870,3,1,1,910m²,,LJ Hooker Alice Springs,House
+,,"$225,000","6/16 Bradshaw Drive,",GILLEN,NT,0870,2,1,1,86m²,,LJ Hooker Alice Springs,House
+,,"$529,000","17 Dixon Road,",BRAITLING,NT,0870,4,2,3,825m²,,LJ Hooker Alice Springs,House
+,,"$549,000","2 Priest Street,",BRAITLING,NT,0870,4,2,4,"1,110m²",,LJ Hooker Alice Springs,House
+,,"$435,000","32 Aldidja Street,",BRAITLING,NT,0870,3,1,2,850m²,,LJ Hooker Alice Springs,House
+,,"$395,000","1/8 Hawkins Court,",GILLEN,NT,0870,3,1,2,395m²,,LJ Hooker Alice Springs,House
+,,"$495,000","29 Banksia Street,",EAST SIDE,NT,0870,3,2,2,"1,200m²",,LJ Hooker Alice Springs,House
+,,"$320,000","2/3 Gap Road,",THE GAP,NT,0870,2,2,1,164m²,SOLD,"Picture of 2/3 Gap Road, THE GAP NT 0870",Townhouse
+,,"$285,000","11/50 South Terrace,",THE GAP,NT,0870,2,1,1,148m²,SOLD,"Picture of 11/50 South Terrace, THE GAP NT 0870",Townhouse
+,,"$422,000","26 Forrest Crescent,",GILLEN,NT,0870,4,1,3,"1,120m²",SOLD,"Picture of 26 Forrest Crescent, GILLEN NT 0870",House

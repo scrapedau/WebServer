@@ -1,0 +1,47 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Scott Farquhar,Sydney Sotheby's International Realty,Expressions of Interest,"18 Howard Street,",LINDFIELD,NSW,2070,6,3,2,"1,518m²",NEW,Scott Farquhar,House
+Nahid Coventry,DiJones - Lindfield,Auction - Contact Agent,"102D Wellington Road,",EAST LINDFIELD,NSW,2070,4,3,2,670m²,NEW,Nahid Coventry,House
+Belinda Shearer,The Marshall Group RE,Auction,"12/231 Pacific Highway,",LINDFIELD,NSW,2070,2,1,1,0,NEW,Belinda Shearer,Apartment / Unit / Flat
+Steven Kourdis,Stone Real Estate Lindfield,Auction - 1st March,"3 Baker Place,",LINDFIELD,NSW,2070,4,3,2,962m²,NEW,Steven Kourdis,House
+Ben Coventry,DiJones - Lindfield,Auction - Contact Agent,"311/1-3 Tubbs View,",LINDFIELD,NSW,2070,2,2,2,0,NEW,Ben Coventry,Apartment / Unit / Flat
+Adette Cao,Stone Real Estate Lindfield,Auction - 1st March,"34 Highfield Road,",LINDFIELD,NSW,2070,4,2,2,916m²,NEW,Adette Cao,House
+Matt Payne,Ray White Upper North Shore,"Auction Saturday 8 March, 9am","17 Hobart Avenue,",EAST LINDFIELD,NSW,2070,4,3,2,967m²,NEW,Matt  Payne,House
+Nicole Zeng,Ray White Upper North Shore,"Auction Saturday 1st March, 2pm","243 Tryon Road,",EAST LINDFIELD,NSW,2070,6,5,2,"1,543m²",NEW,Nicole Zeng,House
+Geoff Dean,Belle Property Lindfield,"AUCTION, Contact Agent","18 Dorman Crescent,",LINDFIELD,NSW,2070,4,2,2,0,NEW,Geoff Dean,House
+Chris Bell,Plus Agency,Contact Agent,"TH01/2 - 4 Eton Road,",LINDFIELD,NSW,2070,4,3,2,0,NEW,Chris Bell,Townhouse
+Adam Wong,DiJones - Chatswood,Auction - Contact Agent,"40 Winchester Avenue,",LINDFIELD,NSW,2070,6,3,4,860m²,NEW,Adam Wong,House
+Jason Xie,Plus Agency,Contact Agent,"10/2 - 4 Eton Road,",LINDFIELD,NSW,2070,4,4,2,0,NEW,Jason Xie,Apartment / Unit / Flat
+Jason Xie,Plus Agency,Contact Agent,"7/2 - 4 Eton Road,",LINDFIELD,NSW,2070,3,3,2,0,NEW,Jason Xie,New apartments / off the plan
+Nahid Coventry,DiJones - Lindfield,"Auction Guide $2,600,000","247 Tryon Road,",EAST LINDFIELD,NSW,2070,4,2,2,"2,390m²",UPDATED,Nahid Coventry,House
+Matt Payne,Ray White Upper North Shore,"Auction guide: $2,700,000","79 Eton Road,",LINDFIELD,NSW,2070,3,2,2,980m²,UPDATED,Matt  Payne,House
+Hao Jiang,ChanYahl,"Auction Guide $1,800,000 - Tue 4th Mar","406/305B Pacific Highway,",LINDFIELD,NSW,2070,3,2,2,0,UPDATED,Hao Jiang,Apartment / Unit / Flat
+Lisa Davies,Ray White Upper North Shore,"Auction Saturday 22 February, 4.30pm","9 Valley Road,",LINDFIELD,NSW,2070,5,4,2,"1,113m²",,Lisa Davies,House
+Steven Kourdis,Stone Real Estate Lindfield,Auction: Saturday 1st March Onsite,"15 Larool Avenue,",LINDFIELD,NSW,2070,5,2,2,746m²,,Steven Kourdis,House
+Matt Payne,Ray White Upper North Shore,Auction,"6A Howard Street,",LINDFIELD,NSW,2070,4,2,2,0,,Matt  Payne,House
+Stephen Tesoriero,The Marshall Group RE,Auction 1st March,"6 Johore Place,",EAST LINDFIELD,NSW,2070,5,4,2,0,,Stephen Tesoriero,House
+,,"$11,980,000","101 Middle Harbour Road,",LINDFIELD,NSW,2070,5,4,2,"1,853m²",SOLD,"Picture of 101 Middle Harbour Road, LINDFIELD NSW 2070",House
+,,"$3,000,000","11A Westbourne Road,",LINDFIELD,NSW,2070,4,2,2,740m²,SOLD,"Picture of 11A Westbourne Road, LINDFIELD NSW 2070",House
+,,"$4,610,000","123 Middle Harbour Road,",EAST LINDFIELD,NSW,2070,4,2,2,0,SOLD,"Picture of 123 Middle Harbour Road, EAST LINDFIELD NSW 2070",House
+Stephen Tesoriero,The Marshall Group RE,Auction - Contact Agent,"24/25 Tryon Road,",LINDFIELD,NSW,2070,3,2,2,0,,Stephen Tesoriero,Apartment / Unit / Flat
+Nahid Coventry,DiJones - Lindfield,Auction - Contact Agent,"4 Carlyle Road,",EAST LINDFIELD,NSW,2070,6,5,2,"1,334m²",,Nahid Coventry,House
+Max Ma,Stone Real Estate Lindfield,Auction - Contact Agent,"87 Tryon Road,",EAST LINDFIELD,NSW,2070,5,3,3,967m²,,Max Ma,House
+Jess Goodman,Belle Property Lindfield,"FOR SALE, Contact Agent","G02/305B Pacific Highway,",LINDFIELD,NSW,2070,2,2,1,0,,Jess Goodman,Apartment / Unit / Flat
+Ben Coventry,DiJones - Lindfield,Auction - Contact Agent,"232/1-3 Tubbs View,",LINDFIELD,NSW,2070,3,2,2,0,,Ben Coventry,Apartment / Unit / Flat
+Richard Bonouvrie,McGrath Lane Cove,"Auction Guide: $1,000,000","7/1-3 Eton Road,",LINDFIELD,NSW,2070,2,2,1,0,,Richard Bonouvrie,Apartment / Unit / Flat
+Jessica Cao,Ray White Upper North Shore,"Auction guide: $3,100,000","70 Grosvenor Road,",LINDFIELD,NSW,2070,4,2,2,834m²,,Jessica Cao,House
+Andrew Braid,Stone Real Estate Lindfield,"Price Guide: $850,000","5/257 Pacific Highway,",LINDFIELD,NSW,2070,2,1,1,0,,Andrew Braid,Apartment / Unit / Flat
+Matt Payne,Ray White Upper North Shore,"Auction Tuesday 25 February, 6pm","12/444 Pacific Highway,",LINDFIELD,NSW,2070,2,1,1,0,,Matt  Payne,Apartment / Unit / Flat
+Matt Payne,Ray White Upper North Shore,"Auction Saturday 22 February, 5:30pm","15 Edmund Street,",LINDFIELD,NSW,2070,5,2,2,695m²,,Matt  Payne,House
+Nahid Coventry,DiJones - Lindfield,"Auction Guide $4,500,000","28 Waimea Road,",LINDFIELD,NSW,2070,5,3,2,0,,Nahid Coventry,House
+Nahid Coventry,DiJones - Lindfield,"Auction Guide $5,000,000","3 Carlyle Road,",EAST LINDFIELD,NSW,2070,5,5,2,"1,157m²",,Nahid Coventry,House
+Will Geist,McGrath Lindfield,Contact Agent,"40/5 Milray Street,",LINDFIELD,NSW,2070,1,1,1,0,,Will Geist,Apartment / Unit / Flat
+Andrew Braid,Stone Real Estate Lindfield,Auction: Saturday 15th February On-site,"102/29 Lindfield Avenue,",LINDFIELD,NSW,2070,2,1,1,0,,Andrew Braid,Apartment / Unit / Flat
+Jill Smith,The Marshall Group RE,On Site Auction this Saturday 8th Feb @ 10.00am,"130a Provincial Road,",LINDFIELD,NSW,2070,5,2,2,965m²,AUCTION SAT 8 FEB,Jill Smith,House
+Glenn Curran,The Agency North,Contact Agent,"22a Sydney Road,",EAST LINDFIELD,NSW,2070,5,4,2,"1,160m²",,Glenn Curran,House
+Christine Tedja,Christine Tedja Realty,AUCTION PREVIEW,"215/7 Dunstan Grove,",LINDFIELD,NSW,2070,2,2,1,0,,Christine Tedja,Apartment / Unit / Flat
+Andrew Egan,ChanYahl,"For Sale $950,000 - $1,045,000","2/1-3 Lindfield Avenue,",LINDFIELD,NSW,2070,2,1,0,0,,Andrew Egan,Apartment / Unit / Flat
+Temuqile ( Tim ) Boyan,Raine&Horne Lindfield,Contact agent,"29/10 Drovers Way,",LINDFIELD,NSW,2070,3,2,2,"4,605m²",,Temuqile ( Tim ) Boyan,Apartment / Unit / Flat
+Reuben Mak,Common Realty,Brand New,"9B Gladstone Parade,",LINDFIELD,NSW,2070,3,2,2,0,NEW HOME,Reuben Mak,Townhouse
+,,"$11,980,000","101 Middle Harbour Road,",LINDFIELD,NSW,2070,5,4,2,"1,853m²",SOLD,"Picture of 101 Middle Harbour Road, LINDFIELD NSW 2070",House
+,,"$3,000,000","11A Westbourne Road,",LINDFIELD,NSW,2070,4,2,2,740m²,SOLD,"Picture of 11A Westbourne Road, LINDFIELD NSW 2070",House
+,,"$4,610,000","123 Middle Harbour Road,",EAST LINDFIELD,NSW,2070,4,2,2,0,SOLD,"Picture of 123 Middle Harbour Road, EAST LINDFIELD NSW 2070",House

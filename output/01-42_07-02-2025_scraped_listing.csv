@@ -1,0 +1,42 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Paul Langsam,Raine & Horne Double Bay,Auction,"70 Cross Street,",DOUBLE BAY,NSW,2028,4,4,0,0,,"Picture of 70 Cross Street, DOUBLE BAY NSW 2028",House
+Paul Langsam,Raine & Horne Double Bay,Auction,"51/18 Bay Street,",DOUBLE BAY,NSW,2028,2,2,1,0,,"Picture of 51/18 Bay Street, DOUBLE BAY NSW 2028",Apartment / Unit / Flat
+Ric Serrao,Raine & Horne Double Bay,"Auction Guide $3,500,000","7/9 Marathon Mews,",DOUBLE BAY,NSW,2028,3,2,2,0,UPDATED,"Picture of 7/9 Marathon Mews, DOUBLE BAY NSW 2028",Townhouse
+Paul Langsam,Raine & Horne Double Bay,Auction,"70 Cross Street,",DOUBLE BAY,NSW,2028,4,4,0,0,,"Picture of 70 Cross Street, DOUBLE BAY NSW 2028",House
+Paul Langsam,Raine & Horne Double Bay,Auction,"51/18 Bay Street,",DOUBLE BAY,NSW,2028,2,2,1,0,,"Picture of 51/18 Bay Street, DOUBLE BAY NSW 2028",Apartment / Unit / Flat
+Ric Serrao,Raine & Horne Double Bay,"Auction Guide $3,500,000","7/9 Marathon Mews,",DOUBLE BAY,NSW,2028,3,2,2,0,UPDATED,"Picture of 7/9 Marathon Mews, DOUBLE BAY NSW 2028",Townhouse
+Paul Langsam,Raine & Horne Double Bay,Auction,"70 Cross Street,",DOUBLE BAY,NSW,2028,4,4,0,0,,"Picture of 70 Cross Street, DOUBLE BAY NSW 2028",House
+Michael Pallier,Sydney Sotheby's International Realty,Auction,"1/31 Manning Road,",DOUBLE BAY,NSW,2028,3,2,2,0,NEW,"Picture of 1/31 Manning Road, DOUBLE BAY NSW 2028",Apartment / Unit / Flat
+Alexander George,Bradfield BadgerFox,AUCTION,"6/19 Ocean Avenue,",DOUBLE BAY,NSW,2028,2,1,1,0,NEW,Alexander George,Apartment / Unit / Flat
+Thomas Popple,Ray White Double Bay,Auction,"1/508-510 New South Head Road,",DOUBLE BAY,NSW,2028,1,1,0,0,NEW,Thomas Popple,Apartment / Unit / Flat
+Bob Guth,Bradfield BadgerFox,AUCTION,"10/175 Bellevue Road,",DOUBLE BAY,NSW,2028,3,2,2,0,NEW,Bob Guth,House
+Mark Daley,Bradfield BadgerFox,AUCTION,"74 Epping Road,",DOUBLE BAY,NSW,2028,4,3,1,0,NEW,Mark Daley,House
+Sean Poche,PPD Real Estate,Auction 26 February,"10/499 New South Head Road,",DOUBLE BAY,NSW,2028,2,1,0,0,,Sean Poche,Apartment / Unit / Flat
+Ric Serrao,Raine & Horne Double Bay,"Auction Guide $3,500,000","7/9 Marathon Mews,",DOUBLE BAY,NSW,2028,3,2,2,0,UPDATED,Ric Serrao,Townhouse
+Paul Langsam,Raine & Horne Double Bay,Auction,"51/18 Bay Street,",DOUBLE BAY,NSW,2028,2,2,1,0,,Paul Langsam,Apartment / Unit / Flat
+Josh Punin,Biller Property,Auction - 26th February 2025,"4 Ocean Avenue,",DOUBLE BAY,NSW,2028,5,4,3,0,,Josh Punin,Block of units
+Sally Hampshire,Laing+Simmons Double Bay,Contact Agent,"10/524 New South Head Road,",DOUBLE BAY,NSW,2028,2,1,0,0,,Sally Hampshire,Apartment / Unit / Flat
+James Ledgerwood,McGrath Double Bay,"Guide $1,600,000","4/321 New South Head Road,",DOUBLE BAY,NSW,2028,1,1,1,0,,James Ledgerwood,Apartment / Unit / Flat
+Paul Langsam,Raine & Horne Double Bay,Auction,"70 Cross Street,",DOUBLE BAY,NSW,2028,4,4,0,0,,Paul Langsam,House
+Michael Rowles,Bradfield BadgerFox,AUCTION,"2/260 New South Head Road,",DOUBLE BAY,NSW,2028,2,1,1,0,,Michael Rowles,Apartment / Unit / Flat
+GAVIN RUBINSTEIN,TRG,Auction,"28 Ocean Avenue,",DOUBLE BAY,NSW,2028,5,4,2,800m²,,GAVIN RUBINSTEIN,House
+Graham Berman,Ray White Double Bay,Auction,"3/16 Carlotta Road,",DOUBLE BAY,NSW,2028,3,2,2,0,,Graham Berman,Apartment / Unit / Flat
+James Dunn,Richardson & Wrench Double Bay,AUCTION,"9/19 Cooper Street,",DOUBLE BAY,NSW,2028,2,1,1,109m²,,James Dunn,Apartment / Unit / Flat
+Thomas Popple,Ray White Double Bay,Auction,"6C/7 Ocean Avenue,",DOUBLE BAY,NSW,2028,2,1,1,74m²,,Thomas Popple,Apartment / Unit / Flat
+ZAC RABIN,TRG,"Auction Guide | $6,000,000","16/325-335 New South Head Road,",DOUBLE BAY,NSW,2028,3,2,7,0,,ZAC RABIN,Apartment / Unit / Flat
+OLIVER LAVERS,TRG,Auction,"68 Epping Road,",DOUBLE BAY,NSW,2028,4,3,2,0,,OLIVER LAVERS,House
+,,"$3,500,000","22/18 Bay Street,",DOUBLE BAY,NSW,2028,2,2,2,0,SOLD,"Picture of 22/18 Bay Street, DOUBLE BAY NSW 2028",Apartment / Unit / Flat
+,,"$1,310,000","6/24 Ocean Avenue,",DOUBLE BAY,NSW,2028,2,1,0,0,SOLD,"Picture of 6/24 Ocean Avenue, DOUBLE BAY NSW 2028",Apartment / Unit / Flat
+,,"$1,060,000","6/499 New South Head Road,",DOUBLE BAY,NSW,2028,2,1,0,0,SOLD,"Picture of 6/499 New South Head Road, DOUBLE BAY NSW 2028",Apartment / Unit / Flat
+Martin Maskin,Raine & Horne Double Bay,Expressions of Interest,"2/17 Gladswood Gardens,",DOUBLE BAY,NSW,2028,4,3,2,0,,"Picture of 2/17 Gladswood Gardens, DOUBLE BAY NSW 2028",Apartment / Unit / Flat
+Julian Hasemer,1st City Real Estate Group,Contact Agent,"14 Manning Road,",DOUBLE BAY,NSW,2028,5,4,4,487m²,,"Picture of 14 Manning Road, DOUBLE BAY NSW 2028",House
+Suri Su,Auston Grand Realty Group,"Forthcoming Auction- Buyers Guide $1,700,000","307/315-317 New South Head Road,",DOUBLE BAY,NSW,2028,2,2,1,0,,Suri Su,Apartment / Unit / Flat
+Alexander Phillips,PPD Real Estate,Auction 15 February,"17 Pearce Street,",DOUBLE BAY,NSW,2028,4,3,0,0,,Alexander Phillips,House
+Michael Pallier,Sydney Sotheby's International Realty,Private Auction,"7/45-51 Cross Street,",DOUBLE BAY,NSW,2028,5,4,3,0,,Michael Pallier,Apartment / Unit / Flat
+Clint Ballard,Sydney Sotheby's International Realty,Expressions of Interest,"6 South Avenue,",DOUBLE BAY,NSW,2028,5,4,2,0,,Clint Ballard,House
+Graham Berman,Ray White Double Bay,Contact Agent,"3/16 Carlotta Road,",DOUBLE BAY,NSW,2028,3,2,2,0,,Graham Berman,Apartment / Unit / Flat
+,,Indulge in Curated Elegance at Encore 1788,"28 - 34 Cross Street,",DOUBLE BAY,NSW,2028,3,3,2,0,NEW HOME,Ray White Projects | NSW,New apartments / off the plan
+,,For Sale,"1 and 9/25 Guilfoyle Avenue,",DOUBLE BAY,NSW,2028,2,1,0,0,,Century 21 Feller & Taylor,Retirement Living
+,,"$3,500,000","22/18 Bay Street,",DOUBLE BAY,NSW,2028,2,2,2,0,SOLD,"Picture of 22/18 Bay Street, DOUBLE BAY NSW 2028",Apartment / Unit / Flat
+,,"$1,310,000","6/24 Ocean Avenue,",DOUBLE BAY,NSW,2028,2,1,0,0,SOLD,"Picture of 6/24 Ocean Avenue, DOUBLE BAY NSW 2028",Apartment / Unit / Flat
+,,"$1,060,000","6/499 New South Head Road,",DOUBLE BAY,NSW,2028,2,1,0,0,SOLD,"Picture of 6/499 New South Head Road, DOUBLE BAY NSW 2028",Apartment / Unit / Flat

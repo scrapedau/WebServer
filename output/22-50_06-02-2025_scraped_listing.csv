@@ -1,0 +1,64 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Olivia Thompson,LAWD,Expression of Interest,"3400 Fleming Road,",DOUGLAS-DALY,NT,0822,0,0,0,0,NEW,"Picture of 3400 Fleming Road, DOUGLAS-DALY NT 0822",Rural
+Nuriye Piening,Piening Property Sales,"$640,000","110 Gulnare Road,",BEES CREEK,NT,0822,2,1,0,8.09ha,,"Picture of 110 Gulnare Road, BEES CREEK NT 0822",House
+Nuriye Piening,Piening Property Sales,"$1,020,000","45 Hunter Road,",BEES CREEK,NT,0822,4,2,7,2.02ha,,Piening Property Sales,House
+Olivia Thompson,LAWD,Offers Over $4Mil,"7409 Stuart Highway,",TORTILLA FLATS,NT,0822,0,0,0,0,,Olivia Thompson,Rural
+Olivia Thompson,LAWD,Offers Over $25Mil,". Dorisvale Station,",CLARAVALE,NT,0822,0,0,0,0,,Olivia Thompson,Rural
+Chris Clarke,,"Price Guide $990,000","6375 Stuart Highway,",COOMALIE CREEK,NT,0822,0,0,0,0,,Real Estate Central Projects Pty Ltd,Acreage / Semi-rural
+,,$1.05m,"90 Bynoe Haven Road,",BYNOE,NT,0822,5,3,11,7.99ha,,Real Estate NT by George Pikos,House
+,,"$140,000","33 Austin Street,",SOUTHPORT,NT,0822,0,0,0,0,,Litchfield Realty,Rural
+,,"$700,000","160 Venture Road,",BYNOE,NT,0822,0,0,0,0,,LJ Hooker Darwin,Rural
+,,"$240,000","28 Erickson Crescent,",WAGAIT BEACH,NT,0822,0,0,0,0,,LJ Hooker Darwin,Vacant land
+,,Expressions of Interest,"940 Stuart Highway,",BEES CREEK,NT,0822,4,3,10,"151,000m²",NEW,Real Estate Central Projects Pty Ltd,Vacant land
+,,"$2,000,000","980 Wooliana Road,",DALY RIVER,NT,0822,0,0,0,0,UPDATED,Elders Real Estate Katherine,Rural
+,,"$370,000","300 Girraween Road,",MCMINNS LAGOON,NT,0822,0,0,0,0,,Sale by Home Owner,Vacant land
+,,"Offers over $450,000","Lot 3 Silversands Beach,",COX PENINSULA,NT,0822,0,0,0,0,,Real Estate NT by George Pikos,Vacant land
+,,"$450,000","331 Wooliana Road,",DALY RIVER,NT,0822,0,0,0,0,,No Agent Property,Rural
+,,$1.65m,"460 Monck Road,",ACACIA HILLS,NT,0822,4,3,6,8.07ha,,@realty,House
+,,Expressions of Interest,"185 Hardcastle Road,",BYNOE,NT,0822,0,0,0,0,,Real Estate Central Projects Pty Ltd,Vacant land
+,,"$450,000","2473/10 Hunter Road,",BEES CREEK,NT,0822,0,0,0,0,,LJ Hooker Darwin,Vacant land
+,,"$1,095,000","50 Caldwell Road,",MCMINNS LAGOON,NT,0822,4,3,8,0,SOLD,"Picture of 50 Caldwell Road, MCMINNS LAGOON NT 0822",House
+,,"$1,000,000","180 Lovelock Road,",BEES CREEK,NT,0822,4,2,6,0,SOLD,"Picture of 180 Lovelock Road, BEES CREEK NT 0822",House
+,,"$145,000","2 Kersley Street,",SOUTHPORT,NT,0822,1,1,1,"2,023m²",SOLD,"Picture of 2 Kersley Street, SOUTHPORT NT 0822",House
+,,CONTACT AGENT,"125 Buckley Road,",LAMBELLS LAGOON,NT,0822,0,0,0,0,,"Picture of 125 Buckley Road, LAMBELLS LAGOON NT 0822",Rural
+,,"$819,000","235 Monaghan Road,",LLOYD CREEK,NT,0822,0,0,0,0,,"Picture of 235 Monaghan Road, LLOYD CREEK NT 0822",Acreage / Semi-rural
+,,Contact Agent,"5790 Litchfield Park Road,",RAKULA,NT,0822,0,0,0,0,,Elders Real Estate Katherine,Acreage / Semi-rural
+,,"$520,000","50/841 Chinner Road,",LAKE BENNETT,NT,0822,2,1,2,249m²,,For Sale By Owner Australia,House
+,,"$170,000","47 Erickson Crescent,",WAGAIT BEACH,NT,0822,0,0,0,0,,Real Estate NT by George Pikos,Vacant land
+,,"PRICE REDUCED $1,350,000","3481 Arnhem highway,",MARRAKAI,NT,0822,0,0,0,0,,No Agent Property,Rural
+,,"$449,000","250 Kentish Road,",LIVINGSTONE,NT,0822,0,0,0,0,,Piening Property Sales,Vacant land
+,,"$575,000","4816 Arnhem Highway,",MOUNT BUNDEY,NT,0822,0,0,0,0,,No Agent Property,Vacant land
+,,"$180,000","33 Baluria Road,",WAGAIT BEACH,NT,0822,0,0,0,0,,Real Estate NT by George Pikos,Vacant land
+,,"$200,000","45 Gregory Road,",MARRAKAI,NT,0822,0,0,0,0,,Piening Property Sales,Vacant land
+,,"$1,100,000","124 Baluria Road,",WAGAIT BEACH,NT,0822,0,0,0,0,,For Sale By Owner Australia,Acreage / Semi-rural
+,,"$309,500","305 Brougham Road,",FLY CREEK,NT,0822,0,0,0,0,,Piening Property Sales,Vacant land
+,,"Offers over $650,000","5915/2124 Arnhem Highway,",MARRAKAI,NT,0822,0,0,0,0,,Minus The Agent,Cropping property
+,,"$598,000","95 Wagait Tower Road,",WAGAIT BEACH,NT,0822,2,1,6,"10,000m²",,Real Estate NT by George Pikos,House
+,,"Offers over $299,000","5825/824 Goode Road,",LLOYD CREEK,NT,0822,0,0,0,0,,Acacia Realty,Vacant land
+,,"$190,000","545 Parkin Road,",FLY CREEK,NT,0822,0,0,0,0,,Elders Top End Group,Vacant land
+,,"$860,000=2xBeachfront Houses - Both FullyFurnished","132 Cox Drive,",WAGAIT BEACH,NT,0822,0,0,0,0,,For Sale By Owner Australia,Acreage / Semi-rural
+,,"$877,000","76 Cox Drive,",WAGAIT BEACH,NT,0822,3,2,4,"4,040m²",,Real Estate NT by George Pikos,House
+,,"$1,095,000","50 Caldwell Road,",MCMINNS LAGOON,NT,0822,4,3,8,0,SOLD,"Picture of 50 Caldwell Road, MCMINNS LAGOON NT 0822",House
+,,"$1,000,000","180 Lovelock Road,",BEES CREEK,NT,0822,4,2,6,0,SOLD,"Picture of 180 Lovelock Road, BEES CREEK NT 0822",House
+,,"$145,000","2 Kersley Street,",SOUTHPORT,NT,0822,1,1,1,"2,023m²",SOLD,"Picture of 2 Kersley Street, SOUTHPORT NT 0822",House
+,,"$560,000","46/841 Chinner Road,",LAKE BENNETT,NT,0822,2,2,2,0,,"Picture of 46/841 Chinner Road, LAKE BENNETT NT 0822",Apartment / Unit / Flat
+,,"$650,000","685 Miles Road,",EVA VALLEY,NT,0822,0,0,0,0,,"Picture of 685 Miles Road, EVA VALLEY NT 0822",Acreage / Semi-rural
+,,"$180,000","23 Cheeney Road,",EVA VALLEY,NT,0822,0,0,0,0,,"Picture of 23 Cheeney Road, EVA VALLEY NT 0822",Vacant land
+,,Open to Offers,"2513 Fog Bay Road,",CHARLOTTE,NT,0822,0,0,0,0,,"Picture of 2513 Fog Bay Road, CHARLOTTE NT 0822",Vacant land
+,,$2.19m,"110 Hardcastle Road,",BYNOE,NT,0822,8,4,32,0,,Real Estate NT by George Pikos,House
+,,"Starting at $175,000","Tuey-Mielang Road,",BLACKMORE,NT,0822,3,1,0,2ha,,Acacia Realty,House
+,,"$615,000","490 Wright Road,",MARRAKAI,NT,0822,3,2,4,0,,Real Estate Central NT,House
+,,"$230,000","16 Joseph Court,",WAGAIT BEACH,NT,0822,0,0,0,0,,LJ Hooker Darwin,Vacant land
+,,CONTACT AGENT,"30 Cain Road,",LAMBELLS LAGOON,NT,0822,0,0,0,0,,Elders Real Estate Katherine,Rural
+,,POA,"Ringwood Road,",TORTILLA FLATS,NT,0822,0,0,0,0,,Acacia Realty,Acreage / Semi-rural
+,,Open to Offers,"Lot 237 Stuart Highway,",COOMALIE CREEK,NT,0822,0,0,0,0,,Acacia Realty,Acreage / Semi-rural
+,,"$200,000","89 Erickson Crescent,",WAGAIT BEACH,NT,0822,0,0,0,0,,,Rural
+,,"$210,000","48 Uhr Road,",WAGAIT BEACH,NT,0822,0,0,0,0,,,Rural
+,,"$1,500,000","200 Livingston Road,",LIVINGSTONE,NT,0822,0,0,0,0,,,Vacant land
+,,"$795,000","670 Stuart Highway,",ROBIN FALLS,NT,0822,0,0,0,0,,,Vacant land
+,,"$430,000","165 Old Bynoe Road,",LIVINGSTONE,NT,0822,5,2,2,8.09ha,,,House
+,,"$148,000","11 Little Road,",EVA VALLEY,NT,0822,0,0,0,0,,,Vacant land
+,,$1.175M,"1090 Stewart Hwy,",BEES CREEK,NT,0822,5,3,15,5.06ha,,,House
+,,"$1,095,000","50 Caldwell Road,",MCMINNS LAGOON,NT,0822,4,3,8,0,SOLD,"Picture of 50 Caldwell Road, MCMINNS LAGOON NT 0822",House
+,,"$1,000,000","180 Lovelock Road,",BEES CREEK,NT,0822,4,2,6,0,SOLD,"Picture of 180 Lovelock Road, BEES CREEK NT 0822",House
+,,"$145,000","2 Kersley Street,",SOUTHPORT,NT,0822,1,1,1,"2,023m²",SOLD,"Picture of 2 Kersley Street, SOUTHPORT NT 0822",House

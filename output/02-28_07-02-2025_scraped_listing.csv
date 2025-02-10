@@ -1,0 +1,16 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Frederico Fraga-Matos,BresicWhitney Inner West,"Guide $925,000","32/1-7 Railway Avenue,",STANMORE,NSW,2048,2,2,1,0,NEW,"Picture of 32/1-7 Railway Avenue, STANMORE NSW 2048",Apartment / Unit / Flat
+Blake Lowry,BresicWhitney Inner West,"Guide $1,650,000","2 Harrow Road,",STANMORE,NSW,2048,3,1,0,158m²,NEW,"Picture of 2 Harrow Road, STANMORE NSW 2048",House
+Joshua Kaoutal,Ray White Erskineville | Alexandria | Glebe | Surry Hills,Auction,"48 Macaulay Road,",STANMORE,NSW,2048,3,1,1,221m²,,Joshua Kaoutal,House
+Shad Hassen,The Agency,Contact Agent,"135 Stanmore Road,",STANMORE,NSW,2048,2,1,1,145m²,,Shad Hassen,House
+Jonathan Hammond,CobdenHayson Annandale,Contact Agent,"217 Trafalgar Street,",STANMORE,NSW,2048,3,1,0,215m²,,Jonathan Hammond,House
+Simone Azzi,Belle Property Annandale,Auction Contact Agent,"215 Corunna Road,",STANMORE,NSW,2048,2,1,0,183m²,,Simone Azzi,House
+Nick Aster,Ray White Erskineville | Alexandria | Glebe | Surry Hills,Auction,"2/69-71 Stanmore Road,",STANMORE,NSW,2048,2,1,1,0,,Nick Aster,Apartment / Unit / Flat
+Tina O'Connor,Ray White Annandale,Auction | Tina O'Connor,"55B Harrow Road,",STANMORE,NSW,2048,4,3,0,217m²,,Tina O'Connor,House
+Nicole Gerber,Gerber Properties,Contact Agent,"3/104 Douglas Street,",STANMORE,NSW,2048,1,1,0,47m²,,Nicole Gerber,Apartment / Unit / Flat
+,,Contact Agent. Inspect Saturday 10-10.30am,"14/65-71 Trafalgar Street,",STANMORE,NSW,2048,1,1,1,0,,Laing+Simmons Campsie,Apartment / Unit / Flat
+,,"For Sale $620,000 - $670,000","1/6 Aubrey Street,",STANMORE,NSW,2048,1,1,0,0,NEW,Richardson & Wrench Hurlstone Park,Apartment / Unit / Flat
+,,Onsite Auction,"16 Holt Street,",STANMORE,NSW,2048,18,0,0,531m²,,,Block of units
+,,"$1,625,000","5/2 Douglas Street,",STANMORE,NSW,2048,3,3,2,171m²,SOLD,"Picture of 5/2 Douglas Street, STANMORE NSW 2048",Townhouse
+,,"$1,750,000","52 Clarendon Road,",STANMORE,NSW,2048,3,2,1,246m²,SOLD,"Picture of 52 Clarendon Road, STANMORE NSW 2048",House
+,,"$1,770,000","19 Percival Road,",STANMORE,NSW,2048,3,1,1,221m²,SOLD,"Picture of 19 Percival Road, STANMORE NSW 2048",House

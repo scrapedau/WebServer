@@ -1,0 +1,6 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+,,Contact Agent,"120 Horsnell Road,",NOONAMAH,NT,0837,3,1,0,"80,937m²",,Litchfield Realty,House
+,,"$315,000","(Sec 6237 - SOLD) Se Elizabeth Valley Road,",NOONAMAH,NT,0837,0,0,0,0,,Piening Property Sales,Vacant land
+,,"$370,000","100 Weaver Road,",NOONAMAH,NT,0837,0,0,0,0,SOLD,"Picture of 100 Weaver Road, NOONAMAH NT 0837",Vacant land
+,,"$540,000","85 Horsnell Road,",NOONAMAH,NT,0837,5,4,8,0,SOLD,"Picture of 85 Horsnell Road, NOONAMAH NT 0837",House
+,,"$635,000","35 Whittaker Road,",NOONAMAH,NT,0837,4,2,6,0,SOLD,"Picture of 35 Whittaker Road, NOONAMAH NT 0837",House

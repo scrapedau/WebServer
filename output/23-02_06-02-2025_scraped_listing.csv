@@ -1,0 +1,10 @@
+agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
+Daniel Harris,,"Offers over $950,000 considered","170 Dichondra Road,",HOWARD SPRINGS,NT,0835,5,3,2,"20,800m²",UPDATED,Daniel Harris,House
+,,"$1,800,000","53 Jason Road,",HOWARD SPRINGS,NT,0835,5,3,7,"24,300m²",,Call2View Real Estate,House
+,,"Offers Over $1,000,000 will be considered","120 Aaaa Road,",HOWARD SPRINGS,NT,0835,6,4,6,"91,000m²",UPDATED,Real Estate Central Projects Pty Ltd,House
+,,"$1,250,000","150 Callistemon Road,",HOWARD SPRINGS,NT,0835,8,6,14,"20,300m²",UPDATED,Real Estate Central Projects Pty Ltd,House
+,,"$910,000 Expressions of Interest","45 Tobin Road,",HOWARD SPRINGS,NT,0835,0,0,0,0,,Sale by Home Owner,Acreage / Semi-rural
+,,"$500,000","36 Deborah Road,",HOWARD SPRINGS,NT,0835,0,0,0,0,,,Vacant land
+,,"$700,000","1 Avocet Place,",HOWARD SPRINGS,NT,0835,4,2,10,"5,220m²",SOLD,"Picture of 1 Avocet Place, HOWARD SPRINGS NT 0835",House
+,,"$550,000","65 Smyth Rd,",HOWARD SPRINGS,NT,0835,0,0,0,0,SOLD,"Picture of 65 Smyth Rd, HOWARD SPRINGS NT 0835",Rural
+,,"$745,000","100 Bronzewing Avenue,",HOWARD SPRINGS,NT,0835,3,2,2,2.5ha,SOLD,"Picture of 100 Bronzewing Avenue, HOWARD SPRINGS NT 0835",House
