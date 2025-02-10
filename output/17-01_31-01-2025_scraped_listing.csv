@@ -1,8 +1,0 @@
-agent_name,agency_name,price,address_line1,suburb,state,postcode,bedrooms,bathrooms,car_spaces,SQM,listing_card_tag,alt_image,property_type
-David Grant,David Grant Livestock Agency,"$8,000,000","125-291 GOORIANAWA ROAD,",MOUNT TENANDRA,NSW,2828,0,0,0,0,,"Picture of 125-291 GOORIANAWA ROAD, MOUNT TENANDRA NSW 2828",Rural
-,,"$175,000 to $190,000","47 Munnell Street,",GULARGAMBONE,NSW,2828,3,1,0,885m²,,"Picture of 47 Munnell Street, GULARGAMBONE NSW 2828",House
-,,"$2,600,000","1020 Bramble Rd,",WARRUMBUNGLE,NSW,2828,0,0,0,0,,"Picture of 1020 Bramble Rd, WARRUMBUNGLE NSW 2828",Acreage / Semi-rural
-,,"$320,000","29 Coonamble Street,",GULARGAMBONE,NSW,2828,4,2,4,"1,093m²",,,House
-,,"$95,000","6 Wilga Street,",GULARGAMBONE,NSW,2828,2,1,0,0,SOLD,"Picture of 6 Wilga Street, GULARGAMBONE NSW 2828",House
-,,"$95,000","3 Wilga Street,",GULARGAMBONE,NSW,2828,3,1,0,0,SOLD,"Picture of 3 Wilga Street, GULARGAMBONE NSW 2828",House
-,,"$85,000","32 Coonamble Street,",GULARGAMBONE,NSW,2828,3,1,1,0,SOLD,"Picture of 32 Coonamble Street, GULARGAMBONE NSW 2828",House
