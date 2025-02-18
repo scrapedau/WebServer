@@ -43,7 +43,7 @@ const pool = new Pool({
          SELECT * FROM listings
          WHERE market_type = $1
          AND ($2::INTEGER[] IS NULL OR postcode = ANY($2::INTEGER[]))
-         AND ($3::TEXT[] IS NULL OR suburb = ANY($3::TEXT[]))
+         AND ($3::TEXT[] IS NULL OR EXISTS (SELECT 1 FROM UNNEST($3::TEXT[]) AS s WHERE LOWER(suburb) = LOWER(s)))
          AND ($4::INTEGER IS NULL OR days_on_market >= $4::INTEGER)
          AND ($5::INTEGER IS NULL OR days_on_market <= $5::INTEGER)
          AND ($6::INTEGER IS NULL OR bedrooms >= $6::INTEGER)
