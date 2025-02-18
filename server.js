@@ -42,8 +42,8 @@ const pool = new Pool({
        const query = `
          SELECT * FROM listings
          WHERE market_type = $1
-         AND ($2::INTEGER IS NULL OR postcode = $2::INTEGER)
-         AND ($3::TEXT IS NULL OR suburb ILIKE $3::TEXT)
+         AND ($2::INTEGER[] IS NULL OR postcode = ANY($2::INTEGER[]))
+         AND ($3::TEXT[] IS NULL OR suburb = ANY($3::TEXT[]))
          AND ($4::INTEGER IS NULL OR days_on_market >= $4::INTEGER)
          AND ($5::INTEGER IS NULL OR days_on_market <= $5::INTEGER)
          AND ($6::INTEGER IS NULL OR bedrooms >= $6::INTEGER)
@@ -58,8 +58,12 @@ const pool = new Pool({
 
        const values = [
          marketType || null,
-         postcode ? parseInt(postcode) : null,
-         suburb || null,
+         postcode 
+            ? postcode.split(',').map(p => parseInt(p.trim(), 10))
+            : null,
+         suburb
+            ? suburb.split(',').map(s => s.trim())
+            : null,
          minDaysOnMarket ? parseInt(minDaysOnMarket) : null,
          maxDaysOnMarket ? parseInt(maxDaysOnMarket) : null,
          minBedrooms ? parseInt(minBedrooms) : null,
