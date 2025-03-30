@@ -112,6 +112,10 @@ async function generateCsv(data) {
       { id: 'alt_image', title: 'alt_image' },
       { id: 'agent_name', title: 'Agent Name' },
       { id: 'agency_name', title: 'Agency Name' },
+      {id: 'title', title: 'Title' },
+      {id: 'subtitle', title: 'Subtitle' },
+      {id: 'url', title: 'URL' },
+      {id: 'addressplussuburb', title: 'Full Address' },
     ],
   });
 
