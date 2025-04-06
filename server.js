@@ -126,16 +126,15 @@ async function generateCsv(data) {
 }
 
 // Function to send an email with the CSV attached
-async function sendEmail(toEmail, filePath) {
-  const transporter = nodemailer.createTransport({
-    host: 'smtp.gmail.com',
-    port: 587,
-    secure: false,
-    auth: {
-      user: 'scrapedau.reports@gmail.com',
-      pass: 'lhgp wsqc ifep otmi',
-    },
-  });
+const transporter = nodemailer.createTransport({
+  host: 'smtp.office365.com',
+  port: 587,
+  secure: false, // TLS will be used via STARTTLS
+  auth: {
+    user: 'sales@scraped.au', // Replace with your Office 365 email
+    pass: 'Arsenal003', // Use your password or App Password (preferred)
+  },
+});
 
   const mailOptions = {
     from: 'reports@scraped.au',
