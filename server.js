@@ -137,9 +137,9 @@ const transporter = nodemailer.createTransport({
 });
 
   const mailOptions = {
-    from: 'reports@scraped.au',
+    from: 'sales@scraped.au',
     to: toEmail,
-    subject: 'SCRAPED AU | LIVE MARKET REPORT',
+    subject: 'LIVE MARKET REPORT | SCRAPED AU',
     text: 'Please find your attached live market report from Scraped AU',
     attachments: [
       {
