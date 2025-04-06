@@ -125,37 +125,34 @@ async function generateCsv(data) {
   return filePath; // Return the unique file path
 }
 
-const nodemailer = require('nodemailer');
-const fs = require('fs');
-const path = require('path');
-
 // Function to send an email with the CSV attached
 async function sendEmail(toEmail, filePath) {
   const transporter = nodemailer.createTransport({
     host: 'smtp.gmail.com',
     port: 587,
-    secure: false, // TLS will be used via STARTTLS
+    secure: false,
     auth: {
-      user: 'dbark224@gmail.com', // Replace with your Gmail email
-      pass: 'Arsenal003', // Use your Gmail password or App Password (preferred)
+      user: 'scrapedau.reports@gmail.com',
+      pass: 'lhgp wsqc ifep otmi',
     },
   });
 
   const mailOptions = {
-    from: 'sales@scraped.au', // The 'from' address
-    to: toEmail, // The recipient's email
-    subject: 'LIVE MARKET REPORT | SCRAPED AU',
+    from: 'reports@scraped.au',
+    to: toEmail,
+    subject: 'SCRAPED AU | LIVE MARKET REPORT',
     text: 'Please find your attached live market report from Scraped AU',
     attachments: [
       {
         filename: path.basename(filePath), // Use only the file name in the email
-        path: filePath, // Full file path to the attachment
+        path: filePath, // The full file path
       },
     ],
   };
 
+  // Send the email
   try {
-    await transporter.sendMail(mailOptions); // Send the email
+    await transporter.sendMail(mailOptions);
     console.log('Email sent successfully to:', toEmail);
 
     // Delete the file after the email is sent
