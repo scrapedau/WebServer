@@ -127,12 +127,12 @@ async function generateCsv(data) {
 
 // Function to send an email with the CSV attached
 const transporter = nodemailer.createTransport({
-  host: 'smtp.office365.com',
+  host: 'smtp.gmail.com',
   port: 587,
   secure: false, // TLS will be used via STARTTLS
   auth: {
-    user: 'sales@scraped.au', // Replace with your Office 365 email
-    pass: 'Arsenal003', // Use your password or App Password (preferred)
+    user: 'dbark224@gmail.com', // Replace with your Gmail email
+    pass: 'Arsenal003', // Use your Gmail password or App Password (preferred)
   },
 });
 
