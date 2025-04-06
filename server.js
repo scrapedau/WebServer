@@ -132,13 +132,13 @@ async function sendEmail(toEmail, filePath) {
     port: 587,
     secure: false,
     auth: {
-      user: 'scrapedau.reports@gmail.com',
-      pass: 'lhgp wsqc ifep otmi',
+      user: 'marketreport.scraped@gmail.com',
+      pass: 'ehwe wkzu vswx hgsz',
     },
   });
 
   const mailOptions = {
-    from: 'reports@scraped.au',
+    from: 'sales@scraped.au',
     to: toEmail,
     subject: 'SCRAPED AU | LIVE MARKET REPORT',
     text: 'Please find your attached live market report from Scraped AU',
